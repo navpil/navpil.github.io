@@ -2,6 +2,6 @@
 layout: "default"
 ---
 <h1>{{page.title}}</h1>
-<i>{{post.date}}</i>
+<h4>{{post.date | date_to_string | date: "%Y-%b-%d"}}</h4>
 
 {{content}}
