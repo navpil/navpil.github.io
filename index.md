@@ -1,5 +1,7 @@
 # Навпіл-сайт
 
+Також мене можна знайти на [Medium](https://medium.com/@navpil), [Wordpress](https://navpil.wordpress.com/) та [Facebook](https://www.facebook.com/dmytro.polovynka).
+
 Ігри:
 
  - [З монетками]({% link games/coins.md %})
