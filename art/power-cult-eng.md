@@ -90,3 +90,118 @@ The following statements are typical of people infected with servility:
 Probably, this behavior is caused by learned helplessness. 
 It arises due to the inability to control one's life, as well as the relativity of rules. 
 
+### Autocracy and Tsarism
+
+Directly related to Servility. 
+Autocracy is the basis of the Russian style of government for more than four hundred years, or maybe longer. 
+In 1654 during negotiating the "Eternal Peace" between Ukraine and Russia 
+there was a conflict between Khmelnitsky (Ukrainian leader) and the Russian ambassadors 
+because the Moscow tsar was an autocrat and refused to swear an oath to anyone.
+Autocracy, or Tsarism - the russian form of autocracy, means a single person rules the state. 
+In essence, it is a form of absolute monarchy.
+
+It is believed that
+
+> tsar-father knows everything (царь-батюшка все знает)
+
+This is how the Russians think:
+
+> If tsar wants so, then it must be so. 
+> If no logical reasons are visible, then we do not know everything. 
+> The king is wise, you have to trust him.
+> 
+> If Putin decided to attack Ukraine, then he is a strategic genius. 
+> If he says that Ukraine itself wanted to attack Russia, then it is so. 
+> If there is no evidence of this - no problem, Putin definitely has such evidence.
+> Because he knows what is he doing.
+
+Autocracy together with Servility give rise to such phenomena as:
+ 
+ - Hard centralization (power vertical)
+ - Lack of dignity
+ - Suppression of personality
+ - Lack of initiative
+ 
+Regarding the last point, there is no initiative even in such things as playing sports. 
+It is intertwined with cynicism and alcoholism. 
+Because "it's better to drink vodka."
+
+Due to autocracy, authoritarianism and lack of initiative, the Russian army cannot be decentralized, as the Armed Forces of Ukraine are. 
+And the volunteer movement is impossible in Russia to the same extent, as in Ukraine. 
+The Maidans (collective name for Ukrainian revolutions of 2004 and 2013) is also impossible, 
+therefore Russians believe that the Maidans' participants in Ukraine were paid for.
+
+### Pride
+
+Russians look down on all the weaker ones. 
+
+Their pride can be mixed with condescension, as it once was towards Ukrainians.
+For instance Russians called Ukrainians _younger brothers_, and considered Ukrainians nice, but a bit stupid.
+
+Or their pride can be mixed with disdain, like towards the Americans.
+The often repeated quote of a pretty popular stand up comic Zadornov about Americans is
+
+> But they are stu-u-upid (да они же тупы-ы-ые)
+
+Anyway, since they have the second army in the world, they can despise all other weaker nations.
+They still can despise the USA, which has the first army in the world, because of the USA's love for such "weak" things as liberalism or democracy.
+
+The pride of Russia and Russians is manifested as follows:
+
+ - messianism (being a chosen nation, bringing "Russian peace" and "Russian culture" to the world)
+ - the Third Rome (in the order Rome-Constantinople-Moscow - popular idea that after Rome and Konstantinopol fell, Moscow is now as important as they were)
+ - chauvinism (russian form of nazism)
+ - phrases like "we are to be loved or feared"
+ - pride for Great Russia
+
+Regarding the last point. 
+If we analyze the anthem of Russia, there are no actions that the person can do except for "being proud", specifically in the chorus:
+
+> glory to the country, we are proud of you (славсья страна, мы гордимся тобой)
+
+Compare that to Ukrainian anthem:
+
+> ...And we too shall rule, brothers, in a free land of our own.   
+> We'll lay down our souls and bodies to attain our freedom,  
+> And we'll show that we, brothers, are of the Cossack nation!  
+
+Such passivity of the russian anthem singer is perfectly combined with the already mentioned autocracy and servitude.
+
+All this together leads to imperialism, since all the other nations, in the Russian opinion, are less worthy to have their own state. 
+Hence the dislike for Georgia, the Baltic countries, Ukraine, disdain for the Central Asian republics and the desire to restore the USSR.
+
+### Cruelty
+
+Cruelty is a direct result of the cult of strength, pride and contempt for the weak. 
+If the weaker one could not stand up for himself, then, from the point of view of the cult of power, he himself is to blame. 
+
+Pride and cynicism (discussed later) combine to produce a lack of compassion.
+
+This leads to such phenomena as:
+
+ - rape
+ - torture
+ - inflicting severe injuries
+
+The Russian military admitted that they
+
+> We kill civilians for fun (нам по приколу убивать цивильных)
+
+Another example of cruelty is the Russian book "Household" (Домострой) — a book on household management. 
+The man in this book was an absolute autocrat in his house. 
+And the book describes how to beat a woman so that she obeys. 
+This book could be called a relic of the Middle Ages, but nothing has changed in Russia.
+
+Russian sayings about cruelty follow:
+
+- He beats means he loves (бьет значит любит)
+- People wouldn't like you forcefully (насильно мил не будешь)
+
+Even though the second saying is true, it would not arise in the culture where people want others 
+to like them by using force.
+This resonates with Russian wish "to be loved or to be feared". 
+
+## Lies, lies, lies
+
+
+
