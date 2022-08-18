@@ -201,7 +201,175 @@ Even though the second saying is true, it would not arise in the culture where p
 to like them by using force.
 This resonates with Russian wish "to be loved or to be feared". 
 
+## Cynicism
+
+Stronger should be treated with servility and obedience. 
+Weaker should be treated with cruelty and disdain.
+What about equal? 
+They are neither stronger nor weaker, and it is not entirely clear how to treat them according to the Power Vertical. 
+
+In such relationships, indifference and cynicism prevail among Russians. 
+Russians are cynical not only with other equals, they are cynical with themselves.
+
+In less educated segments of the population, such a cynical attitude towards oneself and the environment develops into alcoholism. 
+After all, in the absence of initiative and other values, except for the cult of power, the only thing left is to abuse alcohol.
+
+Among intellectuals, such a cynicism becomes a specifically Russian postmodernism. 
+They reject all values and question everything, but they do it in a sophisticated manner. 
+This is what Russian liberals do. 
+They, for example, want to be above war, perceive it as some kind of misunderstanding, they have nothing to do with it, they are for peace. 
+And in general, according to them, war and politics are a dirty business, it is not yet clear who is right and who is guilty.
+
+Russians treat each other indifferently and cynically, they do not see value in each other. 
+That is why collectivity in Russia can only be forced. 
+All attempts to unite the team are seen as something foreign. 
+This leads to a lack of voluntary cooperation. 
+It is organically connected with authoritarianism, centralization and autocracy.
+
+There is a russian common saying to justify their cynicism:
+
+> It's not that we are bad, it's just that life is like that (не мы такие, жизнь такая)
+
+Other cynical quotes are:
+
+> Women will give birth to more of them (бабы еще нарожают)
+
+...as a refusal to protect the lives of military personnel.
+
+Or check out this Putin's answer when asked about what happened to Kursk submarine, where about 100 people died:
+
+> It drowned (она утонула)
+
+Russian cynicism would be incomplete without a mention of an almost fundamental Russian trait. 
+I'm talking about lying.
+
 ## Lies, lies, lies
 
+The built into humans reluctance to obey, along with the need to do so, leads to hypocrisy and lies.
+This is because one cannot openly tell what he thinks in an authoritarian society.
+Russians are used to tell one thing and think another.
+Russians are used to behave as they are supposed to, but do it with some inner reluctance.
+There was a common joke in a USSR:
 
+> They pretend that they pay us, and we pretend that we do the work
+
+Lying and pretending is a common trait in russian culture.
+
+### Self-contradiction
+
+This double thinking is so normal to Russians, that they don't even notice, when they contradict themselves in the same sentence.
+For instance here are roughly translated quotes from a great article in russian [Enter the darkness and find people there](https://meduza.io/feature/2022/04/24/voyti-vo-mrak-i-naschupat-v-nem-lyudey).
+I give some explanation in square quotes.
+
+> Everyone [on the West] is happy that they could make one nation* to fight against itself.
+> They simply wanted Russia to be weak.
+> We had no other choice [than to attack Ukraine].  
+> *_some russians consider Ukrainians and russians being one nation_
+
+> I have changed rubles to dollars today. 
+> Everything will be fine. 
+> Soon we will cut ourselves off the dollar and will live happily.
+
+> Young people are being pushed into all this – into fascism and into the belief that the war should not continue.
+
+> "We have a normal attitude towards Ukrainians, right?"
+> "_But you said that Ukrainians should be punished_"
+> "That's right! They should be punished!"
+
+> "Same as USA with its states, let us all be together: Ukraine, Chuvashia, but all together, fraternal peoples, like, roughly speaking, the USSR with the republics."
+> "_Don't you think that Ukraine is a sovereign state?_"
+> "I believe that Donetsk and Lugansk* are a sovereign state.
+> They have expressed their independence - so give them independence.
+> Why don't you give?!"  
+> *_Since 2014 occupied by russian forces, self-proclaimed DNR and LNR_
+
+### Russians lies
+
+Russians consider others to be just as cynical, so they don't think that lying is something bad, because in their opinion everyone lies
+
+For example, there is a whole new word "Ихтамнеты" (Ikhtamnety) - which roughly can be translated as They-aren't-theres (noun in plural).
+When russian soldiers occupied Crimea in 2014 they did it without russian identification signs.
+Russian government lied, when asked about russian soldiers in Crimea: "They are not there", их там нет in russian.
+So russian soldiers were called Polite People (вежливые люди), Green Humans (зеленые человечки) or They-aren't-there's (ихтамнеты).
+
+As for more modern examples, Russians officially say that Bucha massacre is a western fake.
+But in between themselves they are happy about the massacre and claim that 
+
+> We will make Bucha from Lviv to Kharkiv (сделаем Бучу от Львова до Харькова)
+
+...with Lviv and Kharkiv being large cities on the West and East of Ukraine.
+
+Modern russians try to deny the existence of the Molotov-Ribbentrop Pact.
+Or they rarely know about it.
+Second World War started in 1941 for them, because according to the Pact, there was a cooperation between nazis and commies.
+And russian government does not want to admit to that fact.
+
+The goals of "special war operation 2022" have changed several times:
+- Demilitarization and Denazification
+- Protection of the people of Donbass
+- So that NATO does not reach the borders
+- Protect poor Ukrainians from the Kyiv regime
+
+Apparently the goal is to simply destroy Ukraine, but they'd better lie about something than clearly admit that.
+
+By attacking Ukraine, russians say that they "liberate them" (мы их освобождаем).
+People in Ukraine react with dark humor on this phrase, like "russians liberated me from my leg" or 
+"russians liberated me from my flat".
+
+As for shelling of Ukrainian cities, russians say that 
+
+> Ukrainians bomb themselves, we only shoot at military targets
+
+...which is particularly unconvincing if to remember what happened to Mariupol, heavily shelled by russian armed forces.
+
+Russians bombed Odesa port the day after the signing of the grain export agreement.
+This demonstrates how much are the pieces of paper signed by Russia worth.
+
+The most famous paper signed by russia for Ukrainians is a Budapest Memorandum.
+For those who don't know - Ukraine gave all of the atomic weapons to russia.
+Russia (together with USA and UK) promised to protect Ukraine from any sovereignty violations.
+
+Russians claim that "Nazis are in power in Ukraine", although they cannot provide any evidence. 
+Even in the article ["What Russia should do with Ukraine"](https://en.wikipedia.org/wiki/What_Russia_Should_Do_with_Ukraine), which describes how the genocide of Ukrainians should proceed, they modestly write that:
+> The peculiarity of modern nazified Ukraine is in amorphousness and ambivalence, which allow Nazism to be disguised as a desire for “independence” and a “European” (Western, pro-American) path of “development” (in reality, to degradation), to assert that in Ukraine “there is no Nazism , only private individual excesses”. 
+> After all, there is no main Nazi party, no Fuhrer, no full-fledged racial laws (only their truncated version in the form of repressions against the Russian language). 
+> As a result, there is no opposition and resistance to the regime.
+
+Lavrov (russian minister of foreign affairs) famously said 
+
+> “But we didn’t attack Ukraine either”
+
+Their war slogans also appear to be lies:
+
+> We don't leave ours (своих не бросаем) - they proved it wrong many times during the 2022 war
+
+> Russia does not start wars, but ends them (Россия войны не начинает, она их заканчивает)
+
+Russians are so predictable in their lying that four stages of denying unpleasant facts can be distinguished:
+1. There were no explosions
+2. There were explosions, but it wasn't us
+3. It was us, but we hit military facilities
+4. We did not hit the military objects, but “Where were you for eight years while the Donbass was bombed?”
+
+Many times during Russian invasion into Ukraine russians went through the four above-mentioned stages.
+For instance Mariupol theatre.
+
+Russia is so soaked in lies that appearance is more important to it than reality. 
+Almost all areas of life are divided into sales and internal.
+- Russian athletes are cool, but Russians don't play sports
+- Russian artists are cool, but Russians most often drink vodka and don't care
+- Russian scientists may be cool, but Russian engineers cannot explain what a logarithm is
+
+The whole myth of Great Russian Culture is because they can sell what is cool, but they don't practice it themselves.
+How do you think - what percentage of russians actually like ballet and read Lev Tolstoy's "War and Peace"?
+
+I will complete this section with typical russian sayings:
+
+> Life is bad without a person to fool (без лоха и жизнь плоха)
+> You don't fool - you don't survive (не наебешь - не проживешь)
+> Who's not caught is not a thief (не пойман - не вор)
+
+My favourite one is "And you prove!" ("а вы докажите!").
+It is often used when caught lying, but the evidence is not enough. 
+Related to the saying "Who's not caught is not a thief".
 
