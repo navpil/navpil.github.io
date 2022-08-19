@@ -1,4 +1,4 @@
-# The cult of power: the Russian paradigm
+# The Cult of Power: the Russian paradigm
 
 _Explanation of the hypocrisy, lies, cruelty, pride and other features inherent in the Russian culture by the Cult of Power, as the main paradigm of Russia._
 
@@ -16,10 +16,12 @@ There are obvious direct examples of this cult.
 
 It’s not a coincidence that the symbol of Russia is a bear - the strongest predatory animal of the northern forests.
 
-War is an important part of the cult of power. 
+War is an important part of the Cult of Power. 
 Everything related to the army is adored. 
 Russia sacralises the Second World War, and  instead of the European "never again", they "can do it again". 
 They also call it differently - “Great Fatherland War” and start counting only since 1941, because otherwise they would have to accept Nazi-Soviet collaboration since 1939, which they are not willing to accept.
+Patriotism in russia is about being military stronger than any other nation, 
+so that others are afraid of them ("чтоб боялись").
 
 Characteristic statements and memes:
 
@@ -41,7 +43,7 @@ A common russian saying as a wrap up:
 ### Reverse examples
 
 Of course, if Russians love force, there are things they despise. 
-This is the other, reverse side of the cult of power.
+This is the other, reverse side of the Cult of Power.
 
 They feel contempt for democracy. 
 After all, autocracy is better for them, which will be discussed later
@@ -59,7 +61,7 @@ For some reason, this issue is so important to them that even Patriarch Kirill i
 “Gay propaganda” is officially forbidden in Russia. 
 Such fanatical homophobia is mistakenly perceived by Russians for love for traditional values.
 
-In addition to direct and reverse examples, there are other manifestations of the cult of power. 
+In addition to direct and reverse examples, there are other manifestations of the Cult of Power. 
 This includes the attitude towards other people or nations, in particular:
 
 - Servility to the ones who are stronger
@@ -173,7 +175,7 @@ Hence the dislike for Georgia, the Baltic countries, Ukraine, disdain for the Ce
 ### Cruelty
 
 Cruelty is a direct result of the cult of strength, pride and contempt for the weak. 
-If the weaker one could not stand up for himself, then, from the point of view of the cult of power, he himself is to blame. 
+If the weaker one could not stand up for himself, then, from the point of view of the Cult of Power, he himself is to blame. 
 
 Pride and cynicism (discussed later) combine to produce a lack of compassion.
 
@@ -212,7 +214,7 @@ In such relationships, indifference and cynicism prevail among Russians.
 Russians are cynical not only with other equals, they are cynical with themselves.
 
 In less educated segments of the population, such a cynical attitude towards oneself and the environment develops into alcoholism. 
-After all, in the absence of initiative and other values, except for the cult of power, the only thing left is to abuse alcohol.
+After all, in the absence of initiative and other values, except for the Cult of Power, the only thing left is to abuse alcohol.
 
 Among intellectuals, such a cynicism becomes a specifically Russian postmodernism. 
 They reject all values and question everything, but they do it in a sophisticated manner. 
@@ -254,6 +256,9 @@ There was a common joke in a USSR:
 > They pretend that they pay us, and we pretend that we do the work
 
 Lying and pretending is a common trait in russian culture.
+Lying to the servants is in line with the Cult of Power.
+Lying to authorities is predictable.
+Lying to each other is thus inevitable.
 
 ### Self-contradiction
 
@@ -370,6 +375,149 @@ I will complete this section with typical russian sayings:
 > Who's not caught is not a thief (не пойман - не вор)
 
 My favourite one is "And you prove!" ("а вы докажите!").
-It is often used when caught lying, but the evidence is not enough. 
+It is often used when caught lying, but the evidence is not enough to prove it.
+This sentence "And you prove!" usually means that some russians are lurking behind. 
 Related to the saying "Who's not caught is not a thief".
 
+## Side effects
+
+There are some side effects of the Cult of Power, which are not directly related to the relations between strong an weak.
+These are: poverty, love for criminal world and the child neglect. 
+
+### Poverty
+
+Cynicism, lack of initiative, disdain for the weak, defenselessness in front of the strong give rise to the poverty in which Russians live. 
+Poverty in the both material and spiritual meanings:
+
+ - dirt
+ - looting (as russian soldiers showed during the 2022 invasion)
+ - laziness and indifference
+ - alcoholism
+ - moral nihilism
+ - swear words (they don't swear like that, they talk like that, "они не матюкаются, они так разговаривают")
+ - hopelessness
+
+Since Russians consider themselves very spiritual, they are forced to interpret their poverty as a manifestation of this spirituality. 
+But since people in the West do not live poorly, they are, accordingly, interpreted as soulless ("бездуховный запад").
+
+Russian poverty is very well described in a popular Russian rock song (ДДТ - Родина):
+
+> Homeland, I return to homeland (Родина, еду я на родину)  
+> They say it's ugly/freak (Говорят уродина)  
+> But we like it (А она нам нравится)  
+> Even though it's not beautiful (Хоть и не красавица)
+
+"My homeland is a freak, but I like it" is rooted in the Russian patriotism. 
+They know how terrible their country is, but they love it. 
+And no amount of facts like Bucha (where they raped and killed hundreds of innocent people), 
+Mariupol (which they shelled and almost entirely destroyed), 
+or of internal repressions will change that. 
+And they are proud of such patriotism. 
+
+Yezhov (Ежов - one of the main conductor of Red Terror in 1930s) is said to have shouted "Glory to Stalin!" when he was shot on Stalin's orders. 
+A Russian will love his native Russia, even if she mutilates and robs him. 
+And if russia mutilates and robs others, then this is especially not a problem. 
+She is "freak, but we like her".
+
+As russian say themselves:
+
+> It is easy to love a mother if she is clean and sober.
+> But true love is when you love her drunk, naked, lying in a ditch.
+
+This is a quote from Surkov (Сурков), one of the prominent russian politicians, who was responsible for introducing "Russian world" in geopolitics.
+
+> It is in each of us.
+> When I was very young, I remember sitting in the yard at school, the men smoke, they talk.
+> And I look at the fence - it leaned to the side.
+> And it never occurs to any of us to approach it and straighten it up.
+> Then I thought - why?
+> Because we're looking over the fence, we're always a little out of here.
+> We always look somewhere into the distance, this is a property of the Russian character, farsightedness.
+> We, having not fully settled in some territory, want to take something else.
+> It led us into space at a time when half of the population lived in our barracks and there was no sewage system.
+> This is a property of the Russian character, this is the genotype, it is indestructible.
+> It's not good, it's not bad, it's just how it is.
+> I'm not saying that fences should not be fixed, of course, but for us this is never the main thing, as for some person in some cozy country in Europe, who just looks at the fence.
+> And he waters his front garden, he lives in it.
+> We are different.
+
+Russians fully understand that their country is despicable, so they try to find excuses, such as:
+
+ - but everyone is afraid of us, nuclear missiles...
+ - but Dostoevsky, Tolstoy...
+ - but we have a special spirituality...
+ - but the others are no better...
+
+Nevertheless, Russians even wear T-shirts, or stick stickers with the inscription on their cars with the words:
+
+> We are not ashamed (нам не стыдно)
+
+Only a person who understands that she should be ashamed will wear such a T-shirt. 
+If a person is a citizen of a normal state, it would not even occur to him to buy a T-shirt with such wording.
+
+### Love of crime
+
+The Cult of Power is characteristic of criminals. 
+It is not surprising that crime is loved in Russia. 
+This is the love of criminal songs and criminal culture.
+Criminals are romantisized - poems of Yesenin (Есенин), famous russian poet, are a good example of that. 
+Articles about "thieves gatherings" (воровские сходки) and who was "crowned" (коронован) there are of a frequent occurrence on serious websites, such as lenta.ru.
+
+I will quote an article from russian opposition news website meduza.io [Why is the Russian army committing all these atrocities](https://meduza.io/feature/2022/06/05/terror-mirnogo-naseleniya-v-ukraine-stal-nastoyaschim-shokom-pochemu-rossiyskaya-armiya-sovershaet-vse-eti-zverstva) 
+
+> Having legalized themselves in the authorities, the former bandits brought their life philosophy with them into the public sphere: cynicism, the Cult of Power, greed, the conviction that everyone around is corrupt, and a readiness for violence.
+> 
+> Outwardly criminal culture has a collectivist character. 
+> But at its core, it is very individualistic, because it rejects notions of innate equality and horizontal solidarity. 
+> It does not teach empathy and trust (“Don't believe, don't be afraid, don't ask”), and at the grassroots level is permeated with a sense of dependency and powerlessness.
+> 
+> Often the criminal culture opposes itself to the “normative” culture as more real, sincere. 
+> Allegedly, it is based on genuine justice, and not on a soulless law and artificial rules.
+> 
+> Lack of interest in the other as different, denial of equality and boundaries of property and personality, understanding of any differences hierarchically (weaker / stronger, poorer / richer, lower status / higher status) - all this in conditions of prolonged lack of freedom and social disunity gives rise to aggression and envy at the level of the entire society
+> In the conditions of degradation of institutions, authorities and values, society loses its moral guidelines and the ability for complex reflection. 
+> It begins to perceive cynicism, commercialism and selfishness as the standard. 
+> 
+> Such a society paradoxically combines feelings of narcissism and humiliation, indifference to another and a desire to achieve justice and respect for oneself from this other.
+
+### Child neglect
+
+Children are weak and parents are strong.
+How should parents behave towards kids in the Cult of Power society?
+You probably have already guessed it.
+
+Children are not really valued in russia.
+It is very common to treat them with disrespect.
+Kids should simply obey.
+Initiative is punishable (инициатива наказуема).
+Children should become "small people" (маленькие люди) - be silent, without their own opinion.
+Because it's parents who should be "big" in the parent/child relations.
+But these same parents are "small" in relation to government.
+
+I don't live in russia, so I can't say that I saw this neglect by my own eyes.
+But what I see is that soviet culture (which was predominantly russian in its nature)
+produced this kind of disrespectful treatment of children, which can be seen even in some soviet fairy tales.
+And what I also saw was how captured russian soldiers talked to their mothers by phone.
+It looked miserable and very in line with what I described.
+Parents are not too sad that their kids die on war, because they get lots of money for their death, so that they can even buy a white Lada (russian car).
+And especially fathers are fine with that because of already mentioned "Women will give birth to more of them (бабы еще нарожают)".
+
+## Conclusions
+
+This is my second attempt to understand Russians. 
+The first was the article "Russian World" ([Русский мир](https://medium.com/@navpil/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B8%D1%80-c24b98efaa15)), which, however, was more of an appeal to Russians.
+In my opinion, the Cult of Power very well explains many features of Russian culture and politics, such as:
+ 
+ - Contempt for liberals
+ - Cynicism
+ - Pride
+ - Autocracy
+ - Lie
+ - Poverty ...and others.
+
+All these phenomena, nevertheless, are very closely related.
+It is not yet clear what gave rise to what. 
+For example, it can be considered that the cornerstone of the Cult of Power was precisely the half-thousand-year history of autocracy, and not the other way around, as I described it. 
+But this autocracy in itself does not explain contempt for other nations. 
+Probably, the choice of the Cult of Power as the basis of the Russian paradigm is not entirely ideologically correct. 
+But when I tried to structure all the information about the peculiarities of Russian culture, it was precisely the Cult of Power that was able to explain all the phenomena.
