@@ -54,7 +54,7 @@ They call liberals "либерасты" - liberaste, which is a pun on words “
 They also dislike intelligence, which is usually associated with the weaker.
 In Soviet Union according to a doctrine there should have been only two castes: workers and peasants (hence the Hammer and Sickle), intellectuals were considered a mere interlayer. 
 Lev Tolstoy made fun of people who work with their head in his famous Fairy Tale About Fools. 
-Intelligent people were often derogatory called “small shitty intelligent people” интелигентишка сраній or “bespectacled” - очкарик.
+Intelligent people were often derogatory called “small shitty intelligent people” интелигентишка сраный or “bespectacled” - очкарик.
 
 As is customary in societies that worship power, Russia also has a special dislike for sexual minorities. 
 For some reason, this issue is so important to them that even Patriarch Kirill in his sermon on March 6, 2022, on Forgiven Sunday, chose the gay parade as the main topic of conversation. 
