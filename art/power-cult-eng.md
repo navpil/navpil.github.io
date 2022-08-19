@@ -381,8 +381,8 @@ Related to the saying "Who's not caught is not a thief".
 
 ## Side effects
 
-There are some side effects of the Cult of Power, which are not directly related to the relations between strong an weak.
-These are: poverty, love for criminal world and the child neglect. 
+There are some side effects of the Cult of Power, which are not directly related to the relations between strong and weak.
+These are: poverty, lawlessness, love for criminal world and the child neglect. 
 
 ### Poverty
 
@@ -479,6 +479,34 @@ I will quote an article from russian opposition news website meduza.io [Why is t
 > It begins to perceive cynicism, commercialism and selfishness as the standard. 
 > 
 > Such a society paradoxically combines feelings of narcissism and humiliation, indifference to another and a desire to achieve justice and respect for oneself from this other.
+
+### Lawlessness
+
+In Russian - беспредел, which is actually translated as "No Limits (to what I am allowed to do)". 
+It logically follows from the Cult of Power, but it must be mentioned for the completeness of the picture.
+
+Since strong is right, laws have only relative value. 
+Not everyone is equal before the law - this applies not only to Russia, but in Russia it has a systemic nature precisely because of the Cult of Power. 
+Opposing the "powers of this world" can have rather unpleasant consequences. 
+Examples are public condemnations of people in Chechnya who oppose Ramzan Kadyrov (current head of Chechnya).
+
+If the conflict between the Cult of Power and the law becomes too strong, then the laws are changed. 
+In Russia, for example, the law allows only single-person protests (lone pickets - одиночные протесты). 
+More people cannot gather for a protest, so there is no freedom of assembly.
+
+Since the laws are not followed and the right of the strong prevails, the entire attempt to copy the democratic system in Russia can be called a "cargo cult". 
+Indeed, there are institutions, there are courts and parliament, there are three branches of government. 
+There is a constitution and laws. 
+But in fact, they all work for one autocrat to hold the Power Vertical. 
+However, recently the Russians started to deny the democracy and to declare their own special way
+believing that the "Collective West" is declining (загнивает).
+According to russians one of the reason "The West" is declining is its form of democracy.
+
+An example of arbitrariness at the highest level is the presidency of Putin himself. 
+According to the Russian constitution, a person has no right to be president for more than two terms. 
+Accordingly, Putin did not go for the third term, but he became a prime minister, maintaining control over affairs in the state. 
+After that, he went for a third term, interpreting the constitution in the special way - that one cannot serve more than two terms _in a row_, and not in general. 
+During his third presidency, the constitution was amended to remove this inconvenient term count problem.
 
 ### Child neglect
 
