@@ -1,4 +1,4 @@
-# The Cult of Power: the Russian paradigm
+# The Cult of Power: the Russian Paradigm
 
 _Explanation of the hypocrisy, lies, cruelty, pride and other features inherent in the Russian culture by the Cult of Power, as the main paradigm of Russia._
 
@@ -20,7 +20,7 @@ War is an important part of the Cult of Power.
 Everything related to the army is adored. 
 Russia sacralises the Second World War, and  instead of the European "never again", they "can do it again". 
 They also call it differently - “Great Fatherland War” and start counting only since 1941, because otherwise they would have to accept Nazi-Soviet collaboration since 1939, which they are not willing to accept.
-Patriotism in russia is about being military stronger than any other nation, 
+Patriotism in Russia is about being military stronger than any other nation, 
 so that others are afraid of them ("чтоб боялись").
 
 Characteristic statements and memes:
@@ -36,7 +36,7 @@ From them you can hear a phrase like:
 > We have nuclear weapons, you don't want to provoke a country with nuclear weapons.
 > Or maybe a third world war will begin
 
-A common russian saying as a wrap up: 
+A common Russian saying as a wrap up: 
 
 > You can’t really fight against a crowbar (Против лома нет приема)
 
@@ -72,7 +72,7 @@ These and other topics will be discussed later.
 
 ## Power Vertical
 
-"Power Vertical" is an often heard slogan of modern russian politics.
+"Power Vertical" is an often heard slogan of modern Russian politics.
 This implies a "strong hand" which rules the ones who should obey.
 Next the relations between the weaker and the stronger are explained.  
 
@@ -99,7 +99,7 @@ Autocracy is the basis of the Russian style of government for more than four hun
 In 1654 during negotiating the "Eternal Peace" between Ukraine and Russia 
 there was a conflict between Khmelnitsky (Ukrainian leader) and the Russian ambassadors 
 because the Moscow tsar was an autocrat and refused to swear an oath to anyone.
-Autocracy, or Tsarism - the russian form of autocracy, means a single person rules the state. 
+Autocracy, or Tsarism - the Russian form of autocracy, means a single person rules the state. 
 In essence, it is a form of absolute monarchy.
 
 It is believed that
@@ -130,7 +130,7 @@ Because "it's better to drink vodka."
 
 Due to autocracy, authoritarianism and lack of initiative, the Russian army cannot be decentralized, as the Armed Forces of Ukraine are. 
 And the volunteer movement is impossible in Russia to the same extent, as in Ukraine. 
-The Maidans (collective name for Ukrainian revolutions of 2004 and 2013) is also impossible, 
+The Maidans (collective name for Ukrainian revolutions of 2004 and 2013) are also impossible, 
 therefore Russians believe that the Maidans' participants in Ukraine were paid for.
 
 ### Pride
@@ -152,7 +152,7 @@ The pride of Russia and Russians is manifested as follows:
 
  - messianism (being a chosen nation, bringing "Russian peace" and "Russian culture" to the world)
  - the Third Rome (in the order Rome-Constantinople-Moscow - popular idea that after Rome and Konstantinopol fell, Moscow is now as important as they were)
- - chauvinism (russian form of nazism)
+ - chauvinism (Russian form of nazism)
  - phrases like "we are to be loved or feared"
  - pride for Great Russia
 
@@ -167,7 +167,7 @@ Compare that to Ukrainian anthem:
 > We'll lay down our souls and bodies to attain our freedom,  
 > And we'll show that we, brothers, are of the Cossack nation!  
 
-Such passivity of the russian anthem singer is perfectly combined with the already mentioned autocracy and servitude.
+Such passivity of the Russian anthem singer is perfectly combined with the already mentioned autocracy and servitude.
 
 All this together leads to imperialism, since all the other nations, in the Russian opinion, are less worthy to have their own state. 
 Hence the dislike for Georgia, the Baltic countries, Ukraine, disdain for the Central Asian republics and the desire to restore the USSR.
@@ -224,11 +224,11 @@ And in general, according to them, war and politics are a dirty business, it is 
 
 Russians treat each other indifferently and cynically, they do not see value in each other. 
 That is why collectivity in Russia can only be forced. 
-All attempts to unite the team are seen as something foreign. 
+All attempts to unite the team are seen as something alien. 
 This leads to a lack of voluntary cooperation. 
 It is organically connected with authoritarianism, centralization and autocracy.
 
-There is a russian common saying to justify their cynicism:
+There is a Russian common saying to justify their cynicism:
 
 > It's not that we are bad, it's just that life is like that (не мы такие, жизнь такая)
 
@@ -255,7 +255,7 @@ There was a common joke in a USSR:
 
 > They pretend that they pay us, and we pretend that we do the work
 
-Lying and pretending is a common trait in russian culture.
+Lying and pretending is a common trait in Russian culture.
 Lying to the servants is in line with the Cult of Power.
 Lying to authorities is predictable.
 Lying to each other is thus inevitable.
@@ -263,13 +263,13 @@ Lying to each other is thus inevitable.
 ### Self-contradiction
 
 This double thinking is so normal to Russians, that they don't even notice, when they contradict themselves in the same sentence.
-For instance here are roughly translated quotes from a great article in russian [Enter the darkness and find people there](https://meduza.io/feature/2022/04/24/voyti-vo-mrak-i-naschupat-v-nem-lyudey).
+For instance here are roughly translated quotes from a great article in Russian [Enter the darkness and find people there](https://meduza.io/feature/2022/04/24/voyti-vo-mrak-i-naschupat-v-nem-lyudey).
 I give some explanation in square quotes.
 
 > Everyone [on the West] is happy that they could make one nation* to fight against itself.
 > They simply wanted Russia to be weak.
 > We had no other choice [than to attack Ukraine].  
-> *_some russians consider Ukrainians and russians being one nation_
+> *_some Russians consider Ukrainians and Russians being one nation_
 
 > I have changed rubles to dollars today. 
 > Everything will be fine. 
@@ -286,16 +286,16 @@ I give some explanation in square quotes.
 > "I believe that Donetsk and Lugansk* are a sovereign state.
 > They have expressed their independence - so give them independence.
 > Why don't you give?!"  
-> *_Since 2014 occupied by russian forces, self-proclaimed DNR and LNR_
+> *_Since 2014 occupied by Russian forces, self-proclaimed DNR and LNR_
 
 ### Russians lies
 
 Russians consider others to be just as cynical, so they don't think that lying is something bad, because in their opinion everyone lies
 
 For example, there is a whole new word "Ихтамнеты" (Ikhtamnety) - which roughly can be translated as They-aren't-theres (noun in plural).
-When russian soldiers occupied Crimea in 2014 they did it without russian identification signs.
-Russian government lied, when asked about russian soldiers in Crimea: "They are not there", их там нет in russian.
-So russian soldiers were called Polite People (вежливые люди), Green Humans (зеленые человечки) or They-aren't-there's (ихтамнеты).
+When Russian soldiers occupied Crimea in 2014 they did it without Russian identification signs.
+Russian government lied, when asked about Russian soldiers in Crimea: "They are not there", их там нет in Russian.
+So Russian soldiers were called Polite People (вежливые люди), Green Humans (зеленые человечки) or They-aren't-there's (ихтамнеты).
 
 As for more modern examples, Russians officially say that Bucha massacre is a western fake.
 But in between themselves they are happy about the massacre and claim that 
@@ -304,10 +304,10 @@ But in between themselves they are happy about the massacre and claim that
 
 ...with Lviv and Kharkiv being large cities on the West and East of Ukraine.
 
-Modern russians try to deny the existence of the Molotov-Ribbentrop Pact.
+Modern Russians try to deny the existence of the Molotov-Ribbentrop Pact.
 Or they rarely know about it.
 Second World War started in 1941 for them, because according to the Pact, there was a cooperation between nazis and commies.
-And russian government does not want to admit to that fact.
+And Russian government does not want to admit to that fact.
 
 The goals of "special war operation 2022" have changed several times:
 - Demilitarization and Denazification
@@ -317,21 +317,21 @@ The goals of "special war operation 2022" have changed several times:
 
 Apparently the goal is to simply destroy Ukraine, but they'd better lie about something than clearly admit that.
 
-By attacking Ukraine, russians say that they "liberate them" (мы их освобождаем).
-People in Ukraine react with dark humor on this phrase, like "russians liberated me from my leg" or 
-"russians liberated me from my flat".
+By attacking Ukraine, Russians say that they "liberate them" (мы их освобождаем).
+People in Ukraine react with dark humor on this phrase, like "Russians liberated me from my leg" or 
+"Russians liberated me from my flat".
 
-As for shelling of Ukrainian cities, russians say that 
+As for shelling of Ukrainian cities, Russians say that 
 
 > Ukrainians bomb themselves, we only shoot at military targets
 
-...which is particularly unconvincing if to remember what happened to Mariupol, heavily shelled by russian armed forces.
+...which is particularly unconvincing if to remember what happened to Mariupol, heavily shelled by Russian armed forces.
 
 Russians bombed Odesa port the day after the signing of the grain export agreement.
 This demonstrates how much are the pieces of paper signed by Russia worth.
 
-The most famous paper signed by russia for Ukrainians is a Budapest Memorandum.
-For those who don't know - Ukraine gave all of the atomic weapons to russia.
+The most famous paper signed by Russia for Ukrainians is a Budapest Memorandum.
+For those who don't know - Ukraine gave all of the atomic weapons to Russia.
 Russia (together with USA and UK) promised to protect Ukraine from any sovereignty violations.
 
 Russians claim that "Nazis are in power in Ukraine", although they cannot provide any evidence. 
@@ -340,7 +340,7 @@ Even in the article ["What Russia should do with Ukraine"](https://en.wikipedia.
 > After all, there is no main Nazi party, no Fuhrer, no full-fledged racial laws (only their truncated version in the form of repressions against the Russian language). 
 > As a result, there is no opposition and resistance to the regime.
 
-Lavrov (russian minister of foreign affairs) famously said 
+Lavrov (Russian minister of foreign affairs) famously said 
 
 > “But we didn’t attack Ukraine either”
 
@@ -356,19 +356,19 @@ Russians are so predictable in their lying that four stages of denying unpleasan
 3. It was us, but we hit military facilities
 4. We did not hit the military objects, but “Where were you for eight years while the Donbass was bombed?”
 
-Many times during Russian invasion into Ukraine russians went through the four above-mentioned stages.
+Many times during Russian invasion into Ukraine Russians went through the four above-mentioned stages.
 For instance Mariupol theatre.
 
 Russia is so soaked in lies that appearance is more important to it than reality. 
 Almost all areas of life are divided into sales and internal.
-- Russian athletes are cool, but Russians don't play sports
-- Russian artists are cool, but Russians most often drink vodka and don't care
+- Russian athletes are cool, but the Russians don't play sports
+- Russian artists are cool, but the Russians most often drink vodka and don't care
 - Russian scientists may be cool, but Russian engineers cannot explain what a logarithm is
 
 The whole myth of Great Russian Culture is because they can sell what is cool, but they don't practice it themselves.
-How do you think - what percentage of russians actually like ballet and read Lev Tolstoy's "War and Peace"?
+How do you think - what percentage of Russians actually like ballet and read Lev Tolstoy's "War and Peace"?
 
-I will complete this section with typical russian sayings:
+I will complete this section with typical Russian sayings:
 
 > Life is bad without a person to fool (без лоха и жизнь плоха)
 > You don't fool - you don't survive (не наебешь - не проживешь)
@@ -376,7 +376,7 @@ I will complete this section with typical russian sayings:
 
 My favourite one is "And you prove!" ("а вы докажите!").
 It is often used when caught lying, but the evidence is not enough to prove it.
-This sentence "And you prove!" usually means that some russians are lurking behind. 
+This sentence "And you prove!" usually means that some Russians are lurking behind. 
 Related to the saying "Who's not caught is not a thief".
 
 ## Side effects
@@ -390,7 +390,7 @@ Cynicism, lack of initiative, disdain for the weak, defenselessness in front of 
 Poverty in the both material and spiritual meanings:
 
  - dirt
- - looting (as russian soldiers showed during the 2022 invasion)
+ - looting (as Russian soldiers showed during the 2022 invasion)
  - laziness and indifference
  - alcoholism
  - moral nihilism
@@ -416,15 +416,15 @@ And they are proud of such patriotism.
 
 Yezhov (Ежов - one of the main conductor of Red Terror in 1930s) is said to have shouted "Glory to Stalin!" when he was shot on Stalin's orders. 
 A Russian will love his native Russia, even if she mutilates and robs him. 
-And if russia mutilates and robs others, then this is especially not a problem. 
+And if Russia mutilates and robs others, then this is especially not a problem. 
 She is "freak, but we like her".
 
-As russian say themselves:
+As Russian say themselves:
 
 > It is easy to love a mother if she is clean and sober.
 > But true love is when you love her drunk, naked, lying in a ditch.
 
-This is a quote from Surkov (Сурков), one of the prominent russian politicians, who was responsible for introducing "Russian world" in geopolitics.
+This is a quote from Surkov (Сурков), one of the prominent Russian politicians, who was responsible for introducing "Russian world" in geopolitics.
 
 > It is in each of us.
 > When I was very young, I remember sitting in the yard at school, the men smoke, they talk.
@@ -460,10 +460,10 @@ If a person is a citizen of a normal state, it would not even occur to him to bu
 The Cult of Power is characteristic of criminals. 
 It is not surprising that crime is loved in Russia. 
 This is the love of criminal songs and criminal culture.
-Criminals are romantisized - poems of Yesenin (Есенин), famous russian poet, are a good example of that. 
+Criminals are romantisized - poems of Yesenin (Есенин), famous Russian poet, are a good example of that. 
 Articles about "thieves gatherings" (воровские сходки) and who was "crowned" (коронован) there are of a frequent occurrence on serious websites, such as lenta.ru.
 
-I will quote an article from russian opposition news website meduza.io [Why is the Russian army committing all these atrocities](https://meduza.io/feature/2022/06/05/terror-mirnogo-naseleniya-v-ukraine-stal-nastoyaschim-shokom-pochemu-rossiyskaya-armiya-sovershaet-vse-eti-zverstva) 
+I will quote an article from Russian opposition news website meduza.io [Why is the Russian army committing all these atrocities](https://meduza.io/feature/2022/06/05/terror-mirnogo-naseleniya-v-ukraine-stal-nastoyaschim-shokom-pochemu-rossiyskaya-armiya-sovershaet-vse-eti-zverstva) 
 
 > Having legalized themselves in the authorities, the former bandits brought their life philosophy with them into the public sphere: cynicism, the Cult of Power, greed, the conviction that everyone around is corrupt, and a readiness for violence.
 > 
@@ -500,7 +500,7 @@ There is a constitution and laws.
 But in fact, they all work for one autocrat to hold the Power Vertical. 
 However, recently the Russians started to deny the democracy and to declare their own special way
 believing that the "Collective West" is declining (загнивает).
-According to russians one of the reason "The West" is declining is its form of democracy.
+According to Russians one of the reason "The West" is declining is its form of democracy.
 
 An example of arbitrariness at the highest level is the presidency of Putin himself. 
 According to the Russian constitution, a person has no right to be president for more than two terms. 
@@ -514,20 +514,21 @@ Children are weak and parents are strong.
 How should parents behave towards kids in the Cult of Power society?
 You probably have already guessed it.
 
-Children are not really valued in russia.
+Children are not really valued in Russia.
 It is very common to treat them with disrespect.
 Kids should simply obey.
 Initiative is punishable (инициатива наказуема).
 Children should become "small people" (маленькие люди) - be silent, without their own opinion.
 Because it's parents who should be "big" in the parent/child relations.
 But these same parents are "small" in relation to government.
+Maybe this way they prepare their kids to be "small".
 
-I don't live in russia, so I can't say that I saw this neglect by my own eyes.
-But what I see is that soviet culture (which was predominantly russian in its nature)
+I don't live in Russia, so I can't say that I saw this neglect by my own eyes.
+But what I see is that soviet culture (which was predominantly Russian in its nature)
 produced this kind of disrespectful treatment of children, which can be seen even in some soviet fairy tales.
-And what I also saw was how captured russian soldiers talked to their mothers by phone.
+And what I also saw was how captured Russian soldiers talked to their mothers by phone.
 It looked miserable and very in line with what I described.
-Parents are not too sad that their kids die on war, because they get lots of money for their death, so that they can even buy a white Lada (russian car).
+Parents are not too sad that their kids die on war, because they get lots of money for their death, so that they can even buy a white Lada (Russian car).
 And especially fathers are fine with that because of already mentioned "Women will give birth to more of them (бабы еще нарожают)".
 
 ## Conclusions
