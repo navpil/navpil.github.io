@@ -39,3 +39,6 @@ There is also a "home" or rather a "family" version of Pai Gow. In it, each play
 
 A search for Pai Gow returns many results because the game is famous. But please do not confuse it with the Pai Gow Poker, which is a card game. 
 
+---  
+
+[Home](/gupai/index.html)

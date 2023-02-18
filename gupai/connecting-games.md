@@ -83,3 +83,6 @@ Another connecting game is [DingNiu (Bull Fighting)](/gupai/connecting-games/din
 
 Description of the games at [Pagat](https://www.pagat.com/domino/arm/tsairdeng.html) 
 
+---  
+
+[Home](/gupai/index.html)

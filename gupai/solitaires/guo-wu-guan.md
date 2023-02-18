@@ -35,3 +35,6 @@ O-Koan description by [Culin](https://healthy.uwaterloo.ca/museum/Archives/Culin
 
 Rules description on [Chinese Wikipedia](https://zh.wikipedia.org/wiki/%E9%81%8E%E4%BA%94%E9%97%9C) 
 
+---  
+
+[Home](/gupai/index.html)

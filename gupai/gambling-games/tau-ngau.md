@@ -45,3 +45,6 @@ There is almost no strategy in the game, the main thing is simply to find three 
 
 [Book about the games played in Macao](https://books.google.com.ua/books/about/Jogos_brinquedos_e_outras_divers%C3%B5es_pop.html?id=m5mf6kxo2L4C&redir_esc=y) 
 
+---  
+
+[Home](/gupai/index.html)

@@ -45,3 +45,6 @@ All these rules can be ignored. The calculation can be converted into ordinary p
 
 Equipped with this knowledge, you may now play the first type of games - [Connecting Games](/gupai/connecting-games.html) . They, unlike some other games, will look familiar. 
 
+---  
+
+[Home](/gupai/index.html)

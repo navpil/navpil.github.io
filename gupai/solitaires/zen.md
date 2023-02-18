@@ -55,3 +55,6 @@ I would like to add that this game - "Zen" - became the impetus that forced me t
 
 You may play the Xiang Shi Fu variant here: [onlinedominogames.com](http://www.onlinedominogames.com/xiang-shi-fu) 
 
+---  
+
+[Home](/gupai/index.html)

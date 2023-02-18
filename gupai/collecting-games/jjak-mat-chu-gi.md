@@ -29,3 +29,6 @@ The rules are taken from Pagat website, so the tile pairing is Chinese. But it d
 
 [Description on Pagat](https://www.pagat.com/domino/draw/jjak-mat-chu-gi.html) 
 
+---  
+
+[Home](/gupai/index.html)

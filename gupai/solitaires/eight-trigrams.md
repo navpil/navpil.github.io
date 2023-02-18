@@ -31,3 +31,6 @@ Points are awarded as follows:
 
 Points for a pair are counted even if they are part of a triplet. For example, any Five Sons include a civil pair, so they actually count for 5+3=8 points. And the combination [2:1][4:2][4:4] will be worth all 12 points – 3 for the Five Points and 9 for the High Pair. 
 
+---  
+
+[Home](/gupai/index.html)

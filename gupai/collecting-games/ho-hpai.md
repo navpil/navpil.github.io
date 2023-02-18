@@ -44,3 +44,6 @@ As for the description of the Ho-Hpai game I provided in the beginning, I combin
 
 [Another Thomas Son blog](https://band.us/band/71832633) 
 
+---  
+
+[Home](/gupai/index.html)

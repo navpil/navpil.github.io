@@ -28,3 +28,6 @@ In fact, it's a bit surprising that the ruleset is so diverse. And I have seriou
 
 I suspect Jjak-mat-chu-gi, Kap Shap and Ho-Hpai were played by one of the rules mentioned above. 
 
+---  
+
+[Home](/gupai/index.html)

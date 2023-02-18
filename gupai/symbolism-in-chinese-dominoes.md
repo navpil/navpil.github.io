@@ -41,3 +41,6 @@ All other values belong to the military. It's easier with the military. There is
 
 From all these values of the dice throws, domino tiles were made, the civilian suit was doubled. 
 
+---  
+
+[Home](/gupai/index.html)

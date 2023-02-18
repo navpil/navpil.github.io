@@ -105,3 +105,6 @@ I once came across this description and even tried to translate it. But I didn't
 
 出牌由第一家开始到第三家结束，谁大归谁。 
 
+---  
+
+[Home](/gupai/index.html)

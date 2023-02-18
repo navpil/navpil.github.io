@@ -6,3 +6,6 @@ The essence of the fishing game is quite simple - there are domino tiles on the 
 
 In fishing games, a lot depends on luck, as the second part of the turn depends entirely on a random tile drawn from the deck. The two games - [Tiu-U](/gupai/fishing/tiu-u.html) (Catching Fish) and [Shi Wu Hu](/gupai/fishing/shi-wu-hu.html) (Fifteen Lakes) are classic fishing games and are similar to each other, they can even be considered variants of the same game. [Tsung Shap](/gupai/fishing/tsung-shap.html) (Disputing for Tens) stands a bit apart. Besides, according to the classical rules, it almost lacks the element of skill and almost everything depends on luck. It seems that only the Fifteen Lakes game still has a living tradition. 
 
+---  
+
+[Home](/gupai/index.html)

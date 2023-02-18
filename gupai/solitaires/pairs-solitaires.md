@@ -24,3 +24,6 @@ Another solitaire game is Memory. Player puts all the tiles spots down, and turn
 
 [Turtle game described on Pagat](https://www.pagat.com/domino/solitaire/cosmic_turtle.html) , with slightly different rules 
 
+---  
+
+[Home](/gupai/index.html)

@@ -32,3 +32,6 @@ The more interesting games, such as Xiang Shi Fu would require to recreate the t
 
 Since collecting games also exist in the West, there are some adaptations of Western card collecting games for domino sets. However, there is one game that was made under the influence of the Korean Jjak-mat-chu-gi game, called " [Three Dozen](https://www.pagat.com/domino/draw/three_dozen.html) ". The game is superior to the original in my opinion as most tiles can pair with more than one other tile. Whereas in Jjak-mat-chu-gi the ability to combine tiles into a combination is a too straightforward task. 
 
+---  
+
+[Home](/gupai/index.html)

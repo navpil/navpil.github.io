@@ -28,3 +28,6 @@ The game [Shi Wu Hu](/gupai/fishing/shi-wu-hu.html) (Fifteen Lakes) corrects all
 
 Rules on [Pagat](https://www.pagat.com/domino/fishing/tiu-u.html) 
 
+---  
+
+[Home](/gupai/index.html)

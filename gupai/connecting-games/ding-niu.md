@@ -60,3 +60,6 @@ The rules for scoring points, and especially for SuanZhang in Ding Niu, are quit
 
 [Rules on Chinese Wikipedia](https://zh.wikipedia.org/wiki/%E6%8E%A5%E9%BE%8D_(%E4%B8%AD%E5%9C%8B%E9%AA%A8%E7%89%8C)) 
 
+---  
+
+[Home](/gupai/index.html)

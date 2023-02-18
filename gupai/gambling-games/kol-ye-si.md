@@ -25,3 +25,6 @@ If the amount of the bet is limited, or even fixed, then the winning strategy is
 
 [Rules described by Culin](https://healthy.uwaterloo.ca/museum/Archives/Culin/Dice1893/kolyesi.html) 
 
+---  
+
+[Home](/gupai/index.html)

@@ -18,3 +18,6 @@ I was sufficiently intrigued by GuPai to delve deeper into it. There is an old A
 
 In order to reproduce the rules of some games, I wrote a computer simulator of GuPai and checked the disputed points. It's open source here: [https://github.com/navpil/gupai](https://github.com/navpil/gupai) (it's not a computer game, it's just a working code that lets me experiment with the rules). When developing this simulator, I searched all possible resources, translated texts from Korean and Chinese, watched videos where older people play dominoes, sometimes viewed videos frame by frame. In the process, I was able to organise the knowledge of Chinese dominoes and also found and verified the rules of almost all GuPai games that can be found in open (and sometimes even closed) access. There are still moments that I do not understand, and I will indicate it where needed. 
 
+---  
+
+[Home](/gupai/index.html)

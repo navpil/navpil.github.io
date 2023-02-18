@@ -48,3 +48,6 @@ Description on [Pagat](https://www.pagat.com/domino/trick/tiengow.html)
 
 You can try playing this game against a computer on the [Online Domino Games](http://www.onlinedominogames.com/tien-gow) website 
 
+---  
+
+[Home](/gupai/index.html)

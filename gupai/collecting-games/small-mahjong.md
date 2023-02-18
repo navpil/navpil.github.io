@@ -48,3 +48,6 @@ A computer simulation of this game showed that with a good game, the number of d
 
 Unfortunately, this blog is no longer available, and [webarchive](https://web.archive.org/) does not archive these sites. But just in case, I will leave the link here: [http://blog.sina.com.cn/s/blog_62969d840100ucdk.html](http://blog.sina.com.cn/s/blog_62969d840100ucdk.html) and this blog was called either Warburg Radar or HuaBaoLeiDa. 
 
+---  
+
+[Home](/gupai/index.html)

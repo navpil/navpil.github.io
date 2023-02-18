@@ -32,3 +32,6 @@ These are not all resources, there were separate answers on the forums, or blog 
 
 While not technically a source of itself, but you might find it helpful to check the Java code which I used to simulate the rules and check how the various games could be played and what were their shortcomings and whether the rules were not broken: [https://github.com/navpil/gupai](https://github.com/navpil/gupai) 
 
+---  
+
+[Home](/gupai/index.html)

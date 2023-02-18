@@ -38,3 +38,6 @@ Previous combinations are classic. Sometimes there are additional ones that eith
 
 Also, these combinations took part in fortune-telling. The simplest form of fortune-telling was to put dominoes in a row and look for triplets that were there. There was a special book to explain triplets. 
 
+---  
+
+[Home](/gupai/index.html)

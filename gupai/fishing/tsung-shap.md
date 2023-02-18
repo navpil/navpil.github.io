@@ -35,3 +35,6 @@ Description by [Culin](https://healthy.uwaterloo.ca/museum/Archives/Culin/Dice18
 
 [German website about dominoes](https://spieltdomino.wordpress.com/2013/02/28/tsung-shap-domino-fur-aufmerksame-aus-dem-reich-der-mitte/) (four tiles in hand variant) 
 
+---  
+
+[Home](/gupai/index.html)

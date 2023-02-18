@@ -18,3 +18,6 @@ The rest of the games have already been forgotten and remained only on paper. [T
 
 I'm not a fan of gambling myself, but as a thank you to Pai Gow for the opportunity to buy a set of GuPai, and in order to show the full picture of Chinese dominoes, I decided to give a description of these games as well. Please be warned - gambling can be bad for you finances. 
 
+---  
+
+[Home](/gupai/index.html)

@@ -12,3 +12,6 @@ The second type of solitaire uses only pairs and the choice of how to use the ti
 
  - [Description of solitaire with pairs](/gupai/solitaires/pairs-solitaires.html) . 
 
+---  
+
+[Home](/gupai/index.html)

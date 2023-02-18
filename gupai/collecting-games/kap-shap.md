@@ -47,3 +47,6 @@ I must point out that a computer simulator is not a person. And people's game re
 
 [Game description by Culin](https://healthy.uwaterloo.ca/museum/Archives/Culin/Dice1893/kaptaishap.html) 
 
+---  
+
+[Home](/gupai/index.html)

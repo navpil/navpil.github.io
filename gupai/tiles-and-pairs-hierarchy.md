@@ -43,3 +43,6 @@ _Standard photo of Chinese dominoes, civilians above, military below, top pair s
 
 Armed with this knowledge, we can play the [Tien Gow trick game](/gupai/tien-gow.html) . 
 
+---  
+
+[Home](/gupai/index.html)

@@ -67,3 +67,6 @@ Description of an original game in Chinese: [https://aloneinthefart.blogspot.com
 
 Description of a [Trick taking game on Pagat](https://www.pagat.com/climbing/15wu.html) , in case you're interested 
 
+---  
+
+[Home](/gupai/index.html)
