@@ -4,7 +4,7 @@ In the original 解八卦 (Jie Ba Gua). The game was invented by Ming FanXin, th
 
 Eight tiles are laid out in a circle, and from the outside of the circle, next to each laid out tile, three more are placed perpendicular to it and all the tiles are turned over. 
 
-![](/docs/assets/images/gupai/eight-trigrams-1.jpg)  
+![](/docs/assets/images/gupai/eight-trigrams.jpg)  
 _Example of an initial position_
 
 Compare with a picture of a classic trigram 

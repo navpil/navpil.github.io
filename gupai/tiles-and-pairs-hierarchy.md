@@ -17,7 +17,7 @@ An explanation of such a hierarchy is given in the [Domino Symbolism](/gupai/sym
 
 It is clear that in the civilian suit each tile has its own pair and this can be used in the game. 
 
-![](/docs/assets/images/gupai/civil-pairs-1.jpg)  
+![](/docs/assets/images/gupai/civil-pairs.jpg)  
 _Civilian suite pairs hierarchy (from high to low)_
 
 And what to do with the military? The Chinese solved this issue as follows - all military tiles are paired by the number of points. There are "Nines" ([6:3] and [5:4]), "Eights" ([6:2] and [5:4]), "Sevens" ([5:2] and [4:3]) and "Fives" ([4:1] and [3:2]). Tiles [4:2] and [2:1], which do not pair with anything, remain redundant. Since they do not pair with anything, they were paired and this pair is called "Supreme". This means that while the tiles are divided into two suits - civil and military, the pairs are divided into three suits - civil, military and the supreme. And there is a single pair in the last suit. In some games, it can't beat anything, but it can't be beaten either. In some games, this is simply the highest value. 

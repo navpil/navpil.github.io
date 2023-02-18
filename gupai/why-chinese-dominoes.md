@@ -9,7 +9,7 @@ The games themselves are much more diverse than European dominoes. And in these 
 
 Unfortunately at its homeland Chinese dominoes have significantly lost ground. In China, it was supplanted by the visually more attractive Mahjong (麻将), and in Korea by the flower cards of Hwatu (화투). Unlike Mahjong and Hwatu, GuPai is more versatile and allows you to play a larger number of games. But, on the other hand, it is not so visually clear and bright and requires a certain habit. And the GuPai culture began to die out. 
 
-![](/docs/assets/images/gupai/hwatu-1.jpg)  
+![](/docs/assets/images/gupai/hwatu.jpg)  
 _Mahjong and Hwatu which displace GuPai_
 
 The Chinese domino has not completely disappeared. Now the older generation of Chinese people play a limited number of games, such as Tien Gow and Ding Niu. And the most common game is a gambling Pay Gow, which is played in casinos. It was thanks to the existence of Pai Gow that I was able to purchase a deck of Chinese dominoes. But the problem of extinction of GuPai culture remains. Young people are not interested in the rules of games that older Chinese still play. As for Pai Gow, casinos are prohibited in mainland China, and Pai Gow is too complicated for Europeans to casually play. GuPai positions will continue to weaken. 

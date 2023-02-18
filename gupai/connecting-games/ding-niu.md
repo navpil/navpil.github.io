@@ -13,7 +13,7 @@ _Deck for Ding Niu_
 
 The deck becomes even more asymmetrical. For example, excluding doubles, there is a single "two" in the entire deck. Two "fours", three "threes", four "fives", six "ones" and eight "sixes". Since Ding Niu is a connecting game, this asymmetry plays an important role. And each digit gets its own uniqueness. Note that all the tiles in this reduced deck are duplicated, except for the already mentioned [6:2] and [6:3]. As a trivia -  these two tiles together are called the "bull pair" in another, unrelated game, Mo Hua Hua (抹花花). Probably the oblique two and oblique three resembled the horns of bulls on a massive, six-pointed, bulls body. We will see this pair again in the future. 
 
-![](/docs/assets/images/gupai/ding-niu-assymetry-1.jpg)  
+![](/docs/assets/images/gupai/ding-niu-assymetry.jpg)  
 _Ding Niu deck assymetry (two decks were used for display)_
 
 ## Rules 

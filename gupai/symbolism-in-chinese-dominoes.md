@@ -12,7 +12,7 @@ There is at least one known dice game that has the same suits as dominoes - [Thr
 Civil-Military, or Wen-Wu, is a well-known philosophical couple since the time of Confucius, which over time organically combined with the Yin-Yang philosophy. The Civil was associated with creativity and peaceful rule, while the military was associated with destruction, power and rule in times of war. Dao De Jing (chapter 31) mentions "left" and "right" as the types of government, indicating that two ministers existed that time - the Civil and the Military one, who sat on the opposite sides near the emperor. The Civilian was always given preference. Also there are more civilians than warriors, and perhaps this is one of the reasons why the number of civilian tiles was doubled.   
 
 
-![](/docs/assets/images/gupai/wu-wen-3.jpg)  
+![](/docs/assets/images/gupai/wu-wen.jpg)  
 _Civilian (two top rows) and Military (bottom row) tiles_
 
 Before the Civilian/Military division, the same suits were called Hua (華) and Yi (夷) - Chinese and Barbarians. Chinese personified culture, and the barbarians opposed them ( By the way a similar division existed in the ancient Greece). But with the advent of the Qing dynasty, who were not ethnically Chinese, the division into Chinese and barbarians could offend the ruling dynasty, so they decided to call the same suits civil and military. 
@@ -34,7 +34,7 @@ Harmony is followed by the remaining three doubles in descending order – [5:5]
 
 There are still four remaining civil values, which are also in descending order. These are [6:5] (Ax, or Tiger's Head), [6:4] (Red-Headed Ten), [6:1] (Long-Legged Seven) and [5:1] (can be called a Red-hammer Six). Why these four values? Note that they all have Heaven, Earth, or Man coded. Moreover, Heaven is present everywhere. [6:5] is Heaven (6) and Man plus Earth (4+1=5). [6:4] and [6:1] are obvious Heavens with Man and Earth. [5:1] is more complicated here, but 1 is Earth, 5+1=6 is Heaven, and 5-1=4 is a Man. 
 
-![](/docs/assets/images/gupai/civil-pairs-1.jpg)  
+![](/docs/assets/images/gupai/civil-pairs.jpg)  
 _Civilian tiles in descending order - heaven, earth, man, harmony and so on_
 
 All other values belong to the military. It's easier with the military. There is no special symbolism in them and they all simply go in descending order - the greater the number of points, the higher it is. If the sum of points is the same, then the values have the same force. The military tiles are named by their pip value - in particular Nine, Eight, Seven and Five. The [4:2] and [2:1] are a bit special in this regard, because they are unique and I haven't come across them being named after the pip value (Six and Three), but in some games they can have special names, such as Mother and Son. 
