@@ -1,5 +1,7 @@
 # GuPai
 
+_Backup site of an original [GuPai Wordpress](https://gupai.wordpress.com/) website_
+
 This is a resource dedicated to Chinese dominoes GuPai also known in Korea as GolPae. You may find here reference to most of the currently known games played with GuPai with all the necessary additional information structured in a way so it is easy to learn how to play the games. 
 
 The games are divided into six categories: connecting, trick-taking, gambling, solitaire, collecting, and fishing. Accordingly, the articles are split into six modules, most of which have a theoretical part and all have several game descriptions. You can read in order, like a book (as it is intended), jumping on hyperlinks between texts will then be unnecessary. But you can read in any order, just keep in mind that you may need to read other articles to understand the one you're reading. The article on the [composition of the deck and customs](/gupai/chinese-domino-deck-composition-and-traditions.html) is a must-read. 
@@ -10,7 +12,7 @@ Original Ukrainian version can be found here: [https://navpil.wordpress.com/gupa
 
 This is optional reading, but if you want to know my motivation to write about Chinese dominoes, why I find them fascinating and why are they disappearing you are welcome to read this article: 
 
-https://gupai.wordpress.com/why-chinese-dominoes/ 
+[Why Chinese Dominoes](/gupai/why-chinese-dominoes.html) 
 
 ## Module 1: Dragon 
 
@@ -74,5 +76,5 @@ Collecting games are also known in the West, for instance Canasta or Rummy. In C
 
 I have gathered descriptions of several games which can be played with Western domino or playing cards influenced by GuPai. This is an optional reading. 
 
-https://gupai.wordpress.com/adaptations-for-western-dominoes/ 
+[Adaptations for Western Dominoes](/gupai/adaptations-for-western-dominoes.html) 
 
