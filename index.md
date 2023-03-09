@@ -1,6 +1,15 @@
 # Навпіл-сайт
 
-Також мене можна знайти на [Medium](https://medium.com/@navpil), [Wordpress](https://navpil.wordpress.com/) та [Facebook](https://www.facebook.com/dmytro.polovynka).
+Також мене можна знайти на [Medium](https://medium.com/@navpil), 
+[Wordpress](https://navpil.wordpress.com/) 
+та [Facebook](https://www.facebook.com/dmytro.polovynka)
+
+Мої пісні можна знайти на [YouTube @DmytroPolovynka channel](https://www.youtube.com/@dmytropolovynka)
+та на [Music Cloud zavtra_sereda](https://soundcloud.com/zavtra_sereda)
+
+Description of Chinese Dominoes can be found on a [GuPai fun site](https://gupai.wordpress.com/)
+
+My GitHub account is [navpil](https://github.com/navpil)
 
 Ігри:
 
