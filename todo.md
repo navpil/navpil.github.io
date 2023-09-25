@@ -10,3 +10,28 @@
 
 На захист традиційної сім'ї
 
+## Tag list
+
+ - war (en, ua, ru)
+ - geek (ua, en)
+ - misc (ua, en)
+ - monkmode
+ - draft
+ - art (ua, sk)
+ - ethics (ua, en)
+   - sins
+ - herakles
+ - games
+   - coins
+   - dice
+   - cards
+   - chess
+   - pnp
+
+Folders which exist by their own:
+
+ - gupai
+ - games
+ - wpua
+ - humanism (for personal usage only)
+

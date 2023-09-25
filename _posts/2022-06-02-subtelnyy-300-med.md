@@ -2,6 +2,9 @@
 layout: post
 title: "Russia-Ukraine war is at least 300 years old"
 source: medium
+tags:
+  - war
+language: en
 ---
 
 *Why Russia-Ukraine war is not a NATO’s proxy war. Writing this in English, because Ukrainians know this anyway.*

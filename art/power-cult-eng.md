@@ -1,3 +1,8 @@
+---
+tags:
+  - war
+language: en
+---
 # The Cult of Power: the Russian Paradigm
 
 _Explanation of the hypocrisy, lies, cruelty, pride and other features inherent in the Russian culture by the Cult of Power, as the main paradigm of Russia._

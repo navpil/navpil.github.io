@@ -1,8 +1,17 @@
+#theme: minima
 theme: jekyll-theme-slate
 defaults:
   -
-    scope: 
+    scope:
       path: ""
+      type: "pages"
     values:
       layout: "default"
-
+      language: ua
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      language: ua

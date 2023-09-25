@@ -1,3 +1,9 @@
+---
+tags:
+  - art
+language: sk
+---
+
 # Iniciativa MHD Usmev
 
 Elektricky vyzeraju ako chrobaciky. Milujem ich.
