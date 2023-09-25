@@ -18,7 +18,7 @@ This is optional reading, but if you want to know my motivation to write about C
 
 Familiarize yourself with the Chinese Dominoes deck and learn some connecting games, which are the most similar to the Western domino games. The article about Chinese domino deck is a must read. 
 
- - [Chinese Domino deck composition and traditions](/gupai/gupai/chinese-domino-deck-composition-and-traditions.html) 
+ - [Chinese Domino deck composition and traditions](/gupai/chinese-domino-deck-composition-and-traditions.html) 
  - [Generic connecting game rules](/gupai/connecting-games.html) (Jie Long, Ce Deng and Kko-li-but-i-gi) 
  - [Rules of a Ding Niu](/gupai/connecting-games/ding-niu.html) - Bull Fighting, special connecting game with a reduced deck 
 
