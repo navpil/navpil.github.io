@@ -30,8 +30,8 @@
 
 Folders which exist by their own:
 
- - gupai
- - games
- - wpua
+ - gupai (backup of gupai.wordpress.com)
+ - games (waiting for finishing - maybe will be moved to some kind of collection)
+ - wpua (backup of navpil.wordpress.com)
  - humanism (for personal usage only)
 
