@@ -8,6 +8,13 @@
 
 На захист традиційної сім'ї
 
+Eng:
+
+ - Leo Tolstoy on Russians in Chechen war
+ - UA position on global conflicts
+ - Bad or Stupid
+ - Russian-mute
+
 ## Tag list
 
  - war (en, ua, ru)
