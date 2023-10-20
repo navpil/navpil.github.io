@@ -1,7 +1,7 @@
 ---
 source: medium
 tags:
-  - misc
+  - monkmode
 title: "Тіт Лукрецій Кар і Новий рік"
 ---
 
