@@ -36,7 +36,7 @@ Same numbers for Luhansk were 30%/12%.
 Please note — there was indeed a big support for joining Russia in 2014, but it was not a majority.
 
 People in Donbas do indeed speak Russian, and comparing to other regions majority of Donbas chooses Russian as a mother tongue [7]. 
-Numbers are 69% for Donetsk and 75% for Donetsk. 
+Numbers are 69% for Luhansk and 75% for Donetsk. 
 Kharkiv and Zaporizhzhia, closest contestants, are at 45% and 48% respectively. 
 Please be warned — Russian propaganda often use this language statistics to prove that people in Donbas support joining Russia. 
 And that is a trap I don’t want you to fall into. 
