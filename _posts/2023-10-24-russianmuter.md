@@ -9,7 +9,7 @@ This is a very personal article. It's about my own life experience.
 But many Ukrainians can relate to this story to some extent.
 
 At first I was a Russian speaker.
-I was born in a Russian speaking family in a Ukrainian speaking part of the country.
+I was born in a Russian speaking family in a Ukrainian speaking city.
 Contrary to what you might think, this did not mean that I was ostracized or that I lived in some isolated ghetto.
 Vast majority of people around me were technically bilingual.
 Having conversation in two languages at the same time was normal.
@@ -40,7 +40,7 @@ Which meant that we consumed their culture and in order Ukranian artist products
 Russian was dominant.
 Most of the books were Russian, most of magazines were in Russian, there were lots of Russian language on the radio and TV.
 
-And by the way - I did not see this as a big problem, because I assosiated myself with both languages.
+And by the way - I did not see this as a big problem, because I associated myself with both languages.
 I was truly bilingual by that time.
 I wrote songs/poems and short stories in both languages, songs mostly in Ukrainian, stories mostly in Russian (in case you are interested - songs are on YouTube, and short stories are not worth reading).
 I had both Russian-speaking and Ukrainian-speaking friends.
@@ -48,7 +48,7 @@ And I spoke Russian with ones and Ukrainian with others.
 And when we gathered together our conversation was a language mix.
 However the rule "whatever at home, Ukrainian in shops" still hold true for me. 
 
-I dated and marrired a Ukrainian speaking woman.
+I dated and married a Ukrainian speaking woman.
 But when our first child was born I decided to speak Russian with him.
 So that he won't miss out the opportunities Russian language could offer.
 I wanted him to become bilingual, as I was.
@@ -89,7 +89,7 @@ Now it's about
 
 > Мною было принято решение о проведении специальной военной операции
  
-Putin's war announcement, or about
+a Putin's war announcement, or about
 
 > Надо топить украинских детей
 
