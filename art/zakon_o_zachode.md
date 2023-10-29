@@ -46,7 +46,7 @@ language: sk
   c) zatváranie otvoreného zipsu, keď tato skútočnosť bola zistená mimo záchodového priestoru (zatváranie zipsu a podobné činnosti, ako vyzlečenie a oblečenie, spojené z riadným použitím záchodu sa nepovažuje za mimoriadnú činnosť)  
   d) ostatné mimoriadné činnosti, ktoré ešte budú vyhlasené v osobitnej výhlaške.  
   
-§4 Zaverečné ustanovenia  
+## §4 Zaverečné ustanovenia  
   
 (16) Čas vnútri záchodovej miestnosti letí veľmi rýchlo, na rozdiel od času po inej strane dverí, ktorý sa tam len tiahne. Prizerajuc na vyššie uvedenú skútočnosť, treba upozorniť, že sice lehota prebyvania v záchodovej miestnosti stanovená nie je, ale za všetky následky, spojené z predĺženým použitím záchodu, zodpovednosť nesie použivateľ záchodu.  
 
