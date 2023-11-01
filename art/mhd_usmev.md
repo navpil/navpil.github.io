@@ -4,76 +4,77 @@ tags:
 language: sk
 ---
 
-# Iniciativa MHD Usmev
+# Iniciatíva MHD Úsmev
 
-Elektricky vyzeraju ako chrobaciky. Milujem ich.
+Električky vyzerajú ako chrobáčiky. Milujem ich.
 
-Kedy konecne budem stara? Vtedy vsetci mladi mi budu uvolnovat miesto v autobuse.
+Kedy konečne budem stará? 
+Vtedy všetci mladi mi budú uvoľňovať miesto v autobuse.
 Bude to super.
 
-Keby som bol zena, zapacil by sa mi chlap, ktory by mi uvolnil miesto.
+Keby som bol žena, zapáčil by sa mi chlap, ktorý by mi uvoľnil miesto.
 
-Necham toho dedka sediet.
-Aspon pocujem "dakujem".
-To mi zlepsi naladu.
+Nechám toho dedka sedieť.
+Aspoň počujem "Ďakujem".
+To mi zlepši náladu.
 
-Chlap uvolnujuci miesto... to je sexy.
+Chlap uvoľnujuci miesto... To je sexy.
 
-Rad by som sa cvakol listol.
-Bohuzial mam elektricenku.
+Rad by som si cvakol lístok.
+Bohužiaľ mám električenku.
 
-Revizori su fajn.
-Hlavne je mat listok.
+Revízori sú fajn.
+Hlavne je mať lístok.
 
-Zvuk cvakauceho sa listka je pre mna ako droga.
-Som na tom zavisly.
+Zvuk cvakauceho sa lístka je pre mňa ako droga.
+Som na tom závislý.
 
-Rad kreslim na zadnej strane listkov.
-Mam uz celu zbierku, ale potrebujem nove.
-Pojdem si kupit.
+Rad kreslím na zadnej strane lístkov.
+Mam už celú zbierku, ale potrebujem nové.
+Pôjdem si kúpiť.
 
-Dam si ten batoh radsej dole.
-Poistim sa proti zlodejom.
+Dám si ten batoh radšej dole.
+Poistím sa proti zlodejom.
 
-Vcera zozadu odo mna stala pekna dievcina.
-Mal som na sebe baatoh a tak som sa nemohol otocit, aby som nikoho neudrel.
-Zajtra si ho dam dole.
+Včera zozadu odo mňa stala pekná dievčina.
+Mal som na sebe batoh a tak som sa nemohol otočiť, aby som nikoho neudrel.
+Zajtra si ho dám dole.
 
-Napravo kopec ludi.
-Nalavo nikto.
-Musim to spriemerovat - posuniem sa.
+Napravo kopec ľudí.
+Naľavo nikto.
+Musím to spriemerovať - posuniem sa.
 
-Nebojim sa posunut v autobuse dalej od dveri.
-Nikdy sa mi nestalo, ze by som sa nevytlacil von.
+Nebojím sa posunúť v autobuse ďalej od dverí.
+Nikdy sa mi nestalo, že by som sa nevytlačil von.
 
-"Hej ty! Posun sa donutra! Nechceme sa tlacit pri dverach!"
-Nekricia to, sice by chceli.
-Nebudem ich provokovat. Posuniem sa.
+"Hej ty! Posun sa donútra! Nechceme sa tlačiť pri dverách!"
+Nekričia to, síce by chceli.
+Nebudem ich provokovať. Posuniem sa.
 
-Ze som slabsi od tej babky?
-Ze preco sedim ak ona stoji?
-Tak vam teraz dokazem, ze som chlap.
-Postavim sa.
+Že som slabší od tej babky?
+Že prečo sedím ak ona stojí?
+Tak vám teraz dokážem, že som chlap.
+Postavím sa.
 
-"Dakujem... Nech sa paci... Prosim vas..."
-Pekne slova. Su v MHD zakazane?
-Tak preco ich tak mal pouzivaju?
+"Ďakujem... Nech sa páči... Prosím vás...
+Pekné slova. Sú v MHD zakázané?
+Tak prečo ich tak malo používajú?
 
-Raz tiez budem stary.
-A asi budem chciet, aby mi uvolnovali miesto....
+Raz tiež budem starý.
+A asi budem chcieť, aby mi uvoľňovali miesto...
 
-Budhisti veria, ze kolko miest uvolnim v tomto zivote, tolko mi uvolnie v buducom.
-Nie som buddhista, ale radsej sa poistim.
+Budhisti veria, že koľko miest uvoľním v tomto živote, toško mi uvoľnia v budúcom.
+Nie som buddhista, ale radšej sa poistím.
 
-Nasleduje zastavka... pauza. Jesenskeho. Krasny hlas.
-Kvoli nemu cestujem v elektrickach.
+Nasleduje zastávka... Pauza. Jesenského. Krásny hlas.
+Kvôli nemu cestujem v električkách.
 
-Hore su tyce, ktore sa dotykaju drotov, ktora vsade visia a kolesa, co su dole, sa krutia.
-Fascinujuce.
+Hore sú tyče, ktoré sa dotýkajú drôtov, ktoré všade visia; a kolesa, čo sú dole, sa krútia.
+Fascinujúce.
 
-Kolko ma vlastne autobus kolies?
-Vzdy sa doratam ineho poctu.
-A to vzdy ratam iba z jednej strany.
+Koľko ma vlastne autobus kolies?
+Vždy sa dorátam iného počtu.
+A to vždy rátam iba z jednej strany.
 
-Batok na chrbte ludom asi vadi.
-Dam ho radsej dole.
+Batoh na chrbte ľudom asi vadi.
+Dam ho radšej dole.
