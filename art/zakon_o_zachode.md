@@ -19,7 +19,7 @@ language: sk
 
 (6) Riadné telesné odpadky sú orálne, análne, močové a iné odpadky ktoré suvisia s vnutrotelesnými tekutinami a inými substanciami, ktoré nie sú súčasťou organizmu používateľa záchodu.  
 
-(7) Mimoriadné telesné odpadky, sú odpadky, ktoré sú súčasťou organizmu použivateša záchodu. Napriklad, odpadnuté zuby, uši, ruky a iné.  
+(7) Mimoriadné telesné odpadky, sú odpadky, ktoré sú súčasťou organizmu použivateša záchodu. Napriklad, nehty, vlasy a iné.  
   
 ## §2 Riadné používanie záchodu  
   
@@ -27,11 +27,11 @@ language: sk
 
 (9) Záchod nie je určený pre vyhadzovanie do zachodovej misy mimoriadných telesných odpadkov neuvedených v odseku 10, pričom také použitie sa tresta.  
 
-(10) Jediné mimoriadné telesné odpadky, ktoré sa povoľujú vyhodiť do zachodovej misy sú krv a vlasy. Pričom posledné vo množstve maximálne 2000 vláskov denne.  
+(10) Jediné mimoriadné telesné odpadky, ktoré sa povoľujú vyhodiť do zachodovej misy sú vlasy. Pričom vo množstve maximálne 200 vláskov denne.  
   
 ## §3 Mimoriadné používanie záchodu  
   
-(11) V záchodovom priestore sa nepovoľuje fajčiť si. Pričom netreba pliesť pojmy fajčiť si a vyfajčiť niekomu, rozdiel medzi ktorými bude upravený osobitnou výhlaškou.  
+(11) V záchodovom priestore je nedovolené fajčiť. Pričom netreba pliesť pojmy fajčiť a vyfajčiť niekomu, rozdiel medzi ktorými je vymedzený v odsekoch 12 a 14.  
 
 (12) Na záchode sa nepovoľujú aktivity, ktoré znečisťujú ovzdušie záchodového priestoru s výnimkou procesov bezprostredne spätých s uvoľnovaním riadných telesných odpadkov.  
 
