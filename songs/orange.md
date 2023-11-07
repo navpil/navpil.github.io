@@ -485,6 +485,35 @@ _Приспів_
     A|-------------|-------------|-------------|-------------|
     E|-------------|-------------|-------------|-------------|
 
+## I saw myself in the mirror
+
+    C Em
+    Am F
+
+Today I saw myself in the mirror  
+I was alone, I was without you  
+I thought it was good it should be like this  
+But girl I was wrong, I really love you, baby  
+
+I've seen myself in the mirror, in the mirror,  
+I was wrong, baby I was wrong, I love you, I love you  
+
+Why should I cry  
+I'm strong, but without you baby   
+I'm weak, I lose my strength,  
+I cannot live without you baby  
+
+Why should I cry, I try, I try not to cry  
+Not to cry, not to cry  
+
+I look out of the window,  
+It's raining, I cannot see you baby,  
+You're somewhere there, but not with me  
+I want to see you baby,  
+
+I feel alone, alone, when I cannot see your eyes,  
+Your beautiful eyes, your eyes  
+
 ## Ґамо Бояна
 
 Ґамо послушці Бояна  
