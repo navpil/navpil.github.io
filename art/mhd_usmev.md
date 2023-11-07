@@ -3,8 +3,19 @@ tags:
   - art
 language: sk
 ---
-
 # Iniciatíva MHD Úsmev
+
+Kedysi dávno som študoval v Bratislave ako cudzinec. Páčilo sa mi používať MHD v Bratislave.
+
+Všimol som si, že sú ľudia, ktoré jazdia bez lístkov, či ignorujú pravidla slušnosti.
+
+A tak mi prišlo do hlavy, že by bolo dobre urobiť malé humoristické nálepky, ktoré by popisovali pravidla slušnosti v autobusoch, a potom by ich možno bolo lepiť, napríklad, na zastávkach. 
+Na každej nálepke by malo byť malým textom napísané "Iniciatíva MHD Úsmev". 
+Napísal som zopár takých textov, ale nič som s tým ďalej neurobil.
+
+Dávam ich sem aby sa nestratili.
+
+---
 
 Električky vyzerajú ako chrobáčiky. Milujem ich.
 

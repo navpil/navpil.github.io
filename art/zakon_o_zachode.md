@@ -33,11 +33,11 @@ language: sk
   
 (11) V záchodovom priestore sa nepovoľuje fajčiť si. Pričom netreba pliesť pojmy fajčiť si a vyfajčiť niekomu, rozdiel medzi ktorými bude upravený osobitnou výhlaškou.  
 
-(12) Na záchode sa nepovoľujú aktivity, ktoré znečisťujú ovzdušie záchodového priestoru s výnimkou procesov bezprostredne spätých s uvoľnovaním riadných telesných otázok.  
+(12) Na záchode sa nepovoľujú aktivity, ktoré znečisťujú ovzdušie záchodového priestoru s výnimkou procesov bezprostredne spätých s uvoľnovaním riadných telesných odpadkov.  
 
 (13) Kedykoľvek dojde k znečisteniu ovzdušia, či už spätého s uvoľňovaním riadných telesných odpadkov alebo s inými činnosťami, je používateľ záchoda, ktorý túto škodu spôsobil, použiť osviežovač vzduchu, ak sa tam taký nachádza.  
 
-(14) Použivanie záchodu na činnosti spojené z uvoľnením telesných látok, ktoré sú bezprostredne spojené z orgazmom, je povolené, ale tým, že záchod nie je priamo určený na túto činnosť, všetky nasledky s tymto spojenym(urážka úcty, spory z manželkou atď), použivateľ záchodu berie na svoju zodpovednosť.  
+(14) Použivanie záchodu na činnosti spojené z uvoľnením telesných látok, ktoré sú bezprostredne spojené z orgazmom, je povolené, ale tým, že záchod nie je priamo určený na túto činnosť, všetky nasledky s tymto spojenym (urážka úcty, spory z manželkou atď), použivateľ záchodu berie na svoju zodpovednosť.  
 
 (15) Ostatné mimoriadné činnosti ktoré sú povolené na záchode sú:  
 
@@ -48,6 +48,7 @@ language: sk
   
 ## §4 Zaverečné ustanovenia  
   
-(16) Čas vnútri záchodovej miestnosti letí veľmi rýchlo, na rozdiel od času po inej strane dverí, ktorý sa tam len tiahne. Prizerajuc na vyššie uvedenú skútočnosť, treba upozorniť, že sice lehota prebyvania v záchodovej miestnosti stanovená nie je, ale za všetky následky, spojené z predĺženým použitím záchodu, zodpovednosť nesie použivateľ záchodu.  
+(16) Čas vnútri záchodovej miestnosti letí veľmi rýchlo, na rozdiel od času po inej strane dverí, ktorý sa tam len tiahne. 
+Prizerajuc na vyššie uvedenú skútočnosť, treba upozorniť, že sice lehota prebyvania v záchodovej miestnosti stanovená nie je, ale za všetky následky, spojené z predĺženým použitím záchodu, zodpovednosť nesie použivateľ záchodu.  
 
 (17) Nechceš srať – netrap zadok.  
