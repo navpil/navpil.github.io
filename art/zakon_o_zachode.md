@@ -15,7 +15,7 @@ language: sk
 
 (4) Záchodový priestor v tomto zákone bude rozumieť priestor vymedzený stenami a prvými dvermi, ktoré sa nachádzajú ako najbližšie ku zachodu, pričom pristup od dveri k záchodu je bezprostredný a pre prekonanie dištancie od záchodovej mise k týmto dveriam nie je treba prejsť cez žiadné iné dverné otvory, ak to neuvádzajú osobitné predpisy (vybudovanie nového dverného otvoru vnútri záchoda pre estetické potešenie).  
 
-(5) Záchodovou misou v tomto zákone sa bude rozumieť nádoba, dno ktorej bezprostredne sa viaže na kanalizáciu, a je určená na krátkodobé uloženie tam s cieľom zliatia do kanalizácie riadných telesných odpadkov a odpadkov s tým spojenych (toaletný papier, noviný(pri nepritomností toaletného papiera) a servitky).  
+(5) Záchodovou misou v tomto zákone sa bude rozumieť nádoba, dno ktorej bezprostredne sa viaže na kanalizáciu, a je určená na krátkodobé uloženie tam s cieľom zliatia do kanalizácie riadných telesných odpadkov a odpadkov s tým spojenych (toaletný papier, noviný pri nepritomností toaletného papiera a servitky).  
 
 (6) Riadné telesné odpadky sú orálne, análne, močové a iné odpadky ktoré suvisia s vnutrotelesnými tekutinami a inými substanciami, ktoré nie sú súčasťou organizmu používateľa záchodu.  
 
@@ -37,7 +37,7 @@ language: sk
 
 (13) Kedykoľvek dojde k znečisteniu ovzdušia, či už spätého s uvoľňovaním riadných telesných odpadkov alebo s inými činnosťami, je používateľ záchoda, ktorý túto škodu spôsobil, použiť osviežovač vzduchu, ak sa tam taký nachádza.  
 
-(14) Použivanie záchodu na činnosti spojené z uvoľnením telesných látok, ktoré sú bezprostredne spojené z orgazmom, je povolené, ale tým, že záchod nie je priamo určený na túto činnosť, všetky nasledky s tymto spojenym (urážka úcty, spory z manželkou atď), použivateľ záchodu berie na svoju zodpovednosť.  
+(14) Použivanie záchodu na činnosti spojené z uvoľnením telesných látok, ktoré sú bezprostredne spojené z orgazmom, je povolené, ale tým, že záchod nie je priamo určený na túto činnosť, všetky nasledky s tymto spojenym použivateľ záchodu berie na svoju zodpovednosť.  
 
 (15) Ostatné mimoriadné činnosti ktoré sú povolené na záchode sú:  
 
