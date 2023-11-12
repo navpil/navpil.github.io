@@ -2,6 +2,10 @@
 tags:
   - art
 language: sk
+title: "Ružomberok"
+excerpt: "\"Čo je s Ružomberkom?\" – hneď sa ho spýtal Ivan.
+  \"Čo čo, zlepšilo sa to na 25 percent. Ale je to malo. Strašne malo.\"
+  "
 ---
 
 # Ružomberok

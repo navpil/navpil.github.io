@@ -4,7 +4,7 @@
 [Wordpress](https://navpil.wordpress.com/) 
 та [Facebook](https://www.facebook.com/dmytro.polovynka)
 
-Мої пісні можна знайти на [YouTube @DmytroPolovynka channel](https://www.youtube.com/@dmytropolovynka)
+Мої пісні можна знайти на _(my music can be found on)_ [YouTube @DmytroPolovynka channel](https://www.youtube.com/@dmytropolovynka)
 та на [Music Cloud zavtra_sereda](https://soundcloud.com/zavtra_sereda)
 
 Articles about Russia invading Ukraine are collected on the [War In Ukraine Explained]({% link waren.md %}) page
@@ -12,6 +12,8 @@ Articles about Russia invading Ukraine are collected on the [War In Ukraine Expl
 Description of Chinese Dominoes can be found on a [GuPai fun site](https://gupai.wordpress.com/)
 
 My GitHub account is [navpil](https://github.com/navpil)
+
+Мої фото знаходяться тут _(my photos can be found on)_ [Flickr](https://www.flickr.com/photos/198108909@N05/)
 
 Ігри:
 
