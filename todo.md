@@ -23,6 +23,7 @@ Eng:
  - monkmode
  - draft
  - art (ua, sk)
+ - lekcii
  - ethics (ua, en)
    - sins
  - herakles

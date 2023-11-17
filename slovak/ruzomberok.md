@@ -5,7 +5,7 @@ language: sk
 title: "Ružomberok"
 excerpt: "\"Čo je s Ružomberkom?\" – hneď sa ho spýtal Ivan.
   \"Čo čo, zlepšilo sa to na 25 percent. Ale je to malo. Strašne malo.\"
-  "
+  Poviedka 18+ "
 ---
 
 # Ružomberok
@@ -23,7 +23,7 @@ excerpt: "\"Čo je s Ružomberkom?\" – hneď sa ho spýtal Ivan.
 "Čo bolo v Ružomberku?"    
 "Nehovorte, že o tom neviete!"    
 "Inač by som sa nepýtal."    
-Ivan pokrútil hlavou:    
+Peťo pokrútil hlavou:    
 "Kto vychováva tu mládež? Ta drzosť!"    
 "Viete, ja som z Ružomberku a len ma zaujíma čo sa tam stalo."    
 "Tak to ste dobre mimo, ak stále neviete, čo sa deje v Ružomberku."    

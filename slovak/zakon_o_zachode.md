@@ -2,7 +2,7 @@
 tags:
   - misc
 title: "Zákon 1/2003 o súkromnom záchode"
-excerpt: "Zákon o záchode ma za cieľ vymedziť činnosti, ktoré sa v záchode môžu udiať."
+excerpt: "Zákon o záchode ma za cieľ vymedziť činnosti, ktoré sa v záchode môžu udiať; 18+"
 language: sk
 ---
 # Zákon 1/2003 o súkromnom záchode
