@@ -1,4 +1,5 @@
 ---
+source: medium
 tags:
  - ethics
 title: Спільні заповіді всіх релігій
