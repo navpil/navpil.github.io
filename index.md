@@ -19,6 +19,7 @@ My GitHub account is [navpil](https://github.com/navpil)
 
  - [З монетками]({% link games/coins.md %})
  - [З кубиками]({% link games/dice.md %})
+ - [Нарди]({% link games/nardi.md %})
 
 Блог:
 
