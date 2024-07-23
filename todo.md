@@ -24,6 +24,7 @@ Eng:
  - draft
  - art (ua, sk)
  - lekcii
+ - work
  - ethics (ua, en)
    - sins
  - herakles
