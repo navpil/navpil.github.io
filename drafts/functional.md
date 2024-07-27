@@ -54,3 +54,45 @@ SQL - data is important; always add, never remove; always widen, never narrowing
 
 
 Мінус функціональщини - для наї треба щоб інакше працювали мізки. Навіть для простих задач треба почесати голову. Наприклад - як поміняти парні і непарні елементи списку місцями - в імперативному це робиться на раз-два. А такі приклади, як fib(n) = fib(n-1) + fib(n-2) - це просто жах, тому що там іде експоненційний ріст складності.
+
+-------------
+
+Functions, which do not exist in scope of objects - something like Utils (in scala it's companion objects), objects do not manage themselves, they are managed from outside. No mutators- but new copies
+New copies allow optimisation - for example zero copy clone
+
+Challenges: io, performance (fib example), changing nature of time
+
+Mutations are isolated
+
+DTOs don't need getters
+
+Tuples
+
+Змінюється стан всієї програми з часом, а не стан конкретних підсистем
+
+Треба бути розумним
+Експоненційна складність fib
+Заворот мізків
+Складний ерор хендлінг і робота з io
+Складно зробити прості задачі, зміна стану підсистеми іноді означає копіювання великого об'єкту
+Побічні ефекти - це те, для чого ми часто програму пишемо. Нам не треба просто щось обчислити. Математики обожнюють фп, але реальний світ - не математика. Також неможливо "довести правильність програми" - принаймні ніхто не втрачає на таке час
+Partially applied functions are not interesting.
+Why only factorial? There are immediately problems with stack overflow
+Sum of all numbers - it's not easily curried. А чого ми власне досягли? Та особливо нічого
+
+Ви побачите деякі шаблони, яких ви раніше не помічали
+В джаві - компаратор
+Моно пустий - завершує обробку
+List head tail
+
+No nulls
+https://docs.scala-lang.org/overviews/scala-book/no-null-values.html#:~:text=Functional%20programming%20is%20like%20writing,use%20null%20values%20in%20FP.
+
+Fp більш теоретично чисте, коли як імп. Ближче до металу
+Використовуючи математичний апарат можна довести, що програма - правильне
+Але асеиблер е міг не бути імперативним
+Числа черча
+
+Не залежать від глобального стану, не змінюють стан, не
+
+З часом так не попрацювати 
