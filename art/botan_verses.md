@@ -428,3 +428,5 @@ Cпільного мало, вже геть вони різні істоти:
 (2024)
 
 [Покривники](https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%B8%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8)
+
+[Creature which eats its own brain](https://goodheartextremescience.wordpress.com/2010/01/27/meet-the-creature-that-eats-its-own-brain/)

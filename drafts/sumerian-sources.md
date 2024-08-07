@@ -1,0 +1,13 @@
+ - https://en.wikibooks.org/wiki/Sumerian/Grammar/Lesson_Five_-_The_Verb_Chain
+ - https://sumer.fandom.com/wiki/Sumerian_grammar#Suffixes
+ - https://www.academia.edu/37941381/Sumerian_balag_tigi_is_Meluhha_t%C4%ABga_string_of_lute_and_adoration_of_Vi%C5%9Bvaksena_m%C5%ABrti_in_%C4%80gama_temple_worship_traditions_wealth_creating_metalwork
+ - https://isaw.nyu.edu/library/blog/getting-started-with-sumerian
+ - https://www.amazon.com/Learn-Read-Ancient-Sumerian-Introduction/dp/1734358602
+ - https://etcsl.orinst.ox.ac.uk/section4/c4802.htm
+ - https://etcsl.orinst.ox.ac.uk/section4/tr4802.htm
+ - https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.80.2&display=Crit&charenc=gcirc&lineid=c4802.B.22#c4802.B.22
+ - http://sumer.grazhdani.eu/index.php
+ - http://psd.museum.upenn.edu/nepsd-frame.html
+ - https://goroh.pp.ua/%D0%A1%D0%B8%D0%BD%D0%BE%D0%BD%D1%96%D0%BC%D1%96%D1%8F/%D0%B4%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4%D0%B0%D1%82%D0%B8
+ - https://slovnyk.ua/index.php?swrd=%D0%B1%D0%BB%D0%B5%D1%8F%D1%82%D0%B8
+ - http://www.sumerian.org/sumerlex.htm
