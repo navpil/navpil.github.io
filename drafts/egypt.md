@@ -60,4 +60,8 @@ Wealth amounts to nothing if one is indolent!
 Окрім найнеобхіднішого для твого дому.  
 Коли приходить багатство - іди за своєю мрією,  
 Багатство - ніщо, якщо ти нічого не хочеш робити.  
-  
+
+
+
+https://archive.org/details/MiriamLichtheimAncientEgyptianLiteratureVolII/page/n1/mode/2up
+https://archive.org/details/MiriamLichtheimAncientEgyptianLiteratureVolI/page/n1/mode/2up

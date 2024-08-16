@@ -213,6 +213,8 @@ http://mamawow.com.ua/deti/vospitanie/koli-ditini-potribna-vlasna-kimnata.html
 
 https://www.latimes.com/archives/la-xpm-2006-mar-16-hm-sharing16-story.html
 
+https://www.downsizecolumbus.com/2020/03/02/does-every-child-need-their-own-bedroom/
+
 # Дітоцентричне життя
 
 Шукати можливості виховати дітей, а не виправдання, чому їх виховати не можна.

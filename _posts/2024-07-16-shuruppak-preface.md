@@ -1,5 +1,6 @@
 ---
 layout: post
+source: medium
 title: Поетичний переклад "Повчань Шуруппака" (передмова)
 tags:
   - art

@@ -36,3 +36,12 @@
 Якщо зробити закони для всіх прикладів поведінки (наприклад обов'язок перевести старшу людину через дорогу, з перерахунком усіх винятків, коли це можна не робити) виникає питання як їх виконувати. Полісменів і суддів треба буде в рази більше ніж зараз.
 
 https://www.interactioncouncil.org/publications/universal-declaration-human-responsibilities
+
+
+https://www.leidenlawblog.nl/articles/the-ethical-dimension-of-ancient-laws
+
+ > And because of the exclusive focus on written law, the ethical dimension has gradually withered. It has given people a conviction that they can do anything as long as it is not forbidden by law.
+
+https://www.leidenlawblog.nl/articles/the-amoral-mentality-of-bankers
+
+Ідея, що все, що не заборонено - все дозволено - в корні невірна. Ще не ясно чиї закони були кращі - древні, чи сучасні. Древні все не обговорювали, але очікувалося, що люди себе поводитимуть достатньо добре. Але коли з'явилися закони, то виявилося, що люди себе тепер поводять згідно з ними, а не згідно з внутрішньою мораллю.
