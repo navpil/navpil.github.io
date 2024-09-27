@@ -40,3 +40,7 @@ _Сам переклад знаходиться на [іншій сторінц�
 - [The Instructions of Šuruppak, Composite Text and Translation; Jeremiah Peterson (version 17 July 23)](https://www.academia.edu/104700818/The_Instructions_of_%C5%A0uruppak_Composite_Text_and_Translation_Jeremiah_Peterson_version_17_July_23)
 - ["У ті дні, в ті далекі дні", Костянтин Тищенко](https://chtyvo.org.ua/authors/Tyschenko_Kostiantyn/U_ti_dni_v_ti_daleki_dni_Pershyi_u_sviti_siuzhetnyi_tekst/)
 - От начала начал. Антология шумерской поэзии.
+
+----
+
+[Instructions of Shuruppak: The World's Oldest Instruction Collection](https://www.academia.edu/103976396/Instructions_of_Shuruppak_The_Worlds_Oldest_Instruction_Collection?email_work_card=view-paper)
