@@ -36,17 +36,17 @@ To simplify the game experience you can count points as in European dominoes, i.
 
 Since the Chinese play this game for money, they pay each other the difference between the points after each game. For example: 
 
-Anna has 2 points   
-Bob has 12   
-Celine has 34   
-Dominic has 18 
+ - Anna has 2 points   
+ - Bob has 12   
+ - Celine has 34   
+ - Dominic has 18 
 
 Bob pays Anna 10 units (12-2), receives 22 (34-12) from Celine and 6 (18-12) from Dominic. Anna, in addition to the 10 already received from Bob, also receives 32 from Celine and 16 from Dominic. Celine pays Dominic 16 units. As a result, we get: 
 
-Anna got 58 units   
-Bob got 18 units   
-Celine lost 70 units   
-Dominic lost 6 units 
+ - Anna got 58 units   
+ - Bob got 18 units   
+ - Celine lost 70 units   
+ - Dominic lost 6 units 
 
 This was a typical calculation. But since such a calculation in a living environment is quite complicated, it is often simplified. For example, you can agree that the winner will receive one chip from each loser. This option is offered by the game Kko-li-but-i-gi. But what if the number of points is the same? In the classical calculation there is no such problem and the players simply do not pay each other. If you exchange chips, then the player with the lower hand in this case gets an advantage, the lowest hand belonging to the first player. Such an advantage of the "lower hand" is found in other games as well. 
 
