@@ -19,7 +19,7 @@ The second group includes triplets in which there are more than three identical 
  - Coincidence (合巧) - four identical values, and the sum of the remaining two values coincides with this same value. That is, for example [5:5][5:3][5:2] is four fives, and the sum of 3+2 is also five. Or [2:2][2:2][1:1]
  - Five sons (五子) - five identical values, the sixth value does not play any role. For example [6:6][6:6][6:3]
 
-![](/docs/assets/images/gupai/zen-triplets.jpg)  
+![](/docs/assets/images/gupai/zen-triplets-1.jpg)  
 _Examples of triplets: Five sons, Coincidence, Split, Five points and Full Fourteen_
 
 The third group includes the so-called "dragons", where there are less than three identical values. 

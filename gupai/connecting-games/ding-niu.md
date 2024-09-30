@@ -8,7 +8,7 @@ But sometimes tiles are removed from the deck to reduce it. This was already men
 
 In the game Ding Niu (頂牛, Bull Fight), all military tiles except [6:3] and [6:2] are removed from the deck. In particular the removed tiles are the following: [1:2], [1:4], [2:3], [2:4], [2:5], [3:4], [3:5] and [4:5]. Note that all tiles with sixes were kept. Thus, 24 tiles remain. And half of the deck are doubles. 
 
-![](/docs/assets/images/gupai/niu_pai.jpg)  
+![](/docs/assets/images/gupai/ding-niu-deck.jpg)  
 _Deck for Ding Niu_
 
 The deck becomes even more asymmetrical. For example, excluding doubles, there is a single "two" in the entire deck. Two "fours", three "threes", four "fives", six "ones" and eight "sixes". Since Ding Niu is a connecting game, this asymmetry plays an important role. And each digit gets its own uniqueness. Note that all the tiles in this reduced deck are duplicated, except for the already mentioned [6:2] and [6:3]. As a trivia -  these two tiles together are called the "bull pair" in another, unrelated game, Mo Hua Hua (抹花花). Probably the oblique two and oblique three resembled the horns of bulls on a massive, six-pointed, bulls body. We will see this pair again in the future. 
@@ -31,9 +31,13 @@ I will explain with an example. Suppose Adam played first, then Boris, then Vale
 A feature of the Ding Niu is 算含 SuanZhang - a special type of blocking when the layout is blocked and no (or no specific - see below) non-double tile can be laid out. The rules of Ding Niu's blocking are much more complicated than in European domino games. First, since there is asymmetry in the game, it is not enough to count, as in European dominoes, that six "fives" are already laid out on the table (excluding doubles), so the layout is blocked. You need to remember what all four types of SuanZhang look like: Ones, Two-Three (their number is odd, so blocking with two-two or three-three is impossible), Fours and Fives. Examples of blocked layouts in the photo (note that it is easiest to block with fours). 
 
 ![](/docs/assets/images/gupai/one-suan-zhang.jpg?strip=info&w=1076)  
-![](/docs/assets/images/gupai/two-three-suan-zhang.jpg?strip=info&w=999)  
-![](/docs/assets/images/gupai/four-suan-zhang.jpg?strip=info&w=771)  
-![](/docs/assets/images/gupai/five-suan-zhang.jpg?strip=info&w=974)  
+
+![](/docs/assets/images/gupai/two-three-suan-zhang.jpg?strip=info&w=999)
+
+![](/docs/assets/images/gupai/four-suan-zhang.jpg?strip=info&w=771)
+
+![](/docs/assets/images/gupai/five-suan-zhang.jpg?strip=info&w=974)
+
 I will leave as an exercise for the reader why is it impossible to block with six-six. In fact, there are even more difficult types of SuanZhang - when it is obvious that it is impossible to add fours or fives. If you are curious, I show what a SuanZhang looks like, in which it is impossible to add any more fives: 
 
 ![](/docs/assets/images/gupai/smothered-fives.jpg)  
