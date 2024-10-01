@@ -21,7 +21,8 @@
  - [Символізм в ґупай](/wpua/gupai/symbolism.html) 
  - [Старшинство плиток і пар](/wpua/gupai/hierarchy.html) 
  - [Гра на взятки небо-дев'ять](/wpua/gupai/tiengow.html) 
- - [Варіанти гри небо-дев'ять](/wpua/gupai/tiengow/tiengow-variants.html) 
+ - [Варіанти гри небо-дев'ять](/wpua/gupai/tiengow/tiengow-variants.html)
+ - [Полювання на оленів](/wpua/gupai/tiengow/deerhunt.html)
 
 ## Модуль третій. Гроші. 
 

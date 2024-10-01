@@ -30,6 +30,7 @@ Description of one of the most popular folk games - Heaven-Nine (or TienGow), wh
  - [Tiles and pairs hierarchy](/gupai/tiles-and-pairs-hierarchy.html) 
  - Rules: [Trick-taking game Tien Gow](/gupai/tien-gow.html) , Heaven-Nine 
  - Rules: [TienGow variants](/gupai/tien-gow/tien-gow-variants.html) (Folk Tien Gow, Nau Tin Kau, Ancient Tiles, [Bagchen](https://www.pagat.com/domino/trick/bagchen.html) ) 
+ - Rules: [Deer hunt](/gupai/tien-gow/deerhunt.html)
 
 ## Module 3: Gambling 
 

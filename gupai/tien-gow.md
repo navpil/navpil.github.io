@@ -2,9 +2,12 @@
 
 If in the West when people say "play dominoes" they mean the game of blocking dominoes. But in China they mean the trick taking game, such as Whist. In the West there are also games which use a set of dominoes to play trick taking games, but these are more the exception than the rule. 
 
-All Chinese domino trick taking games are similar to each other and can be considered variants of the same game - Heaven-Nine (天九, TianJiu or Tien Gow). All of them utilise the same suits, the same hierarchy of dominoes and the same pairs. I already wrote about the hierarchy and pairs in the article [The seniority of tiles and pairs](/gupai/tiles-and-pairs-hierarchy.html) , please read it if you haven't yet. As a reminder, here is a photo of all the pairs (11 civilian, 4 military and 1 supreme): 
+Most of the Chinese domino trick taking games are similar to each other and can be considered variants of the same game - Heaven-Nine (天九, TianJiu or Tien Gow). All of them utilise the same suits, the same hierarchy of dominoes and the same pairs. I already wrote about the hierarchy and pairs in the article [The seniority of tiles and pairs](/gupai/tiles-and-pairs-hierarchy.html) , please read it if you haven't yet. As a reminder, here is a photo of all the pairs (11 civilian, 4 military and 1 supreme): 
 
 ![](/docs/assets/images/gupai/gupai-deck.jpg)  
+
+The only trick taking game which is not a Tien Gow variant is [Deer Hunt](/gupai/tien-gow/deerhunt.html), which has a dedicated page.
+
 ## Basic rules 
 
 It is played with a standard set of 32 tiles. Four players play. Each gets eight tiles. The banker leads to the first trick (in the first game banker is chosen by lot - in the following games the winner of a round becomes the next banker), the one who took the previous trick leads to the next trick. To lead into the trick the player places one tile or a combination of tiles (more on combinations later) and each subsequent player must either beat the tiles or place the corresponding number of dominoes face down. If the trick was of one tile, then it can be beaten only with a higher tile of the same suit. If it is from a combination, then it can be beaten only by a higher combination with the same composition of suits. After all four players have played their tiles, the player with the highest played tile (or combination) takes all the tiles for himself and leads to the next trick. After the last trick was taken, points are counted. The one who took the last trick wins. The next round he becomes the banker and leads to the first trick in the next round. Of course, sometimes the overall winner is not the one who wins the most times, but the one who loses the fewest times, but this is not only true for the Tien Gow. 
