@@ -30,6 +30,8 @@ The one who remains without tricks loses.
 
 This game was described to me in a letter by one Chinese, a lover of Chinese dominoes, Mr. Min FanXin (闵凡信). I’m not sure if this option is common, but I brought it up anyway.
 
+This variant can be simplified even further by simply dealing 8 tiles for each player and then replenishing the hand from the talon after the trick is taken. This way all 32 tiles are played and it is played to 16 tricks
+
 ## Other variants
 
 Some Tien Gow variants require a longer description, so special pages are dedicated to them.
