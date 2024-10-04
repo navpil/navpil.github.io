@@ -22,7 +22,10 @@
  - [Старшинство плиток і пар](/wpua/gupai/hierarchy.html) 
  - [Гра на взятки небо-дев'ять](/wpua/gupai/tiengow.html) 
  - [Варіанти гри небо-дев'ять](/wpua/gupai/tiengow/tiengow-variants.html)
- - [Полювання на оленів](/wpua/gupai/tiengow/deerhunt.html)
+   - [Народне небо-дев'ять](/wpua/gupai/tiengow/folk-tien-gow.html) - поширений варіант зі скороченою колодою
+   - [Мо Хуахуа](/wpua/gupai/tiengow/mohuahua.html) - використовує паперові доміно, але можна зіграти двома звичайними колодами
+   - [Тибетський варіант Баґчен](/wpua/gupai/tiengow/bagchen.html) - складний варіант з подвійною колодою в 64 плитки
+ - [Полювання на оленів](/wpua/gupai/tiengow/deerhunt.html) - гра на взятки з Японії, що не є варіантом Небо-дев'ять.
 
 ## Модуль третій. Гроші. 
 

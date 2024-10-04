@@ -62,4 +62,8 @@
  - https://dice.saloon.jp/t9pai/t9pai_deerhunt.html
  - https://web.archive.org/web/20230320161339/https://kusabazyun.banjoyugi.net/Home/reproductioned/tian-jiu-paino-jian/lu-shouri
 
-Окрема подяка Павлу Олейніку за те, що поділився знахідкою. 
+Окрема подяка Павлу Олейніку за те, що поділився знахідкою.
+
+---
+
+[Home](/wpua/gupai/index.html)

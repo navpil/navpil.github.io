@@ -4,7 +4,9 @@ When I looked for videos of people playing Tien Gow, I often saw people playing 
 
 If you haven't read the [classic Tien Gow rules article](/gupai/tien-gow.html) , please do so before continuing.
 
-A smaller deck Folk Tien Gow is often played with a reduced domino set of 24 tiles. Less often - with 30.
+## A smaller deck 
+
+Folk Tien Gow is often played with a reduced domino set of 24 tiles. Less often - with 30.
 
 If there are 30 tiles, then the “supreme pair” ([4:2] and [2:1]) is removed from the deck.
 
