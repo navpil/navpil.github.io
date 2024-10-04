@@ -69,4 +69,8 @@ Sources:
 - https://dice.saloon.jp/t9pai/t9pai_deerhunt.html
 - https://web.archive.org/web/20230320161339/https://kusabazyun.banjoyugi.net/Home/reproductioned/tian-jiu-paino-jian/lu-shouri
 
-Special thanks to Pavel Oleinik for sharing these rules with me. 
+Special thanks to Pavel Oleinik for sharing these rules with me.
+
+---  
+
+[Home](/gupai/index.html)

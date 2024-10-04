@@ -29,7 +29,10 @@ Description of one of the most popular folk games - Heaven-Nine (or TienGow), wh
  - [GuPai symbolism](/gupai/symbolism-in-chinese-dominoes.html) 
  - [Tiles and pairs hierarchy](/gupai/tiles-and-pairs-hierarchy.html) 
  - Rules: [Trick-taking game Tien Gow](/gupai/tien-gow.html) , Heaven-Nine 
- - Rules: [TienGow variants](/gupai/tien-gow/tien-gow-variants.html) (Folk Tien Gow, Nau Tin Kau, Ancient Tiles, [Bagchen](https://www.pagat.com/domino/trick/bagchen.html) ) 
+ - Rules: [TienGow variants](/gupai/tien-gow/tien-gow-variants.html) (Nau Tin Kau, Ancient Tiles, Tien Gow for two)
+   - Rules: [Folk Tien Gow](/gupai/tien-gow/folk-tien-gow.html) - a popular variant with a shortened deck
+   - Rules: [Mo Hua Hua](/gupai/tien-gow/mohuahua.html) - which uses a paper domino, but can be played with two GuPai decks
+   - Rules: [Bagchen](/gupai/tien-gow/bagchen.html) - a complex Tibetian Tien Gow variant with 64 tiles
  - Rules: [Deer hunt](/gupai/tien-gow/deerhunt.html)
 
 ## Module 3: Gambling 
