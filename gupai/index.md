@@ -2,7 +2,9 @@
 
 _Backup site of an original [GuPai Wordpress](https://gupai.wordpress.com/) website_
 
-This is a resource dedicated to Chinese dominoes GuPai also known in Korea as GolPae. You may find here reference to most of the currently known games played with GuPai with all the necessary additional information structured in a way so it is easy to learn how to play the games. 
+This is a resource dedicated to Chinese dominoes GuPai also known in Korea as GolPae. You may find here reference to most of the currently known games played with GuPai with all the necessary additional information structured in a way so it is easy to learn how to play the games.
+
+If you’re short in time, you may first read a [Quick Start](/gupai/quickstart.html) article. Otherwise – please continue.
 
 The games are divided into six categories: connecting, trick-taking, gambling, solitaire, collecting, and fishing. Accordingly, the articles are split into six modules, most of which have a theoretical part and all have several game descriptions. You can read in order, like a book (as it is intended), jumping on hyperlinks between texts will then be unnecessary. But you can read in any order, just keep in mind that you may need to read other articles to understand the one you're reading. The article on the [composition of the deck and customs](/gupai/chinese-domino-deck-composition-and-traditions.html) is a must-read. 
 
