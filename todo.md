@@ -12,8 +12,6 @@ Eng:
 
  - Leo Tolstoy on Russians in Chechen war
  - UA position on global conflicts
- - Bad or Stupid
- + Russian-mute
 
 ## Tag list
 
@@ -42,3 +40,10 @@ Folders which exist by their own:
  - wpua (backup of navpil.wordpress.com)
  - humanism (for personal usage only)
 
+Ставити наголос в українській: друкуємо літеру, а потім RightAlt+'
+
+sources:
+ - fb
+ - wp
+ - yt
+ - dou

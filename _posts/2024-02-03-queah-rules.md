@@ -55,4 +55,8 @@ You may choose to play with mandatory capture, which is a departure from usual W
 
 ----
 
-These rules on [BoardGameGeek](https://boardgamegeek.com/thread/3239597/play-tested-rules-variant-queahs-game)
+- These rules on [BoardGameGeek](https://boardgamegeek.com/thread/3239597/play-tested-rules-variant-queahs-game)
+
+Original German rules:
+
+> Dasselbe kann einigermaassen mit unserem Damspiel verglichen werden . Es ist aus zusammengefügten Holzstäbchen hergestellt , die 14 Fächer bilden . Die Spieler setzen sich , wie beim Poh - Spiel , einander gegenüber , mit dem Spiel in der Mitte . Jeder Theilnehmer hat 10 flache , lange Holzstäb- chen , die unten zugespitzt sind . Die Stäbchen der einen Partei sind am obern Ende , um sie kenntlich zu machen , schief abge- schnitten ( sogenannte Männchen ) , die anderen zehn aber gerade ( Weibchen ) . Jeder Spieler setzt vier Stäbchen , und in abwech- selnden Zügen trachtet Einer dem Andern durch Ueberspringen die seinigen wegzunehmen . Derjenige , welcher ein Stäbchen verliert , ersetzt dasselbe durch ein anderes , bis sein Vorrath erschöpft ist . Es sind also nie mehr als acht Stäbchen zugleich im Spiel . Wer sie Alle verliert oder durch die Gegenpartei matt gesetzt wird , ist geschlagen . So sehr dieses Spiel auch an manche bei uns gebräuchliche erinnern mag , so glaube ich doch nicht , dass es europäischen Ursprungs sei . 
