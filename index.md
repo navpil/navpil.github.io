@@ -13,6 +13,8 @@ Description of Chinese Dominoes can be found on a [GuPai fun site](https://gupai
 
 My GitHub account is [navpil](https://github.com/navpil)
 
+Here are my [BoardGameGeek threads](https://boardgamegeek.com/threads/user/1391611?parenttype=boardgame).
+
 Мої фото знаходяться тут _(my photos can be found on)_ [Flickr](https://www.flickr.com/photos/198108909@N05/)
 
 Ігри:

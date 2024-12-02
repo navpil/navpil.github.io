@@ -1,3 +1,10 @@
+---
+tags:
+ - games
+source: bgg
+language: en
+title: "Dmytro's Poleis: a simple playable modern reconstruction of Petteia"
+---
 If you try playing Petteia using usual rules (board 8x8, 8 pieces for each player, rook movement, custodian capture, no jumps) you may find out that it's not very exciting. 
 As many others I tried to figure out, what could be the missing rules, that would make the game interesting.
 
@@ -76,3 +83,7 @@ Probably it would make more sense to call this a “Latrunculi”.
 I didn't do so since Latrunculi now is usually associated with a Dux piece, which I did not use. 
 And according to Ulrich Schaedler the correct name of the game should be "Poleis" and not "Petteia" - the later being the generic name of the game with stones. 
 Hence, the name of the reconstruction.
+
+----
+
+Posted in [Board Game Geek](https://boardgamegeek.com/thread/3412976/dmytros-poleis-a-simple-playable-modern-reconstruc)
