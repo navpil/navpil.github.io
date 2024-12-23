@@ -69,6 +69,16 @@ Source: [Pente Grammai and the ‘Holy Line’](https://sciendo.com/article/10.1
 
 Posted in [Board Game Geek](https://boardgamegeek.com/thread/3400791/kidds-five-lines-variant-with-hitting)
 
+### Suggestion
+
+Two suggestions to above rules, which might make a game better:
+
+First: use knucklebones (astragali) instead of 6D dice. Why it is better and how to make them, if you have no access to knucklebones is described in the separate place.
+
+Second: start with all pieces already on board as is shown on the vases depictions. Yes, this means you can hit your opponent pieces immediately, but that does not break the gameplay and makes the game even more aggressive.
+
+I have connected with Stephen Kidd about both suggestions, and he said that they are worth a try and are not against historical evidence.
+
 ## Avoid circling around with the last piece rule variant
 
 There is one problem in the Five Lines game, no matter which variation is used. In the endgame the last piece simply circles around the board until it hits the desired number and gets onto the Holy Line.
