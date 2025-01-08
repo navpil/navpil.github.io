@@ -1,8 +1,9 @@
 # Навпіл-сайт
 
 Також мене можна знайти на [Medium](https://medium.com/@navpil), 
-[Wordpress](https://navpil.wordpress.com/) 
-та [Facebook](https://www.facebook.com/dmytro.polovynka)
+[Wordpress](https://navpil.wordpress.com/), 
+[Facebook](https://www.facebook.com/dmytro.polovynka) 
+та [Highload Today](https://highload.today/uk/author/dmytro-polovynka/)
 
 Мої пісні можна знайти на _(my music can be found on)_ [YouTube @DmytroPolovynka channel](https://www.youtube.com/@dmytropolovynka)
 та на [Music Cloud zavtra_sereda](https://soundcloud.com/zavtra_sereda)
