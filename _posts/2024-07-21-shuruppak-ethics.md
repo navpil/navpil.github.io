@@ -1,6 +1,7 @@
 ---
 tags:
   - ethics
+  - sumer
 source: medium
 title: Повчання Шуруппака, як вікно в область древної моралі
 ---

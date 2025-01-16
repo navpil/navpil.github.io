@@ -21,6 +21,7 @@ Eng:
  - monkmode
  - draft
  - art (ua, sk)
+ - sumer
  - lekcii
  - work
  - ethics (ua, en)
