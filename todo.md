@@ -41,8 +41,6 @@ Folders which exist by their own:
  - wpua (backup of navpil.wordpress.com)
  - humanism (for personal usage only)
 
-Ставити наголос в українській: друкуємо літеру, а потім RightAlt+'
-
 sources:
  - fb
  - wp
