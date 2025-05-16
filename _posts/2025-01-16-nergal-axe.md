@@ -154,6 +154,8 @@ BRONZE
 wr. zabar; zabar3 "(to be) bright, pure; arrowhead; weapon; metal mirror; (to be) shiny; measuring vessel made of bronze; a metal bowl; bronze" Akk. ebbu; hutpu; kakku; mušālu; namru; qû; sappu; siparru  
 𒌓𒅗𒁇   
 
+Спижа
+
 Про метали можна почитати тут:
 
  - https://blog.rootsofprogress.org/iron-from-mythical-to-mundane
