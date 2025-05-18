@@ -5,6 +5,8 @@
 [Facebook](https://www.facebook.com/dmytro.polovynka) 
 та [Highload Today](https://highload.today/uk/author/dmytro-polovynka/)
 
+Є ще [Почесне консульство Шумеру](https://sumerua.wordpress.com/) де я збираю власні переклади та статті про давнє Межиріччя.
+
 Мої пісні можна знайти на _(my music can be found on)_ [YouTube @DmytroPolovynka channel](https://www.youtube.com/@dmytropolovynka)
 та на [Music Cloud zavtra_sereda](https://soundcloud.com/zavtra_sereda)
 

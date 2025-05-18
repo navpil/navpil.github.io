@@ -2,7 +2,8 @@
 tags:
   - art
 title: "Iniciatíva MHD Úsmev"
-excerpt: "A tak mi prišlo do hlavy, že by bolo dobre urobiť malé humoristické nálepky, ktoré by popisovali pravidla slušnosti v autobusoch, a potom by ich možno bolo lepiť, napríklad, na zastávkach. " 
+excerpt: 
+ "A tak mi prišlo do hlavy, že by bolo dobre urobiť malé humoristické nálepky, ktoré by popisovali pravidla slušnosti v autobusoch, a potom by ich možno bolo lepiť, napríklad, na zastávkach. " 
 language: sk
 ---
 # Iniciatíva MHD Úsmev
