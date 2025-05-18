@@ -27,6 +27,7 @@ Eng:
  - ethics (ua, en)
    - sins
  - herakles
+ - family
  - games
    - coins
    - dice
@@ -46,3 +47,4 @@ sources:
  - wp
  - yt
  - dou
+ - medium

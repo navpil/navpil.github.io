@@ -5,6 +5,9 @@ title: "Шумерські царські молитви"
 tags:
   - sumer
 comment: Originally published on medium
+exts:
+  - https://sumerua.wordpress.com/2025/05/16/king-prayers/
+  - https://medium.com/@navpil/simerian-king-prayers-bccc02b17bec
 ---
 В попередній статті були переклади молитов звичайних людей. 
 Тут я хочу показати царські молитви. 

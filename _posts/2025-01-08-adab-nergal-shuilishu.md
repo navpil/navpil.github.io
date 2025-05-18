@@ -6,6 +6,9 @@ tags:
   - art
   - sumer
 comment: Originally published on medium
+exts:
+  - https://sumerua.wordpress.com/2025/05/14/nergal-shuilishu/
+  - https://medium.com/@navpil/adab-nergal-shuilishu-57f9227bc70c
 ---
 Нерґаль - це шумерський бог війни та загибелі.
 Йому було присвячено декілька гімнів, далі буде художній переклад того, котрий мені здався найяскравішим.
