@@ -4,7 +4,8 @@
 
 {% for post in site.posts %}
  {% if post.tags contains 'sumer' %}
-- [{{post.title}}]({{post.url}}) {{post.date | date_to_string | date: "%Y-%b-%d"}}
-  {{ post.excerpt }}
+- [{{post.title}}]({{post.url}}) {{post.date | date_to_string | date: "%Y-%b-%d"}}{% if post.exts != nil and post.exts != empty%}; backups({{post.exts.size}}){% endif %}
+  
+{{ post.excerpt }}
   {% endif %}
 {% endfor %}

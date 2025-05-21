@@ -12,7 +12,7 @@
 
 Articles about Russia invading Ukraine are collected on the [War In Ukraine Explained]({% link waren.md %}) page
 
-Description of Chinese Dominoes can be found on a [GuPai fun site](https://gupai.wordpress.com/)
+Description of Chinese Dominoes can be found on a [GuPai fan site](https://gupai.wordpress.com/)
 
 My GitHub account is [navpil](https://github.com/navpil)
 
@@ -31,7 +31,8 @@ Here are my [BoardGameGeek threads](https://boardgamegeek.com/threads/user/13916
 {% for post in site.posts %}
   {% if post.language == 'ua' and (post.handling != 'special') %}
   - [{{post.title}}]({{post.url}}) {{post.date | date_to_string | date: "%Y-%b-%d"}}
-    {{ post.excerpt }}
+
+{{ post.excerpt }}
   {% endif %} 
 {% endfor %}
 
