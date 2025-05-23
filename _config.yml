@@ -15,3 +15,7 @@ defaults:
     values:
       layout: "post"
       language: ua
+
+url: "https://navpil.github.io"
+plugins:
+  - jekyll-sitemap
