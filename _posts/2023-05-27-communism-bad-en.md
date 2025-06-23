@@ -127,7 +127,7 @@ And it answers in its classic style:
 
 According to the manifesto, private property in a bourgeois society exists only in the bourgeoisie, 
 therefore, after the overthrow of the bourgeoisie, private property can be quietly abolished, because no one has it anyway. 
-And this is the same Manifesto Logical Error as before — the power of the proletariat is not going to solve the problem created by the bourgeoisie. 
+And this is the same Manifesto Logical Error as before — the proletariat govetnment is not going to solve the problem created by the bourgeoisie. 
 The bourgeoisie has already taken away property anyway - why bother with giving it back? 
 The power of the proletariat, instead of giving an opportunity to accumulate something again with their labor, will simply strengthen this terrible situation.
 
