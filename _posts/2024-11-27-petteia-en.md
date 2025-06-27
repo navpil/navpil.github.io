@@ -4,6 +4,8 @@ tags:
 source: bgg
 language: en
 title: "Dmytro's Poleis: a simple playable modern reconstruction of Petteia"
+exts:
+- https://boardgamegeek.com/thread/3412976/dmytros-poleis-a-simple-playable-modern-reconstruc
 ---
 If you try playing Petteia using usual rules (board 8x8, 8 pieces for each player, rook movement, custodian capture, no jumps) you may find out that it's not very exciting. 
 As many others I tried to figure out, what could be the missing rules, that would make the game interesting.

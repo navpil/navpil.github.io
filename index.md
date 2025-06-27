@@ -20,13 +20,13 @@ Here are my [BoardGameGeek threads](https://boardgamegeek.com/threads/user/13916
 
 Мої фото знаходяться тут _(my photos can be found on)_ [Flickr](https://www.flickr.com/photos/198108909@N05/)
 
-Ігри:
+## Ігри:
 
  - [З монетками]({% link games/coins.md %})
  - [З кубиками]({% link games/dice.md %})
  - [Нарди]({% link games/nardi.md %})
 
-Блог:
+## Блог
 
 {% for post in site.posts %}
   {% if post.language == 'ua' and (post.handling != 'special') %}
