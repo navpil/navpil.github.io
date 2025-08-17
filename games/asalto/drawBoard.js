@@ -4,9 +4,9 @@ function BoardPainter(canvasElem, surroundingElem, piecesElem) {
     var surrounding = document.getElementById(surroundingElem ? surroundingElem : "board-holder")
     var pieces = document.getElementById(piecesElem ? piecesElem : "board")
 
-    var WIDTH = 108
-    var startI = 26;
-    var startJ = 26;
+    var WIDTH = 128
+    var startI = 32;
+    var startJ = 32;
 
     var drawAlqerq = function(i, j, ctx) {
         ctx.lineWidth = 1;

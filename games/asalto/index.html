@@ -10,8 +10,8 @@
             margin: 5px;
         }
         .piece {
-            width: 40px;
-            height: 40px;
+            width: 50px;
+            height: 50px;
             margin: 5px;
             border-radius:50%;
             border: solid 2px;
@@ -58,7 +58,7 @@
 </head>
 <body>
 <div id="game">
-    <div id="board-holder" style="padding:20px; width: 490px;">
+    <div id="board-holder" style="margin: auto; width: 490px; padding-top: 50px">
         <canvas id="canvas" width="500" height="500" style="position: absolute"></canvas>
         <!--<div style="position: absolute; left:30px; top:26px;">-->
         <!--    <img src="asalto.png">-->
@@ -66,10 +66,10 @@
         <div id="board" style="position: absolute; margin-left: -1px;">
         </div>
     </div>
-    <div id="info" style="padding-left: 20px">
+    <div id="info" style="margin: auto; width: 490px;padding-top:40px" >
         HELLO WORLD
     </div>
-    <div style="padding: 20px">
+    <div  style="margin: auto; width: 490px; padding-top: 40px">
         <button type="button" onclick="showConfig(globalRulePreset)">Show Config</button>
         <button type="button" onclick="restartGame()">Restart</button>
         <button type="button" onclick="timeouts.clearAllTimeouts()">Stop</button>
@@ -78,11 +78,11 @@
 </div>
 <div id="position-choosing" class="hidden">
     <div class="modal-background">
-        <div id="position-choosing-surrounding" style="float: left; padding-left:100px; padding-right:20px; width: 490px;">
+        <div id="position-choosing-surrounding" style="float: left; padding-left:100px; width: 490px; padding-top:50px">
             <canvas id="position-choosing-canvas" width="500" height="500" style="position: absolute"></canvas>
             <div id="positionchoosingboard" style="position: absolute"></div>
         </div>
-        <div style="float: left;">
+        <div style="float: left; padding-left:100px">
             <form>
                 <div><b>Rule preset</b></div>
                 <input name="preset" id="preset-sepoys" value="sepoys" onchange="changePreset('sepoys')" type="radio">
