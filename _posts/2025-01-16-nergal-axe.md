@@ -99,6 +99,7 @@ and may your copper be bought for the price of lead!
 
 ### anbar
 
+(an-bar-sug4)  
 Iron - used after Old Babylonian time   
 used rarely  
 𒀭𒁇 - post Old Babylonian  

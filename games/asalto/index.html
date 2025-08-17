@@ -1,0 +1,194 @@
+<html>
+<head>
+    <style>
+        body {
+            margin: 0;
+        }
+        .square {
+            width: 44px;
+            height: 44px;
+            margin: 5px;
+            float: left;
+        }
+        .piece {
+            width: 40px;
+            height: 40px;
+            margin: 5px;
+            float: left;
+            border-radius:50%;
+            border: solid 2px;
+        }
+        .goose {
+            background-color: rgba(0, 0, 255, 0.3)
+        }
+        .fox {
+            background-color: rgba(255, 0, 0)
+        }
+        .sheep .fox {
+            background-color: rgba(45, 45, 45)
+        }
+        .selected {
+            border-color: yellow;
+        }
+        .huff {
+            border-color: brown;
+            background-color: rgb(255, 0, 0, 0.5);
+            border-width: 4px;
+            margin: 3px;
+        }
+        .last-moved {
+            border-color: orange;
+        }
+        #position-choosing {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+        .modal-background {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            height: 100%;
+            background-color: rgb(50, 50, 50, 0.3);
+        }
+        .hidden {
+            display: none;
+        }
+    </style>
+
+</head>
+<body>
+<div id="game">
+    <div id="board-holder">
+        <canvas id="canvas" width="500" height="500" style="position: absolute; left:28px; top:18px;"></canvas>
+        <!--<div style="position: absolute; left:30px; top:26px;">-->
+        <!--    <img src="asalto.png">-->
+        <!--</div>-->
+        <div id="board" style="position: absolute; left:27px">
+        </div>
+    </div>
+    <div style="padding: 30px">
+        <div id="info">
+            HELLO WORLD
+        </div>
+        <button type="button" onclick="showConfig(globalRulePreset)">Show Config</button>
+        <button type="button" onclick="restartGame()">Restart</button>
+        <button type="button" onclick="timeouts.clearAllTimeouts()">Stop</button>
+        <button type="button" onclick="continueGame()">Continue</button>
+    </div>
+</div>
+<div id="position-choosing" class="hidden">
+    <div class="modal-background">
+    <div style="float: left; width: 650px; height:500px">
+        <canvas id="position-choosing-canvas" width="500" height="500" style="position: absolute; left:128px; top:18px;"></canvas>
+        <div id="positionchoosingboard" style="position: absolute; left:127px"></div>
+    </div>
+    <div style="float: left">
+        <form>
+            <div><b>Rule preset</b></div>
+            <input name="preset" id="preset-sepoys" value="sepoys" onchange="changePreset('sepoys')" type="radio">
+            <label for="preset-sepoys">Officers and Sepoys</label>
+            <br>
+            <input name="preset" id="preset-asalto" value="asalto" onchange="changePreset('asalto')" type="radio">
+            <label for="preset-asalto">Asalto</label>
+            <br>
+            <input name="preset" id="preset-sheep" value="sheep" onchange="changePreset('sheep')" type="radio">
+            <label for="preset-sheep">Wolves and Sheep</label>
+            <br>
+            <input name="preset" id="preset-geese" value="geese" onchange="changePreset('geese')" type="radio">
+            <label for="preset-geese">Fox and Geese</label>
+            <br>
+            <input name="preset" id="preset-rhombus" value="rhombus" onchange="changePreset('rhombus')" type="radio">
+            <label for="preset-rhombus">Fox and Geese (large board)</label>
+            <br>
+            <br>
+            <div>Preset specific configuration:</div>
+            <input name="freeGeeseMovementAllowed" id="freeGeeseMovementAllowed" type="checkbox">
+            <label for="freeGeeseMovementAllowed">Geese can move freely anytime</label>
+            <br>
+            <input name="horizontalMovementAllowed" id="horizontalMovementAllowed" type="checkbox">
+            <label for="horizontalMovementAllowed">Geese can move horizontally anytime</label>
+            <br>
+            <input name="backwardFortressMovementAllowed" id="backwardFortressMovementAllowed" type="checkbox">
+            <label for="backwardFortressMovementAllowed">Geese can move backward inside fortress (if applicable)</label>
+            <br>
+            <div>Geese can move horizontally inside fortress on lines (if applicable):</div>
+            <input name="horizontal0FortressMovementAllowed" id="horizontal0FortressMovementAllowed" type="checkbox">
+            <label for="horizontal0FortressMovementAllowed">Last line</label>
+            <input name="horizontal1FortressMovementAllowed" id="horizontal1FortressMovementAllowed" type="checkbox">
+            <label for="horizontal1FortressMovementAllowed">Middle line</label>
+            <input name="horizontal2FortressMovementAllowed" id="horizontal2FortressMovementAllowed" type="checkbox">
+            <label for="horizontal2FortressMovementAllowed">Front line</label>
+            <br>
+            <br>
+            <input name="foxMovesFirst" id="foxMovesFirst" type="checkbox">
+            <label for="foxMovesFirst">Fox moves first</label>
+            <br>
+            <input name="captureMandatory" id="captureMandatory" type="checkbox">
+            <label for="captureMandatory">Huffing enabled (capture by fox is mandatory)</label>
+            <br>
+            <br>
+            <div>Modify board position by selecting the piece type and clicking on board:</div>
+            <div style="height: 60px">
+                <div id="select-piece-goose" class="piece goose" onclick="config.selectPieceType('goose')"></div>
+                <div id="select-piece-fox" class="piece fox" onclick="config.selectPieceType('fox')"></div>
+            </div>
+            <br>
+            <div><b>Global settings</b></div>
+            <br>
+            <div>Conditions of fortress filling to win (where applicable):</div>
+            <input name="winning-fortress" id="winning-fortress-geese" value="1" type="radio">
+            <label for="winning-fortress-geese">Only geese should fill the fortress to win</label>
+            <br>
+            <input name="winning-fortress" id="winning-fortress-trapped" value="2" type="radio">
+            <label for="winning-fortress-trapped">Trapped foxes are allowed in fortress for win</label>
+            <br>
+            <input name="winning-fortress" id="winning-fortress-both" value="3" type="radio">
+            <label for="winning-fortress-both">Fortress can be filled with any piece to win</label>
+            <br>
+
+            <br>
+            <div>AI settings</div>
+            <div>
+                <br>
+                <input name="pcForFox" id="pcForFox" type="checkbox">
+                <label for="pcForFox">Fox Computer Player</label>
+                <br>
+                <input name="pcForGeese" id="pcForGeese" type="checkbox">
+                <label for="pcForGeese">Geese Computer Player</label>
+                <br>
+                <input name="ai-depth" id="ai-depth" type="text">
+                <label for="ai-depth">Depth - how many moves ahead AI calculates (3-5 is optimal)</label>
+                <br>
+                <input name="ai-breadth" id="ai-breadth" type="text">
+                <label for="ai-breadth">Breadth - how many moves AI analyses (25-50 is optimal)</label>
+                <br>
+                <input name="movement-speed" id="movement-speed" type="text">
+                <label for="movement-speed">Movement Speed (ms) - affects AI interaction in some cases</label>
+                <br>
+            </div>
+
+        </form>
+    </div>
+    <div style="position: absolute; top: 540px">
+        <button type="button" onclick="saveConfig()">Save</button>
+        <button type="button" onclick="hideConfig()">Cancel</button>
+    </div>
+    </div>
+
+</div>
+
+
+<script src="timeouts.js" >
+</script>
+<script src="gameSettings.js" >
+</script>
+<script src="initialPositions.js" >
+</script>
+<script src="drawBoard.js" >
+</script>
+<script src="asalto.js" >
+</script>
+</body>
+</html>
