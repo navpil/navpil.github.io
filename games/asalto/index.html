@@ -8,13 +8,11 @@
             width: 44px;
             height: 44px;
             margin: 5px;
-            float: left;
         }
         .piece {
             width: 40px;
             height: 40px;
             margin: 5px;
-            float: left;
             border-radius:50%;
             border: solid 2px;
         }
@@ -65,7 +63,7 @@
         <!--<div style="position: absolute; left:30px; top:26px;">-->
         <!--    <img src="asalto.png">-->
         <!--</div>-->
-        <div id="board" style="position: absolute">
+        <div id="board" style="position: absolute; margin-left: -1px;">
         </div>
     </div>
     <div id="info" style="padding-left: 20px">
@@ -131,8 +129,8 @@
                 <br>
                 <div>Modify board position by selecting the piece type and clicking on board:</div>
                 <div style="height: 60px">
-                    <div id="select-piece-goose" class="piece goose" onclick="config.selectPieceType('goose')"></div>
-                    <div id="select-piece-fox" class="piece fox" onclick="config.selectPieceType('fox')"></div>
+                    <div id="select-piece-goose" style="float: left" class="piece goose" onclick="config.selectPieceType('goose')"></div>
+                    <div id="select-piece-fox" style="float: left" class="piece fox" onclick="config.selectPieceType('fox')"></div>
                 </div>
                 <br>
                 <div><b>Global settings</b></div>

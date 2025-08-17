@@ -1101,6 +1101,7 @@ var info = function(text) {
 var repaintBoard = function(board, position, elemId) {
     var boardId = elemId ? elemId : "board";
     var s = "";
+    var width = 54;
     for (var i = 0; i < position.length; i++) {
        var row = position[i];
        for (var j = 0; j < position.length; j++) {
@@ -1110,7 +1111,8 @@ var repaintBoard = function(board, position, elemId) {
            } else if (row[j] === GOOSE) {
               clazz = 'piece goose';
            }
-           s = s + "<div id='pos-" + i + "-" + j + "' class='" + clazz + "' onclick='" +boardId + "clicked(" + i + "," + j + ")'>"  + "</div> ";
+           var style = " style='position: absolute; top: " + width*i + "; left: " + width*j + "' "
+           s = s + "<div id='pos-" + i + "-" + j + "' "+ style + " class='" + clazz + "' onclick='" +boardId + "clicked(" + i + "," + j + ")'>"  + "</div> ";
        }
     }
     document.getElementById(boardId).innerHTML = s;
