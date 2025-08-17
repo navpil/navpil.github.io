@@ -125,7 +125,7 @@ var initialFoxCount = 0;
 
 var ALL_CAPTURES_MANDATORY = true;
 var DEPTH = 4;
-var BREADTH = 25;
+var BREADTH = 50;
 
 var MOVEMENT_SPEED = 500;
 
@@ -1148,4 +1148,20 @@ function shuffle(array) {
   }
 }
 
-initPreset(RULE_PRESETS.SEPOYS);
+function getQueryVariable(variable)
+{
+       var query = window.location.search.substring(1);
+       var vars = query.split("&");
+       for (var i=0;i<vars.length;i++) {
+               var pair = vars[i].split("=");
+               if(pair[0] == variable){return pair[1];}
+       }
+       return(false);
+}
+
+var presetFromQuery = getQueryVariable("preset");
+if (presetFromQuery && RULE_PRESETS[presetFromQuery] && RULE_PRESETS[presetFromQuery].BOARD_TYPE) {
+    initPreset(RULE_PRESETS[presetFromQuery]);
+} else {
+    initPreset(RULE_PRESETS.SEPOYS);
+}
