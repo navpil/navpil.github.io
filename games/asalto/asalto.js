@@ -145,18 +145,22 @@ var fortWinningCondition = FORT_WINNING_CONDITION.TRAPPED_FOX;
 
 var createBoard = function(elemId, gameBoardType) {
     var boardId = elemId ? elemId : "canvas";
+    var bp = new BoardPainter(
+        elemId ? elemId : "canvas",
+        elemId ? "position-choosing-surrounding" : "board-holder",
+        elemId ? "positionchoosingboard" : "board");
     var gbt = gameBoardType ? gameBoardType : GAME_BOARD_TYPE;
     if (gbt === "SEPOYS") {
-        drawSepoyBoard(boardId);
+        bp.drawSepoyBoard();
         return SEPOYS_BOARD;
     } else if (gbt === "GEESE") {
-        drawGeeseBoard(false, boardId);
+        bp.drawGeeseBoard(false);
         return GEESE_BOARD;
     } else if (gbt === "ASALTO") {
-        drawGeeseBoard(true, boardId);
+        bp.drawGeeseBoard(true);
         return ASALTO_BOARD;
     } else {
-        drawRhombusBoard(boardId);
+        bp.drawRhombusBoard();
         return RHOMBUS_BOARD;
     }
 }
@@ -1099,7 +1103,6 @@ var repaintBoard = function(board, position, elemId) {
     var s = "";
     for (var i = 0; i < position.length; i++) {
        var row = position[i];
-       s = s + "<p>";
        for (var j = 0; j < position.length; j++) {
            var clazz = 'square';
            if (row[j] === FOX) {
@@ -1109,7 +1112,6 @@ var repaintBoard = function(board, position, elemId) {
            }
            s = s + "<div id='pos-" + i + "-" + j + "' class='" + clazz + "' onclick='" +boardId + "clicked(" + i + "," + j + ")'>"  + "</div> ";
        }
-       s = s + "</p>";
     }
     document.getElementById(boardId).innerHTML = s;
 }
