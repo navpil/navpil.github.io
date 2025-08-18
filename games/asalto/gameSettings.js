@@ -40,6 +40,7 @@ var showConfig = function(rulePreset) {
 
     document.getElementById("pcForFox").checked = !!pcForFox;
     document.getElementById("pcForGeese").checked = !!pcForGeese;
+    document.getElementById("repetitionIsGeeseLoss").checked = !!repetitionIsGeeseLoss;
     document.getElementById("ai-depth").value = DEPTH;
     document.getElementById("ai-breadth").value = BREADTH;
     document.getElementById("movement-speed").value = MOVEMENT_SPEED;
@@ -96,8 +97,9 @@ var saveConfig = function() {
     rulePreset.captureMandatory = document.getElementById("captureMandatory").checked;
     rulePreset.foxMovesFirst = document.getElementById("foxMovesFirst").checked;
 
-    pcForFox = document.getElementById("pcForFox").checked;// = !!pcForFox;
-    pcForGeese = document.getElementById("pcForGeese").checked;// = !!pcForGeese;
+    pcForFox = document.getElementById("pcForFox").checked;
+    pcForGeese = document.getElementById("pcForGeese").checked;
+    repetitionIsGeeseLoss = document.getElementById("repetitionIsGeeseLoss").checked;
 
     DEPTH = parseInt(document.getElementById("ai-depth").value);
     BREADTH = parseInt(document.getElementById("ai-breadth").value);

@@ -47,7 +47,7 @@ var RHOMBUS_BOARD = [
 //4 - invalid board position, 0 - empty place, 8 - FOX, 5 - GOOSE
 var SEPOYS_INITIAL_POSITION = [
   [4, 0, 0, 0, 0, 0, 0, 0, 4],
-  [4, 4, 0, 8, 8, 8, 0, 4, 4],
+  [4, 4, 8, 0, 8, 0, 8, 4, 4],
   [5, 5, 0, 0, 0, 0, 0, 5, 5],
   [5, 5, 5, 5, 5, 5, 5, 5, 5],
   [5, 5, 5, 5, 5, 5, 5, 5, 5],

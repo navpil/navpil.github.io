@@ -154,6 +154,10 @@ exts:
 
  - https://www.journals.uchicago.edu/doi/10.1086/701478
 
+--------------------------------
+
+## Особисті примітки
+
 ## The Lifeways of Hunter-Gatherers
 
 https://archive.org/details/robert-l.-kelly-the-lifeways-of-hunter-gatherers-the-foraging-spectrum-cambridge/page/n7/mode/2up
@@ -252,8 +256,6 @@ _Dmytro corollary: if everyone is equally poor as to resource spots, fights will
 Оскільки чоловіки полюють, а дичина сама може прибігти в радіус поселення, то це саме жінки, котрі зазвичай вирішують, чи треба переміщати табір, бо вони займаються збиральництвом, а трави самі по собі в радіус поселення не приходять (102 ст.)
 
 107 - осідають, якщо локально багато їжі, але глобально її мало. Якщо одне плем'я осіло, інші осідають теж.
-
-## Особисті примітки
 
 ### Етика крізь століття
 

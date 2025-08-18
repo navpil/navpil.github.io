@@ -49,6 +49,7 @@ var globalRulePreset;
 
 var board;
 var fortress;
+var bm;
 
 var position;
 var clickedState;
@@ -114,8 +115,14 @@ var initPreset = function(rulePreset) {
     timeouts.registerTimeout(0, setTimeout(function() {
         boardclicked(0, 0);
     }, 0));
+
+    bm = new BoardMemory({
+        size: 90,
+        repetitionIsGeeseLoss: repetitionIsGeeseLoss
+    });
 }
 
+var repetitionIsGeeseLoss = false;
 
 var pcForFox = true;
 var pcForGeese = false;
@@ -464,10 +471,11 @@ var moveAvailable = function(state, i, j, foxMove, position) {
 }
 
 var boardclicked = function(i, j) {
-    if (clickedState.state == "PC") {
+    if (clickedState.state == "PC" || clickedState.state === "FOXES-WON" || clickedState.state === "GEESE-WON") {
         //we should not trigger other movements
         return;
     }
+    var geezeLostDueToRepetition = false;
     if (clickedState.state == "WAIT") {
         if ((foxMove && position[i][j] == FOX) || (!foxMove && position[i][j] == GOOSE)) {
             setClickedState("MOVE");
@@ -553,6 +561,7 @@ var boardclicked = function(i, j) {
             } else {
                 setClickedState("WAIT");
                 foxMove = !foxMove;
+                geezeLostDueToRepetition = bm.execute(position);
             }
         }
     } else if (clickedState.state === "HUFFING") {
@@ -562,7 +571,7 @@ var boardclicked = function(i, j) {
             setClickedState("WAIT");
         }
     }
-    if (checkWinningCondition()) {
+    if (checkWinningCondition(geezeLostDueToRepetition && foxMove)) {
         return;
     }
     if (foxMove && pcForFox) {
@@ -656,7 +665,11 @@ var tooFewGeese = function() {
 /**
 if any of the player wins, it returns true, otherwise - returns false
 */
-var checkWinningCondition = function () {
+var checkWinningCondition = function(geezeLostDueToRepetition) {
+    if (geezeLostDueToRepetition) {
+        setClickedState("FOXES-WON");
+        return true;
+    }
     var whoWon = getWhoWon();
     if (whoWon) {
         setClickedState(whoWon);
@@ -791,10 +804,12 @@ var findBestMove = function(depth, cutoff) {
             bestMove = move;
         }
 
-        execute(move);
-
+        var geezeLost = execute(move);
         var currentPrice;
-        if (move.type === "CAPTURE") {
+
+        if (!foxMove && geezeLost) {
+            currentPrice = -10000;
+        } else if (move.type === "CAPTURE") {
             var nextCaptures = continueCapture(depth-1, cutoff, move.to.i, move.to.j);
             move.nextCaptures = nextCaptures.nextCaptures;
             currentPrice = nextCaptures.price;
@@ -990,8 +1005,8 @@ var createContinueCapturingFunction = function(lastMove) {
 
 var finishMove = function(i, j) {
     setClickedState("WAIT");
-//    foxMove = !foxMove;
-    checkWinningCondition();
+    var geezeLost = bm.execute(position);
+    checkWinningCondition(foxMove && geezeLost);
     boardclicked(0, 0);
     selectLastMove(i, j);
 }
@@ -1003,6 +1018,7 @@ var execute = function(move) {
     }
     position[move.to.i][move.to.j] = position[move.from.i][move.from.j];
     position[move.from.i][move.from.j] = 0;
+    return bm.tempExecute(position);
 }
 
 var undo = function(move) {
@@ -1011,6 +1027,7 @@ var undo = function(move) {
     }
     position[move.from.i][move.from.j] = position[move.to.i][move.to.j];
     position[move.to.i][move.to.j] = 0;
+    bm.tempUndo();
 }
 
 var FOX = 8;
@@ -1095,7 +1112,7 @@ var getAllPossibleMoves = function() {
 }
 
 var info = function(text) {
-    document.getElementById("info").innerHTML = text;
+    document.getElementById("info").innerHTML = i18n.text(text);
 }
 
 var repaintBoard = function(board, position, elemId) {
@@ -1160,8 +1177,30 @@ function getQueryVariable(variable)
 }
 
 var presetFromQuery = getQueryVariable("preset");
+
+var i18n = new I18n({
+    lang: getQueryVariable("lang")
+})
+
 if (presetFromQuery && RULE_PRESETS[presetFromQuery] && RULE_PRESETS[presetFromQuery].BOARD_TYPE) {
     initPreset(RULE_PRESETS[presetFromQuery]);
 } else {
     initPreset(RULE_PRESETS.SEPOYS);
+}
+
+i18n.initView();
+
+var switchLanguageElement = document.getElementById("switch-language");
+var aboutElement = document.getElementById("about-link");
+
+if (getQueryVariable("lang") === "ua") {
+    switchLanguageElement.href = "index.html?lang=en" + (presetFromQuery ? ("&preset=" + presetFromQuery) : "");
+    switchLanguageElement.innerHTML = "English version"
+    aboutElement.href = "about-ua.html";
+    aboutElement.innerHTML = "Про гру";
+} else {
+    switchLanguageElement.href = "index.html?lang=ua" + (presetFromQuery ? ("&preset=" + presetFromQuery) : "");
+    switchLanguageElement.innerHTML = "Українська версія"
+    aboutElement.href = "about-en.html";
+    aboutElement.innerHTML = "About game";
 }

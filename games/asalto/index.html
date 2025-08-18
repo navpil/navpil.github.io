@@ -70,11 +70,16 @@
         FOX,GEESE&Co
     </div>
     <div  style="margin: auto; width: 490px; padding-top: 40px">
-        <button type="button" onclick="showConfig(globalRulePreset)">Show Config</button>
-        <button type="button" onclick="restartGame()">Restart</button>
-        <button type="button" onclick="timeouts.clearAllTimeouts()">Stop</button>
-        <button type="button" onclick="continueGame()">Continue</button>
+        <button id="show-config" type="button" onclick="showConfig(globalRulePreset)">Show Config</button>
+        <button id="restart-game" type="button" onclick="restartGame()">Restart</button>
+        <button id="stop-game" type="button" onclick="timeouts.clearAllTimeouts()">Stop</button>
+        <button id="continue-game" type="button" onclick="continueGame()">Continue</button>
     </div>
+    <div style="position: absolute; right: 0; bottom: 0; padding: 20px">
+        <a id="about-link" href="about-en.html" target="_blank">About rules and program</a>
+        <a id="switch-language" href="index.html?lang=ua" target="_blank">Українською</a>
+    </div>
+
 </div>
 <div id="position-choosing" class="hidden">
     <div class="modal-background">
@@ -84,101 +89,96 @@
         </div>
         <div style="float: left; padding-left:100px">
             <form>
-                <div><b>Rule preset</b></div>
+                <p><b id="rule-preset">Rule preset</b></p>
                 <input name="preset" id="preset-sepoys" value="sepoys" onchange="changePreset('sepoys')" type="radio">
-                <label for="preset-sepoys">Officers and Sepoys</label>
+                <label id="preset-sepoys-label" for="preset-sepoys">Officers and Sepoys</label>
                 <br>
                 <input name="preset" id="preset-asalto" value="asalto" onchange="changePreset('asalto')" type="radio">
-                <label for="preset-asalto">Asalto</label>
+                <label id="preset-asalto-label"  for="preset-asalto">Asalto</label>
                 <br>
                 <input name="preset" id="preset-sheep" value="sheep" onchange="changePreset('sheep')" type="radio">
-                <label for="preset-sheep">Wolves and Sheep</label>
+                <label id="preset-sheep-label"  for="preset-sheep">Wolves and Sheep</label>
                 <br>
                 <input name="preset" id="preset-geese" value="geese" onchange="changePreset('geese')" type="radio">
-                <label for="preset-geese">Fox and Geese</label>
+                <label id="preset-geese-label"  for="preset-geese">Fox and Geese</label>
                 <br>
                 <input name="preset" id="preset-rhombus" value="rhombus" onchange="changePreset('rhombus')" type="radio">
-                <label for="preset-rhombus">Fox and Geese (large board)</label>
+                <label id="preset-rhombus-label"  for="preset-rhombus">Fox and Geese (large board)</label>
                 <br>
-                <br>
-                <div>Preset specific configuration:</div>
+                <p id="preset-config">Preset specific configuration:</p>
                 <input name="freeGeeseMovementAllowed" id="freeGeeseMovementAllowed" type="checkbox">
-                <label for="freeGeeseMovementAllowed">Geese can move freely anytime</label>
+                <label id="freeGeeseMovementAllowed-label" for="freeGeeseMovementAllowed">Geese can move freely anytime</label>
                 <br>
                 <input name="horizontalMovementAllowed" id="horizontalMovementAllowed" type="checkbox">
-                <label for="horizontalMovementAllowed">Geese can move horizontally anytime</label>
+                <label id="horizontalMovementAllowed-label"  for="horizontalMovementAllowed">Geese can move horizontally anytime</label>
                 <br>
                 <input name="backwardFortressMovementAllowed" id="backwardFortressMovementAllowed" type="checkbox">
-                <label for="backwardFortressMovementAllowed">Geese can move backward inside fortress (if applicable)</label>
+                <label  id="backwardFortressMovementAllowed-label" for="backwardFortressMovementAllowed">Geese can move backward inside fortress (if applicable)</label>
                 <br>
-                <div>Geese can move horizontally inside fortress on lines (if applicable):</div>
+                <p id="horizontal-movement-config">Geese can move horizontally inside fortress on lines (if applicable):</p>
                 <input name="horizontal0FortressMovementAllowed" id="horizontal0FortressMovementAllowed" type="checkbox">
-                <label for="horizontal0FortressMovementAllowed">Last line</label>
+                <label id="horizontal0FortressMovementAllowed-label" for="horizontal0FortressMovementAllowed">Last line</label>
                 <input name="horizontal1FortressMovementAllowed" id="horizontal1FortressMovementAllowed" type="checkbox">
-                <label for="horizontal1FortressMovementAllowed">Middle line</label>
+                <label id="horizontal1FortressMovementAllowed-label" for="horizontal1FortressMovementAllowed">Middle line</label>
                 <input name="horizontal2FortressMovementAllowed" id="horizontal2FortressMovementAllowed" type="checkbox">
-                <label for="horizontal2FortressMovementAllowed">Front line</label>
+                <label id="horizontal2FortressMovementAllowed-label" for="horizontal2FortressMovementAllowed">Front line</label>
                 <br>
                 <br>
                 <input name="foxMovesFirst" id="foxMovesFirst" type="checkbox">
-                <label for="foxMovesFirst">Fox moves first</label>
+                <label id="foxMovesFirst-label" for="foxMovesFirst">Fox moves first</label>
                 <br>
                 <input name="captureMandatory" id="captureMandatory" type="checkbox">
-                <label for="captureMandatory">Huffing enabled (capture by fox is mandatory)</label>
+                <label id="captureMandatory-label" for="captureMandatory">Huffing enabled (capture by fox is mandatory)</label>
                 <br>
-                <br>
-                <div>Modify board position by selecting the piece type and clicking on board:</div>
+                <p id="modify-board-position">Modify board position by selecting the piece type and clicking on board:</p>
                 <div style="height: 60px">
                     <div id="select-piece-goose" style="float: left" class="piece goose" onclick="config.selectPieceType('goose')"></div>
                     <div id="select-piece-fox" style="float: left" class="piece fox" onclick="config.selectPieceType('fox')"></div>
                 </div>
+                <p><b id="global-settings">Global settings</b></p>
+                <input name="repetitionIsGeeseLoss" id="repetitionIsGeeseLoss" type="checkbox">
+                <label id="repetitionIsGeeseLoss-label" for="repetitionIsGeeseLoss">Repetition is loss for geese</label>
                 <br>
-                <div><b>Global settings</b></div>
-                <br>
-                <div>Conditions of fortress filling to win (where applicable):</div>
+                <p id="fortress-win">Conditions of fortress filling to win (where applicable):</p>
                 <input name="winning-fortress" id="winning-fortress-geese" value="1" type="radio">
-                <label for="winning-fortress-geese">Only geese should fill the fortress to win</label>
+                <label id="winning-fortress-geese-label" for="winning-fortress-geese">Only geese should fill the fortress to win</label>
                 <br>
                 <input name="winning-fortress" id="winning-fortress-trapped" value="2" type="radio">
-                <label for="winning-fortress-trapped">Trapped foxes are allowed in fortress for win</label>
+                <label id="winning-fortress-trapped-label" for="winning-fortress-trapped">Trapped foxes are allowed in fortress for win</label>
                 <br>
                 <input name="winning-fortress" id="winning-fortress-both" value="3" type="radio">
-                <label for="winning-fortress-both">Fortress can be filled with any piece to win</label>
+                <label id="winning-fortress-both-label" for="winning-fortress-both">Fortress can be filled with any piece to win</label>
                 <br>
-
+                <p id="ai-settings">AI settings</p>
+                <input name="pcForFox" id="pcForFox" type="checkbox">
+                <label id="pcForFox-label" for="pcForFox">Fox Computer Player</label>
                 <br>
-                <div>AI settings</div>
-                <div>
-                    <br>
-                    <input name="pcForFox" id="pcForFox" type="checkbox">
-                    <label for="pcForFox">Fox Computer Player</label>
-                    <br>
-                    <input name="pcForGeese" id="pcForGeese" type="checkbox">
-                    <label for="pcForGeese">Geese Computer Player</label>
-                    <br>
-                    <input name="ai-depth" id="ai-depth" type="text">
-                    <label for="ai-depth">Depth - how many moves ahead AI calculates (3-5 is optimal)</label>
-                    <br>
-                    <input name="ai-breadth" id="ai-breadth" type="text">
-                    <label for="ai-breadth">Breadth - how many moves AI analyses (25-50 is optimal)</label>
-                    <br>
-                    <input name="movement-speed" id="movement-speed" type="text">
-                    <label for="movement-speed">Movement Speed (ms) - affects AI interaction in some cases</label>
-                    <br>
-                </div>
-
+                <input name="pcForGeese" id="pcForGeese" type="checkbox">
+                <label id="pcForGeese-label" for="pcForGeese">Geese Computer Player</label>
+                <br>
+                <input name="ai-depth" id="ai-depth" type="text">
+                <label id="ai-depth-label" for="ai-depth">Depth - how many moves ahead AI calculates (3-5 is optimal)</label>
+                <br>
+                <input name="ai-breadth" id="ai-breadth" type="text">
+                <label id="ai-breadth-label" for="ai-breadth">Breadth - how many moves AI analyses (25-50 is optimal)</label>
+                <br>
+                <input name="movement-speed" id="movement-speed" type="text">
+                <label id="movement-speed-label" for="movement-speed">Movement Speed (ms) - affects AI interaction in some cases</label>
             </form>
         </div>
         <br>
         <div style="clear:both; padding-left:100px;">
-            <button type="button" onclick="saveConfig()">Save</button>
-            <button type="button" onclick="hideConfig()">Cancel</button>
+            <button id="save-button" type="button" onclick="saveConfig()">Save</button>
+            <button id="cancel-button" type="button" onclick="hideConfig()">Cancel</button>
         </div>
     </div>
 
 </div>
 
-
+<script src="i18n.js">
+</script>
+<script src="boardMemory.js">
+</script>
 <script src="timeouts.js" >
 </script>
 <script src="gameSettings.js" >
