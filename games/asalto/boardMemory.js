@@ -33,13 +33,14 @@ function BoardMemory(params) {
     this.execute = function(arrPosition) {
         if (!repetitionIsGeeseLoss) return false;
         var position = transformToString(arrPosition);
-        tempMap = {};
         queue.push(position);
         while (queue.length > maxSize) {
             var oldElem = queue.shift();
             dec(map, oldElem);
         }
-        return inc(map, position);
+        var positionRepeated = inc(map, position)
+        tempMap = copyOfObject(map);
+        return positionRepeated;
     }
 
     var transformToString = function(position) {
@@ -51,6 +52,14 @@ function BoardMemory(params) {
             }
         }
         return s;
+    }
+
+    var copyOfObject = function(m) {
+        var copyOfM = {};
+        for (var key in m) {
+            copyOfM[key] = m[key];
+        }
+        return copyOfM;
     }
 
     var inc = function(m, elem) {
