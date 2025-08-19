@@ -40,6 +40,7 @@ function I18n(params) {
             "preset-sheep-label": "Вовки та вівці",
             "preset-geese-label": "Лисиця та гуси",
             "preset-rhombus-label": "Лисиця та гуси (велике поле)",
+            "preset-hare-label": "Спіймай зайця",
             "preset-config": "Налаштування правил",
             "freeGeeseMovementAllowed-label": "Гусям дозволено довільно рухатися",
             "horizontalMovementAllowed-label": "Гусям дозволено рухатися убік",
