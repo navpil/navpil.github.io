@@ -27,6 +27,8 @@ var showConfig = function(rulePreset) {
     document.getElementById("game").classList.add("hidden");
     document.getElementById("position-choosing").classList.remove("hidden");
 
+    document.getElementsByTagName("body")[0].classList.add("modal");
+
     config.position = copyOfPosition(rulePreset.initialPosition);
 
     document.getElementById("freeGeeseMovementAllowed").checked = !!rulePreset.freeGeeseMovementAllowed;
@@ -116,10 +118,11 @@ var saveConfig = function() {
 
     hideConfig();
     initPreset(rulePreset);
-    boardclicked(0, 0);
+    triggerBoardClicked();
 }
 
 var hideConfig = function() {
     document.getElementById("game").classList.remove("hidden");
     document.getElementById("position-choosing").classList.add("hidden");
+    document.getElementsByTagName("body")[0].classList.remove("modal");
 }

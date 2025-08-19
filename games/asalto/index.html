@@ -48,10 +48,12 @@
             left: 0px;
             width: 100%;
             height: 100%;
-            background-color: rgb(50, 50, 50, 0.3);
         }
         .hidden {
             display: none;
+        }
+        .modal {
+            background-color: rgb(50, 50, 50, 0.3);
         }
     </style>
 
@@ -104,6 +106,9 @@
                 <br>
                 <input name="preset" id="preset-rhombus" value="rhombus" onchange="changePreset('rhombus')" type="radio">
                 <label id="preset-rhombus-label"  for="preset-rhombus">Fox and Geese (large board)</label>
+                <br>
+                <input name="preset" id="preset-hare" value="hare" onchange="changePreset('hare')" type="radio">
+                <label id="preset-hare-label"  for="preset-hare">Catch the Hare</label>
                 <br>
                 <p id="preset-config">Preset specific configuration:</p>
                 <input name="freeGeeseMovementAllowed" id="freeGeeseMovementAllowed" type="checkbox">

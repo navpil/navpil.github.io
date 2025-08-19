@@ -20,6 +20,9 @@ function I18n(params) {
             "continue-game": "Продовжити"
         },
         "en": {
+            "Select piece": "Choose the piece",
+            "Select move": "Choose the move",
+            "Select huff": "Choose a huffed piece",
             "You've missed the huff": "You've missed the capture, your piece is huffed",
         }
 

@@ -68,6 +68,28 @@ function BoardPainter(canvasElem, surroundingElem, piecesElem) {
         drawAlqerq(startI+WIDTH, startJ+WIDTH*2, ctx)
     }
 
+    this.drawHareBoard = function(elemId) {
+        var totalWidth = WIDTH * 2 + startI * 2
+        var totalHeight = WIDTH * 2 + startJ * 2
+        canvas.width = totalWidth;
+        canvas.height = totalHeight;
+
+        setWidthAndHeightForSurroundingArea(totalWidth, totalHeight);
+
+        const ctx = canvas.getContext("2d");
+
+        ctx.fillStyle = "rgb(0 255 128 / 15%)";
+        ctx.fillRect(0, 0, totalWidth, totalHeight);
+
+        ctx.lineWidth = 2;
+        ctx.strokeStyle = "rgb(0 84 84)";
+
+        drawAlqerq(startI, startJ, ctx)
+        drawAlqerq(startI, startJ+WIDTH, ctx)
+        drawAlqerq(startI+WIDTH, startJ+WIDTH, ctx)
+        drawAlqerq(startI+WIDTH, startJ, ctx)
+    }
+
     this.drawSepoyBoard = function(elemId) {
         var totalWidth = WIDTH * 4 + startI * 2
         var totalHeight = WIDTH * 4 + startJ * 2

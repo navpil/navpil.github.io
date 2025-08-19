@@ -34,6 +34,12 @@ var RULE_PRESETS = {
         horizontalMovementAllowed: true,
         initialPosition: RHOMBUS_INITIAL_POSITION
     },
+    HARE: {
+        name:  "HARE",
+        BOARD_TYPE: "HARE",
+        freeGeeseMovementAllowed: true,
+        initialPosition: HARE_INITIAL_POSITION,
+    },
 };
 
 var backwardFortressMovementAllowed = true;
@@ -64,7 +70,7 @@ var continueGame = function() {
     clickedState = {
        "state": "WAIT"
     }
-    boardclicked(0,0);
+    triggerBoardClicked();
 }
 
 var initPreset = function(rulePreset) {
@@ -94,7 +100,7 @@ var initPreset = function(rulePreset) {
         if (fort.length > 0) {
             LOST_GEESE_COUNT = fort.length - 1
         } else {
-            LOST_GEESE_COUNT = (GAME_BOARD_TYPE === "GEESE" || GAME_BOARD_TYPE === "ASALTO") ? 7 : 10;
+            LOST_GEESE_COUNT = (GAME_BOARD_TYPE === "GEESE" || GAME_BOARD_TYPE === "ASALTO" || GAME_BOARD_TYPE === "HARE") ? 7 : 10;
         }
         return fort;
     })();
@@ -113,7 +119,7 @@ var initPreset = function(rulePreset) {
 
     //To simulate move if both are computer players
     timeouts.registerTimeout(0, setTimeout(function() {
-        boardclicked(0, 0);
+        triggerBoardClicked();
     }, 0));
 
     bm = new BoardMemory({
@@ -166,9 +172,12 @@ var createBoard = function(elemId, gameBoardType) {
     } else if (gbt === "ASALTO") {
         bp.drawGeeseBoard(true);
         return ASALTO_BOARD;
-    } else {
+    } else if (gbt === "RHOMBUS") {
         bp.drawRhombusBoard();
         return RHOMBUS_BOARD;
+    } else {
+        bp.drawHareBoard();
+        return HARE_BOARD;
     }
 }
 
@@ -252,9 +261,7 @@ var huffing = {
             }
         }
     }
-
 }
-
 
 var strong = function(i, j) {
     return GAME_BOARD_TYPE === "RHOMBUS" ? (i + j) % 2 === 1 : (i + j) % 2 == 0;
@@ -470,13 +477,19 @@ var moveAvailable = function(state, i, j, foxMove, position) {
     return null;
 }
 
+var triggerBoardClicked = function() {
+    boardclicked(-1, -1);
+}
+
 var boardclicked = function(i, j) {
     if (clickedState.state == "PC" || clickedState.state === "FOXES-WON" || clickedState.state === "GEESE-WON") {
         //we should not trigger other movements
         return;
     }
     var geezeLostDueToRepetition = false;
-    if (clickedState.state == "WAIT") {
+    if (i === j && i === -1) {
+        //This is a bogus click
+    } else if (clickedState.state == "WAIT") {
         if ((foxMove && position[i][j] == FOX) || (!foxMove && position[i][j] == GOOSE)) {
             setClickedState("MOVE");
             clickedState.i = i;
@@ -962,7 +975,7 @@ var executeFullMove = function(move) {
         foxMove = !foxMove;
         timeouts.registerTimeout(5, setTimeout(function() {
             finishMove(move.to.i, move.to.j);
-        }, MOVEMENT_SPEED));
+        }, pcForGeese && pcForFox ? MOVEMENT_SPEED : 0));
     }
 
 }
@@ -1007,7 +1020,7 @@ var finishMove = function(i, j) {
     setClickedState("WAIT");
     var geezeLost = bm.execute(position);
     checkWinningCondition(foxMove && geezeLost);
-    boardclicked(0, 0);
+    triggerBoardClicked();
     selectLastMove(i, j);
 }
 
