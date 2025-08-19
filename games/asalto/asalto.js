@@ -126,6 +126,8 @@ var initPreset = function(rulePreset) {
         size: 90,
         repetitionIsGeeseLoss: repetitionIsGeeseLoss
     });
+
+    huffing.clear();
 }
 
 var repetitionIsGeeseLoss = false;
@@ -138,9 +140,19 @@ var initialFoxCount = 0;
 
 var ALL_CAPTURES_MANDATORY = true;
 var DEPTH = 4;
-var BREADTH = 50;
+var BREADTH = 75;
 
 var MOVEMENT_SPEED = 500;
+
+var developerOption = false;
+if (developerOption) {
+    repetitionIsGeeseLoss = true;
+    pcForFox = false;
+    pcForGeese = true;
+    DEPTH = 0;
+    BREADTH = 1;
+    MOVEMENT_SPEED = 500;
+}
 
 //0 - geese filled the fort, 1 - trapped fox and geese filled the fort, 2 - fort is filled
 var FORT_WINNING_CONDITION = {
@@ -207,6 +219,21 @@ var copyOfPosition = function(initialPosition) {
         copyOfPos.push(copyOfRow);
     }
     return copyOfPos;
+}
+
+var stopCapturing = function() {
+    foxMove = !foxMove;
+    deselectPiece(clickedState.i, clickedState.j);
+
+    if (captureMandatory && huffing.hasHuffs()) {
+        setClickedState("HUFFING");
+        huffing.selectHuffs();
+    } else {
+        setClickedState("WAIT");
+    }
+
+    triggerBoardClicked();
+
 }
 
 var huffing = {
@@ -528,10 +555,12 @@ var boardclicked = function(i, j) {
 
             if (captureAvailable(i, j)) {
                 setClickedState("CAPTURING");
+                huffing.resetTo(i, j);
                 selectPiece(i, j);
                 clickedState.i = i;
                 clickedState.j = j;
             } else {
+                huffing.clear();
                 setClickedState("WAIT");
                 foxMove = !foxMove;
             }
@@ -580,6 +609,7 @@ var boardclicked = function(i, j) {
     } else if (clickedState.state === "HUFFING") {
         if (huffing.containsHuff(i, j)) {
             position[i][j] = 0;
+            initialFoxCount--;
             repaintBoard(board, position);
             setClickedState("WAIT");
         }
@@ -600,6 +630,7 @@ var boardclicked = function(i, j) {
         info("Computer moves the goose, please wait");
         if (captureMandatory && huffing.hasHuffs()) {
             info("You've missed the huff");
+            initialFoxCount--;
             movementTimeout = 4*MOVEMENT_SPEED;
             timeouts.registerTimeout(2, setTimeout(function() {
                 huffing.selectHuffs();
@@ -611,12 +642,19 @@ var boardclicked = function(i, j) {
                 position[piece.i][piece.j] = 0;
                 huffing.clear();
                 repaintBoard(board, position);
-                info("Computer moves the goose, please wait");
+                if (initialFoxCount > 0) {
+                    info("Computer moves the goose, please wait");
+                }
             }, 2*MOVEMENT_SPEED));
         }
         timeouts.registerTimeout(4, setTimeout(function() {
-            var move = findBestMove(DEPTH, BREADTH);
-            executeFullMove(move.move);
+            //Special case when computer move starts with huffing and it was the last fox
+            if (initialFoxCount === 0) {
+                setClickedState("GEESE-WON");
+            } else {
+                var move = findBestMove(DEPTH, BREADTH);
+                executeFullMove(move.move);
+            }
         }, movementTimeout));
     }
 }
@@ -640,7 +678,7 @@ var geeseOccupiedFortress = function() {
                 return false;
             }
             //A fox in a fortress must be trapped
-            if (position[fplace.i][fplace.j] === FOX && howManyMovesAvailable(fplace.i, fplace.j, true, position) > 0) {
+            if (position[fplace.i][fplace.j] === FOX && !isFoxReallyTrapped(fplace.i, fplace.j, position)) {
                 return false;
             }
         }
@@ -673,6 +711,49 @@ var tooFewGeese = function() {
         }
     }
     return true;
+}
+
+var isFoxReallyTrapped = function(fi, fj, position) {
+
+    var recursiveHasFreedom = function(i, j) {
+        var isWeak = !strong(i, j);
+        for (var ii = -1; ii <= 1; ii+=1) {
+            for (var jj = -1; jj <= 1; jj+=1) {
+                if (isWeak) {
+                    //diagonal movements are not possible on weak intersections
+                    if (!(ii === 0 || jj === 0)) {
+                        continue;
+                    }
+                }
+                if (validBoardPosition(i + ii, j + jj)) {
+                    if (position[i + ii][j + jj] === 0) {
+                        return true;
+                    }
+                    if (position[i + ii][j + jj] === FOX) {
+                        position[i + ii][j + jj] = 6;
+                        if (howManyMovesAvailable(i + ii, j + jj, true, position) > 0 || recursiveHasFreedom(i+ii, j+jj)) {
+                            return true;
+                        }
+                    }
+                }
+            }
+        }
+        return false;
+    }
+
+    var hasFreedom = howManyMovesAvailable(fi, fj, true, position) > 0 || recursiveHasFreedom(fi, fj);
+
+    for(var i = 0; i < position.length; i++) {
+        var row = position[i];
+        for (var j = 0; j < row.length; j++) {
+            if (position[i][j] === 6) {
+                position[i][j] = 8;
+            }
+        }
+    }
+
+    return !hasFreedom;
+
 }
 
 /**
@@ -723,7 +804,7 @@ var calculateBoardPrice = function() {
     var goosePrice = 100.0;
     var foxPrice = 10.0;
     //Used in calculating if fox is trapped
-    var foxPosition;
+    var foxPositions = [];
     var hasFortress = fortress.length > 0;
     if (hasFortress && geeseOccupiedFortress()) {
         //Geese won
@@ -733,11 +814,12 @@ var calculateBoardPrice = function() {
         var row = position[i];
         for (var j = 0; j < row.length; j++) {
             if (position[i][j] === GOOSE) {
-                price = price + goosePrice;
+                //Adding more value for geese inside fortress on the front line - this is hardcoded, because all fortresses are three lines deep
+                price = price + goosePrice + ((i===2 && board[i][j] === 1) ? 2 : 0);
             } else if (position[i][j] === FOX) {
                 var captures = getAllCaptures(i, j);
                 price = price - foxPrice - captures.length;
-                foxPosition = {i:i, j:j};
+                foxPositions.push({i:i, j:j});
             }
         }
         if (hasFortress) {
@@ -751,8 +833,11 @@ var calculateBoardPrice = function() {
             foxPrice = foxPrice - 1.0;
         }
     }
-    if (initialFoxCount === 1) {
-        price = price + 10*(50 - foxTerritoryCount(foxPosition));
+    if (!hasFortress) {
+        for (var foxPositionI in foxPositions) {
+            //Geese should surround foxes, so we substract territory;
+            price = price - 2*foxTerritoryCount(foxPositions[foxPositionI]);
+        }
     }
 
     return price;
@@ -1153,10 +1238,15 @@ var lastMove;
 
 
 var setClickedState = function(state) {
+    var stopCaptureElem = document.getElementById("stop-capture");
+    stopCaptureElem.classList.add("hidden");
     clickedState.state = state;
     if (state === "WAIT") info("Select piece");
     if (state === "MOVE") info("Select move");
-    if (state === "CAPTURING") info("Continue capturing");
+    if (state === "CAPTURING") {
+        info("Continue capturing");
+        stopCaptureElem.classList.remove("hidden");
+    }
     if (state === "HUFFING") info("Select huff");
     if (state === "GEESE-WON") info("Geese won!");
     if (state === "FOXES-WON") info("Foxes won!");

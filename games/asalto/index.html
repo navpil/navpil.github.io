@@ -68,8 +68,8 @@
         <div id="board" style="position: absolute; margin-left: -1px;">
         </div>
     </div>
-    <div id="info" style="margin: auto; width: 490px;padding-top:40px" >
-        FOX,GEESE&Co
+    <div style="margin: auto; width: 490px;padding-top:40px">
+        <span id="info">FOX,GEESE&Co</span><button class="hidden" id="stop-capture" onclick="stopCapturing()">or stop Capturing</button>
     </div>
     <div  style="margin: auto; width: 490px; padding-top: 40px">
         <button id="show-config" type="button" onclick="showConfig(globalRulePreset)">Show Config</button>
@@ -165,7 +165,7 @@
                 <label id="ai-depth-label" for="ai-depth">Depth - how many moves ahead AI calculates (3-5 is optimal)</label>
                 <br>
                 <input name="ai-breadth" id="ai-breadth" type="text">
-                <label id="ai-breadth-label" for="ai-breadth">Breadth - how many moves AI analyses (25-50 is optimal)</label>
+                <label id="ai-breadth-label" for="ai-breadth">Breadth - how many moves AI analyses (25-200 is optimal)</label>
                 <br>
                 <input name="movement-speed" id="movement-speed" type="text">
                 <label id="movement-speed-label" for="movement-speed">Movement Speed (ms) - affects AI interaction in some cases</label>

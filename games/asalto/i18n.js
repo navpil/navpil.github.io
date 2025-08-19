@@ -6,7 +6,7 @@ function I18n(params) {
             "Select piece": "Обери фішку",
             "Select move": "Обери хід",
             "Continue capturing": "Продовжуй побиття",
-            "Select huff": "Обери фук",
+            "Select huff": "Лисиця профукала фішку, обери яку",
             "Geese won!": "Гуси перемогли",
             "Foxes won!": "Лисиці перемогли",
             "Please finish your capture": "Будь-ласка заверши побиття",
@@ -22,7 +22,7 @@ function I18n(params) {
         "en": {
             "Select piece": "Choose the piece",
             "Select move": "Choose the move",
-            "Select huff": "Choose a huffed piece",
+            "Select huff": "Fox have missed a capture, choose a huffed piece",
             "You've missed the huff": "You've missed the capture, your piece is huffed",
         }
 
@@ -34,6 +34,7 @@ function I18n(params) {
             "restart-game": "Розпочати заново",
             "stop-game": "Зупинити",
             "continue-game": "Продовжити",
+            "stop-capture": "або припинити побиття" ,
             "rule-preset": "Варіант правил",
             "preset-sepoys-label": "Офіцери та сипаї",
             "preset-asalto-label": "Облога",
@@ -62,7 +63,7 @@ function I18n(params) {
             "pcForFox-label": "Комп'ютер грає за лисиць",
             "pcForGeese-label": "Комп'ютер грає за гусей",
             "ai-depth-label": "Глибина - скільки ходів комп'ютер прораховує наперед (3-5 - це оптимально)",
-            "ai-breadth-label": "Ширина - скільки ходів комп'ютер аналізує (25-100 - це оптимально)",
+            "ai-breadth-label": "Ширина - скільки ходів комп'ютер аналізує (25-200 - це оптимально)",
             "movement-speed-label": "Швидкість руху (в мілісекундах) - впливає на промальовку ходів комп'ютера",
             "save-button": "Зберегти",
             "cancel-button": "Відміна",
