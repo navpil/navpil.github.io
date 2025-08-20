@@ -1,6 +1,6 @@
 # Fox, Geese & Co
 
-Hunt games are games where players play with different armies - one plays with a large number of weak pieces, or hunters, and the other with a small number of strong ones, or prey. The hunters' goal is to catch prey, and in some games - to fill a fortress. The prey's goal is to prevent the hunters from doing so. To balance such different armies, prey is given the opportunity to beat the hunter by jumping over him (as in checkers), and hunters are often limited in their moves.
+Hunt games are games where players play with different armies - one plays with a large number of weak pieces, or hunters, and the other with a small number of strong ones, or prey. The hunters' goal is to catch prey, and in some games - to fill a fortress. The prey's goal is to prevent the hunters from doing so. To balance such different armies, prey is given the opportunity to capture the hunter by jumping over him (as in checkers), and hunters are often limited in their moves.
 
 Fox and Geese is a popular European hunt game, which is played on a special cross-shaped field, and the pieces move along lines. Originally there was one fox and thirteen geese. But over time, people began adding a second fox, increasing the number of geese, changing the size of the board, or adding a special part - a fortress - that the geese must fill to win. Such variants may have different names - for example Wolves and Sheep, or Siege (Asalto).
 
