@@ -445,7 +445,8 @@ var findBestMove = function(depth, cutoff) {
         } else {
             var maybeWon = calculateBoardPrice();
             if (!foxMove && maybeWon === 10000) {
-                bestPrice = currentPrice;
+                currentPrice = maybeWon;
+                bestPrice = maybeWon;
                 bestMove = move;
                 undo(move);
                 break;
