@@ -74,7 +74,7 @@
     <div  style="margin: auto; width: 490px; padding-top: 40px">
         <button id="show-config" type="button" onclick="showConfig(globalRulePreset)">Show Config</button>
         <button id="restart-game" type="button" onclick="restartGame()">Restart</button>
-        <button id="stop-game" type="button" onclick="timeouts.clearAllTimeouts()">Stop</button>
+        <button id="stop-game" type="button" onclick="stopGame()">Stop</button>
         <button id="continue-game" type="button" onclick="continueGame()">Continue</button>
     </div>
     <div style="position: absolute; right: 0; bottom: 0; padding: 20px">
@@ -162,7 +162,7 @@
                 <label id="pcForGeese-label" for="pcForGeese">Geese Computer Player</label>
                 <br>
                 <input name="ai-depth" id="ai-depth" type="text">
-                <label id="ai-depth-label" for="ai-depth">Depth - how many moves ahead AI calculates (3-5 is optimal)</label>
+                <label id="ai-depth-label" for="ai-depth">Depth - how many moves ahead AI calculates (3-5 is optimal, &gt;5 is NOT recommended)</label>
                 <br>
                 <input name="ai-breadth" id="ai-breadth" type="text">
                 <label id="ai-breadth-label" for="ai-breadth">Breadth - how many moves AI analyses (25-200 is optimal)</label>
@@ -181,6 +181,8 @@
 </div>
 
 <script src="i18n.js">
+</script>
+<script src="functions.js">
 </script>
 <script src="boardMemory.js">
 </script>

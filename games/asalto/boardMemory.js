@@ -8,6 +8,18 @@ function BoardMemory(params) {
     var queue = [];
     var map = {};
 
+    this.getParams = function() {
+        return {
+            queue: queue,
+            map: map
+        }
+    };
+    this.initWithParams = function(params) {
+        queue = params.queue;
+        map = params.map;
+        tempMap = copyOfObject(map);
+    };
+
     //Only for temporary calculation
     this.tempExecute = function(arrPosition) {
         if (!repetitionIsGeeseLoss) return false;
