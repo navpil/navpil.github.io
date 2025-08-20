@@ -683,9 +683,11 @@ if (getQueryVariable("lang") === "ua") {
     switchLanguageElement.innerHTML = "English version"
     aboutElement.href = "about-ua.html";
     aboutElement.innerHTML = "Про гру";
+    document.getElementById("ua-flag").classList.add("hidden");
 } else {
     switchLanguageElement.href = "index.html?lang=ua" + (presetFromQuery ? ("&preset=" + presetFromQuery) : "");
     switchLanguageElement.innerHTML = "Українська версія"
     aboutElement.href = "about-en.html";
     aboutElement.innerHTML = "About game";
+    document.getElementById("ua-flag").classList.remove("hidden");
 }
