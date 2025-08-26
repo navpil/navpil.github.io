@@ -133,7 +133,7 @@ exts:
 
 Самі ж правила Кіркату достеменно не відомі. Точно відомо, що шашок було по 12 в кожного гравця; як розставлялися шашки на початку гри; те, що шашки ходили по лініях в довільну сторону і те, що дамок в цій грі не було. Одним ходом можна було побити декілька шашок, як і в сучасних шашках. Не до кінця зрозуміло, які правила діяли для ситуацій, коли жоден гравець не хотів іти в атаку. Ймовірно така ситуація вважалася нічиєю, або перемагав гравець з більшою кількістю шашок. Можливо також була заборона наступним ходом ходити шашкою на те саме поле, з якого вона прийшла минулого ходу.
 
-Існують сучасні ігри, що нагадують Кіркат і їх грають в арабських державах Африки - це [Замма](https://en.wikipedia.org/wiki/Zamma) та [Харбаґа](https://en.wikipedia.org/wiki/Kharbaga).
+Існують сучасні ігри, що нагадують Кіркат і їх грають в арабських державах Африки - це [Замма](https://en.wikipedia.org/wiki/Zamma), [Харбаґа](https://en.wikipedia.org/wiki/Kharbaga) та, особливо, [Фете](https://en.wikipedia.org/wiki/Fetaix), котрий є просто Кіркатом з дамкою. 
 
  - [Про Кіркат на Вікіпедії (англ.)](https://en.wikipedia.org/wiki/Alquerque)
 
@@ -143,9 +143,9 @@ exts:
 
 Деякі інші непогані джерела про правила гри в шашки:
 
- - https://brainking.com/en/GameRules?tp=7
- - https://en.wikipedia.org/wiki/Checkers
+ - [https://brainking.com/en/GameRules?tp=7](https://brainking.com/en/GameRules?tp=7)
+ - [https://en.wikipedia.org/wiki/Checkers](https://en.wikipedia.org/wiki/Checkers)
 
 Зіграти в деякі з цих ігор можна тут:
 
- - https://dagazproject.github.io/
+ - [https://dagazproject.github.io/](https://dagazproject.github.io/)

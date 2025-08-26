@@ -424,9 +424,10 @@ var findBestMove = function(depth, cutoff) {
     //Lowest better for foxes, higher better for geese
     var bestPrice = foxMove ? 1000000 : -1000000;
     var bestMove;
+    var deepestDepth;
     for (var mi in moves) {
         if (mi == cutoff) break;
-        var move = moves[mi]
+        var move = moves[mi];
         if (!bestMove) {
             //In some cases "bestPrice" returned from the calculation is max/min value and
             // the bestMove is not chosen. This is to prevent this from happening
@@ -435,19 +436,23 @@ var findBestMove = function(depth, cutoff) {
 
         var geezeLost = execute(move);
         var currentPrice;
+        var currentDepth;
 
         if (!foxMove && geezeLost) {
             currentPrice = -10000;
+            currentDepth = depth;
         } else if (move.type === "CAPTURE") {
             var nextCaptures = continueCapture(depth-1, cutoff, move.to.i, move.to.j);
             move.nextCaptures = nextCaptures.nextCaptures;
             currentPrice = nextCaptures.price;
+            currentDepth = nextCaptures.depth;
         } else {
             var maybeWon = calculateBoardPrice();
             if (!foxMove && maybeWon === 10000) {
                 currentPrice = maybeWon;
                 bestPrice = maybeWon;
                 bestMove = move;
+                deepestDepth = depth;
                 undo(move);
                 break;
 
@@ -456,10 +461,13 @@ var findBestMove = function(depth, cutoff) {
                 if (depth <= 0)  {
                     //calculate move weight
                     currentPrice = calculateBoardPrice();
+                    currentDepth = depth;
                 } else {
                     //recursion
                     foxMove = !foxMove;
-                    currentPrice = findBestMove(depth - 1,  cutoff).price;
+                    var currentNextMove = findBestMove(depth - 1,  cutoff);
+                    currentPrice = currentNextMove.price;
+                    currentDepth = currentNextMove.depth;
                     foxMove = !foxMove;
                 }
             } else {
@@ -467,33 +475,40 @@ var findBestMove = function(depth, cutoff) {
                 if (currentPrice === 10000) {
                     bestPrice = currentPrice;
                     bestMove = move;
+                    deepestDepth = depth;
                     undo(move);
                     break;
                 }
                 if (depth <= 0)  {
-                    //do nothing
-//                    currentPrice = calculateBoardPrice();
+                    //do nothing //WHY WE DO NOTHING when it's a goose, but do something when it's a fox?
+                    currentPrice = calculateBoardPrice();
+                    currentDepth = depth;
                 } else {
                     //recursion
                     foxMove = !foxMove;
-                    currentPrice = findBestMove(depth - 1,  cutoff).price;
+                    var currentNextMove = findBestMove(depth - 1,  cutoff);
+                    currentPrice = currentNextMove.price;
+                    currentDepth = currentNextMove.depth;
                     foxMove = !foxMove;
                 }
-
-
             }
 
         }
 
-        if (foxMove) {
+        if (currentPrice === bestPrice && (!deepestDepth || currentDepth < deepestDepth)) {
+            bestMove = move;
+            deepestDepth = currentDepth;
+        } else if (foxMove) {
             if (currentPrice < bestPrice) {
                 bestPrice = currentPrice;
                 bestMove = move;
+                deepestDepth = currentDepth;
             }
         } else {
             if (currentPrice > bestPrice) {
                 bestPrice = currentPrice;
                 bestMove = move;
+                deepestDepth = currentDepth;
             }
         }
 
@@ -501,7 +516,8 @@ var findBestMove = function(depth, cutoff) {
     }
     return {
         move: bestMove,
-        price: bestPrice
+        price: bestPrice,
+        depth: deepestDepth ? deepestDepth : depth
     }
 }
 
@@ -524,6 +540,7 @@ var continueCapture = function(depth,  cutoff, i, j) {
 
     var bestPrice = 1000000;
     var bestMove;
+    var deepestDepth;
 
     for (var ci in captures) {
         if (ci == cutoff) break;
@@ -536,6 +553,7 @@ var continueCapture = function(depth,  cutoff, i, j) {
         execute(captureMove);
 
         var nextCaptures = continueCapture(depth-1,  cutoff, capture.i, capture.j);
+        var currentDepth = nextCaptures.depth;
         var currentPrice = nextCaptures.price;
 
         var allNextCaptures = [];
@@ -549,6 +567,10 @@ var continueCapture = function(depth,  cutoff, i, j) {
         if (currentPrice < bestPrice) {
             bestPrice = currentPrice;
             bestMove = captureMove;
+            deepestDepth = currentDepth;
+        } else if (currentPrice === bestPrice && (!deepestDepth || currentDepth < deepestDepth)) {
+            bestMove = captureMove;
+            deepestDepth = currentDepth;
         }
 
         undo(captureMove);
@@ -556,8 +578,9 @@ var continueCapture = function(depth,  cutoff, i, j) {
     }
 
     return {
-        move: captureMove,
+        move: bestMove,
         price: bestPrice,
+        depth: deepestDepth ? deepestDepth : depth,
         nextCaptures: allNextCaptures
     }
 }
