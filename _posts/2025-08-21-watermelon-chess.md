@@ -7,8 +7,6 @@ title: "Xi Gua Qi: Simple game for younger kids"
 exts:
 - https://boardgamegeek.com/thread/3563009/xi-gua-qi-simple-game-for-younger-kids
 ---
-
-
 Watermelon Chess or Xi Gua Qi is a simple blocking game. Players capture opponent pieces by surrounding them from all sides.
 
 This game feels like an expanded version of a Horseshoe and is also somewhat similar to Hobag Gonu. It's a game for children but it's more complex than Tic Tac Toe. The way it is intended to be played is to draw a board with a chalk on a ground, play few rounds with pebbles and then move on to other activities.

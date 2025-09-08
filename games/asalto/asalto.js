@@ -550,6 +550,9 @@ var executeFullMove = function(move) {
             }
         }
         var lastMove = (move.nextCaptures && move.nextCaptures.length > 0) ? move.nextCaptures[move.nextCaptures.length-1].to : move.to;
+        //AI Depth may be too small to account for all captures - so AI will continue capturing randomly if captures are still available
+        //This is done inside the "createContinueCapturingFunction"
+        //finishMove will also be called from inside the "createContinueCapturingFunction"
         repaintFunctions.push(createContinueCapturingFunction(lastMove));
         var tm = MOVEMENT_SPEED;
         timeouts.startArrayRegistering();
