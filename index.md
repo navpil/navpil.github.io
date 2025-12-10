@@ -1,7 +1,8 @@
 # Навпіл-сайт
 
 Також мене можна знайти на [Medium](https://medium.com/@navpil), 
-[Wordpress](https://navpil.wordpress.com/), 
+[Wordpress](https://navpil.wordpress.com/),
+[Друкарні](https://drukarnia.com.ua/navpil), 
 [Facebook](https://www.facebook.com/dmytro.polovynka) 
 та [Highload Today](https://highload.today/uk/author/dmytro-polovynka/)
 

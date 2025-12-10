@@ -5,6 +5,10 @@ title: "Слово про ранніх правителів - шумерське
 tags:
   - art
   - sumer
+exts:  
+- https://medium.com/@navpil/poem-early-rulers-bc06e4d23066
+- https://sumerua.wordpress.com/2025/07/21/early-rulers/
+- https://drukarnia.com.ua/articles/slovo-pro-rannikh-praviteliv-shumerske-memento-mori-oyfdG
 ---
 Слово про ранніх правителів - це текст, що нагадує про марноту існування та неминучість смерті, але має несподівану кінцівку.
 
@@ -103,4 +107,3 @@ tags:
  - Алулім, Базі та Зізі згадуються в [The Sumerian king list](https://etcsl.orinst.ox.ac.uk/section2/tr211.htm)
  - Міф про Етану можна почитати тут: https://en.wikipedia.org/wiki/Etana
  - Еклезіаста 3:4 (...час реготати... час танцювати), 3:13, 5:17 (5:18).
-

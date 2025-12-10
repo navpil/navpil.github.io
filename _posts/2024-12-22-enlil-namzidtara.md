@@ -8,6 +8,7 @@ tags:
 exts:
 - https://sumerua.wordpress.com/2025/07/07/enlil-namzidtara/
 - https://medium.com/@navpil/enlil-i-namzidtara-155200e707e9
+- https://drukarnia.com.ua/articles/shumerska-pritcha-pro-enlilya-ta-namzidtaru-7JG8x
 ---
 Притча про Енліля та Намзідтару - це невеличкий твір, в якому жрець - Намзідтара - впізнає бога Енліля, за що той дарує йому добру долю. 
 При цьому обігрується ім'я Намзідтари, що в перекладі означає "Наділений праведною долею".
