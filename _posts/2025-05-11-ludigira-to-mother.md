@@ -78,6 +78,8 @@ _Колодязь,
   на підніжжі з лазуриту,   
 Що ожила і несе радість.  
   
+[//]: # (Колодязь, що втамовує подорожніх - взятий альтернативний рядок ĝišpu2 E? zal-le niĝ2 zi pa-anaĝ2-pa-anaĝ2, тому що оригінальний рядок складно зрозуміти. )
+
 Ще втретє опишу  
   тобі свою матір:  
 Мати моя як небесний дощ,  
@@ -152,4 +154,5 @@ _Колодязь,
 
  - [Шумерський оригінал на ETCSL](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.5.5.1#)
  - [Англійський переклад на ETCSL](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.5.5.1#)
+ - [The "Message of Lú-Dingir-ra to His Mother" and a Group of Akkado-Hittite "Proverbs"M. Civil](https://www.jstor.org/stable/543176)
  - "History Begins at Sumer: Thirty-Nine Firsts in Recorded History" авторства Samuel Noah Kramer, глава 36

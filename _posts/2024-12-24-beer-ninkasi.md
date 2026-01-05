@@ -8,6 +8,7 @@ tags:
 exts:
  - https://sumerua.wordpress.com/2025/06/23/ninkasi-beer/
  - https://medium.com/@navpil/beer-ninkasi-8cdbeec484dc
+ - https://drukarnia.com.ua/articles/shumerska-oda-pivu-gimn-ninkasi-ZFrWN
 ---
 Гімн Нінкасі - це добре збережений шумерський текст, присвячений богині пива Нінкасі, який є джерелом знань про шумерське пиво.
 Пропоную вам прочитати власний художній переклад на українську, але для легшого прочитання перекладу, почну з короткого пояснення тексту.
