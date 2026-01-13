@@ -448,7 +448,10 @@ _жерців_-піліпілі перемінила.
 42.	a2-sag3 ebiḫ2-gin7 ga-ba-ab-sur-sur каміння, праща  
 43.	ĝiš-gid2-da niĝ2-su-ub ga-ba-ab-ak спис  
 44.	ĝišilar kušgur21ur3 si ga-na-ab-sa2-sa2 кийок, щит  
-45. ĝištukul – пернач  
+45. {ĝiš}tukul – палиця  
 46. a2-an-kar2 – булава  
 47. šita2 – кий  
-48. {ĝiš}tukul – пернач
+
+Other readings:
+
+ - Inanna and Ebih and the Scribal Tradition (Paul Delnero)
