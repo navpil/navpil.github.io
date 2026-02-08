@@ -254,8 +254,7 @@ _правдивими є._
 - [Англійський переклад на ETCSL, 2.4.2.01](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.2.4.2.01#)
 - ["Šulgi, the Runner" by Douglas Frayne](https://www.jstor.org/stable/602232)
 - ["Shulgi the Runner: Sumerian – Talmudic Affinities" By Aaron Demsky](https://www.academia.edu/9867799/Shulgi_the_Runner_Sumerian_Talmudic_Affinities)
-- "History Begins at Sumer" by Samuel Noah Kramer (31. Shulgi of Ur: The first Long-Distance Champion)  
-- ["House Most High: The Temples of Ancient Mesopotamia" by Andrew George](https://www.academia.edu/105053982/House_Most_High_The_Temples_of_Ancient_Mesopotamia)
+- "History Begins at Sumer" by Samuel Noah Kramer (31. Shulgi of Ur: The first Long-Distance Champion)
 
 [//]: # (Shulgi_the_Runner_Sumerian_Talmudic_Affinities - cторінка 89 – згадує місця в Біблії про біг)
 [//]: # ("Šulgi, the Runner" by Douglas Frayne - Коротко про річні формули царів. Рік шостий та рік сьомий Шульґі:)

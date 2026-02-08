@@ -91,3 +91,4 @@ exts:
 
  - [Притча на ETCSL](https://etcsl.orinst.ox.ac.uk/section5/tr571.htm)
  - [Розбір притчі з додатковими таблицями](https://shs.cairn.info/revue-d-assyriologie-2010-1-page-87?lang=fr)
+ - ["'Enlil and Namzitara' Reconsidered" by Jerrold S. Cooper](https://www.semanticscholar.org/paper/%E2%80%9CEnlil-and-Namzitara%E2%80%9D-Reconsidered-Cooper-Feliu/a084d895febdef9b05f38e3c7457e3e7f71baff6)

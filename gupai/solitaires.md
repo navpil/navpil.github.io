@@ -1,14 +1,18 @@
 # Solitaires
 
-Solitaires are games for one person. Solitaire games with Chinese dominoes can be divided into two groups. The first use classic triplets. Others are limited to classic pairs. 
+Solitaire games are games for one player. They can be divided into two groups. The first group uses classical triplets. The second group is limited to classical pairs.
 
-Solitaires using classic triplets are much more interesting, because in such games the same tile can belong to different triplets and you have to think about where to use it. Such games include: 
+Solitaire games based on triplets are usually more interesting. In these games, the same tile may belong to different triplets, so you have to decide carefully where to use it. This creates real choices and makes the game more strategic.
+
+These games include:
 
  - [Clearing the Rows](/gupai/solitaires/guo-wu-guan.html) 
  - [Game of Zen](/gupai/solitaires/zen.html) 
  - [Eight trigrams](/gupai/solitaires/eight-trigrams.html) 
 
-The second type of solitaire uses only pairs and the choice of how to use the tiles is obvious. Accordingly, these games are much simpler, I devoted only one page to them. I also included a memory game among solitaires, but in fact it can be played by two or even three people. 
+The second type of solitaire uses only pairs. In these games, the choice is usually obvious, so they are much simpler. For this reason, I describe them all on a single page.
+
+I also included a memory game in this section. Although it is presented as a solitaire, it can also be played by two or even three players.
 
  - [Description of solitaire with pairs](/gupai/solitaires/pairs-solitaires.html) . 
 

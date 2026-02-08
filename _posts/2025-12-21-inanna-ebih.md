@@ -351,7 +351,7 @@ _Із силою накинуся на нього_
 [//]: # (одна за однією – одне за одним – спроба передати палалелізм  2-a-bi)  
   
 Каміння, що складався з них Ебіх  
-із гуркотом по схилах покотилось.  
+із гуркотом по схилах покотились.  
 Із його схилів та ущелин  
   гадюки величезні отрутою плювали.  
 
@@ -441,7 +441,7 @@ _жерців_-піліпілі перемінила.
 
  - [Шумерський текст](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.1.3.2#)
  - [Англійський переклад](https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.3.2#)
-
+ - ["'Inana and Ebih' and the Scribal Tradition" by Paul Delnero](https://www.academia.edu/1908001/Inana_and_Ebih_and_the_Scribal_Tradition)
 -----------
 
 41.	ti mar-uru5-a si ga-ba-ab-sa2 – стріли, сагайдак  

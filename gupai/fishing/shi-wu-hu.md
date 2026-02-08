@@ -1,49 +1,79 @@
 # Shi Wu Hu
 
-The game Shi Wu Hu (十五湖) - "Fifteen Lakes" is very similar to the game [Tiu-U](/gupai/fishing/tiu-u.html) (please read the rules of Tiu-U first if you haven't done so already) 
+Shi Wu Hu (十五湖) "Fifteen Lakes" is very similar to the game [Tiu-U](/gupai/fishing/tiu-u.html) (please read the rules of Tiu-U first if you have not done so) 
 
-It is played with a special set of paper domino cards, in which there are four pieces of each domino card, for a total of 84 domino cards. In Europe, domino cards do not exist, but in China it is a common phenomenon. These cards are very elongated and they picture a domino tile they card corresponds to. Since there are four of each domino cards, the usual disproportion between civilian and military tiles no longer exists. There are four of each of them. At the end, I will give a version of a game adapted to the two decks of Chinese dominoes. 
+It is played with a special deck of paper domino cards, in which there are four copies of each of the 21 domino values — for a total of 84 cards. Domino cards are uncommon in Europe, but in China they are widespread. These cards are long and narrow, each depicting the domino tile it represents.
 
-The deck, which is called "Shi Wu Hu" itself, is used to play one trick taking game, where you have to take fifteen tricks - hence the name of the deck. But the fishing game is played with the same deck, so there may be some name confusion. 
+Since there are four copies of every tile, the usual imbalance between civilian and military tiles disappears. Each value appears exactly four times. I will give a version of a game adapted to the two decks of Chinese dominoes. 
+
+The deck known as “Shi Wu Hu” is also used for a trick-taking game in which players aim to win fifteen tricks - hence the name. The fishing game described here uses the same deck, which may cause some confusion.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/%E5%8D%81%E4%BA%94%E6%B9%96.png/562px-%E5%8D%81%E4%BA%94%E6%B9%96.png)  
 _Paper domino cards_
 
-Two or three players play. 30 cards are dealt equally between the players, 30 remain in the deck, 24 cards are laid out face up on the table - this is the "lake". In the future, the game continues according to the same rules as in the Tiu-U game with the following differences: 
+## Setup
 
- - cards of the supreme pair cannot capture each other (i.e. no exceptions for [2:1])
- - [5:5] and [6:4] cannot catch each other despite both having ten points (this is due to the scoring method - tens can bring bonuses)
- - three identical cards can be caught by the fourth only if these cards can be caught only by themselves, that is, this particular rule only works for [1:1], [2:1], [6:4], [5:5], [6:5], [6:6] - all of them can be caught only with an identical card and no other.
+Two or three players participate.
 
-Scoring is more complicated than in Tiu-U, but more balanced. Therefore, the catch is divided into three types - small, medium and large fish. It is worth recalling the mixed pairs from the game [Tien Gow](/gupai/tien-gow.html) in order to better understand the logic of scoring points. 
+- 30 cards are dealt equally among the players.
+- 30 cards remain face down as a draw pile.
+- 24 cards are placed face up on the table — this is the lake.
 
- - If the catch contains a Sky tile ([6:6]) and both nines (i.e., both [6:3] and [5:4]), then all tiles with such values are counted as big fish, otherwise - as small
+## Gameplay
+
+Play proceeds according to the same basic rules as Tiu-U, with several important differences. 
+
+- The two tiles of the Supreme Pair cannot capture each other (there is no exception for [2:1]).
+- [5:5] and [6:4] cannot capture each other, even though both total ten points. (This is related to scoring — “tens” may generate bonuses.)
+- Three identical cards on the table may be captured by the fourth copy only if that tile can be captured exclusively by itself. This applies only to: [1:1], [2:1], [6:4], [5:5], [6:5], and [6:6]. These tiles can only be captured by an identical tile and no other.
+
+
+## Scoring
+
+Scoring is more complex than in Tiu-U, but also more balanced. 
+
+Captured tiles are divided into three categories:
+
+- Large fish – 30 points
+- Medium fish – 20 points
+- Small fish – 10 points
+
+It is worth recalling the mixed pairs from the game [Tien Gow](/gupai/tien-gow.html) in order to better understand the logic of scoring points. 
+
+ - If the catch contains a Sky tile ([6:6]) and both nines (i.e., both [6:3] and [5:4]), then all tiles with such values are counted as big fish, otherwise - as small.
  - If the catch contains both tiles from the supreme pair (that is, both [4:2] and [2:1]), then all such tiles count as a large fish, otherwise - as a small fish.
  - If there are all four elevens in the catch (that is, four tiles of [6:5]), then it is called a Quarter (more precisely, a Jun - 鈞, an ancient measure of weight, close to imperial quarter) and they all count as a big fish, if if they are less, then they are count as small fish.
- - The same rule as the previous one applies to two more tiles: [5:5] and [6:4].
+ - The same "four of a kind" rule also applies to two more tiles: [5:5] and [6:4].
  - Middle fish are only tiles Earth-Eight ([1:1], [5:3], [6:2]), Man-Seven ([4:4], [5:2], [4:3]) and Harmony-Five ([3:1], [3:2], [4:1]) – under the same conditions as the Sky-Nine tiles. That is, all three tiles from the group must be present in order for all of them to count as middle fish.
  - All other tiles count as small fish.
  - Large fish count for 30 points, medium fish for 20, and small fish for 10.
 
-In addition, there are bonus points: 
+In addition, there are bonus points. If a person collects:
 
- - If a person collects all 12 tiles from the Sky-Nine group, then he gets another 300 points.
- - If a person has collected all Quarters (that is, 3 sets of four tiles of elevens and two types of tens), then he is awarded another 300 points.
- - If a person has collected all 8 tiles from the Supreme pair, then he gets another 300 points.
+- all 12 tiles from the Sky-Nine group, then he gets additional 300 points.
+- all Quarters (that is, 3 sets of four tiles of elevens and two types of tens), then gets additional 300 points.
+- all 8 tiles from the Supreme pair, then he gets additional 300 points.
 
-Note that in all cases of the middle fish, as in the Sky-Nine group, the grouping of tiles follows the same principle as the mixed pairs in the Tien Gow game. But since in the game Fifteen Lakes there are four copies of each tile, the maximum number of tiles in a group is 12, four civilian [6:6] and four each military [5:4] and [6:3]. And in order for them to count as large/medium fish, one civilian and two different military must be present. This rule is called: one-civilian-two-military. 
+Note that in the case of "Sky-Nine" group and all the middle fish groups, there is a requirement to have one civilian and two different military tiles to qualify as large/middle fish. This rule is called: **one-civilian-two-military**. 
 
 Settlements are one-to-one, just like in Jie Long. That is, players pay each other the difference in points. There is one nuance - if a player has scored 1000 points or more, and the other player has not, then the difference in points between them is doubled. 
 
-In fact, this same game can be played with two standard sets of Chinese dominoes, just like the Tiu-U. After all, finding a set of Chinese domino cards on our territory is even more difficult than Chinese dominoes. But since in this case there will be two times less military tiles, it is worth introducing the following changes: 
+## Adaptation for Two Standard GuPai sets
 
- - For mixed civil-military groups, remove the restriction of one-civilian-two-military, and instead introduce one-civilian-one-military. That is, now only one type of military tile is enough to count all the tiles from the group as large (or medium) fish.
- - Bonus 300 points to pay for a set of eight (not twelve) Sky-Nine tiles (which is logical, since there are no more)
- - Reduce the bonus for all tiles of the Supreme Pair to 100, because there are only four of them and it is much easier to collect them.
- - Dealing is the same as in Tiu-U - 24 tiles to the players, 24 in the deck, 16 face up on the table.
+Since domino cards are difficult to obtain outside China, the game may be adapted to two standard Chinese domino sets.
 
-  
-All other rules remain unchanged. This is only my suggestion for rule changes, but they are very much in the spirit of the original game. And one-civilian-one-military restrictions are sometimes introduced even when playing with the original deck. 
+Because this reduces the number of military tiles, the following adjustments are recommended:
+
+- Replace the one-civilian-two-military rule with one-civilian-one-military (That is, now only one type of military tile is enough to count all the tiles from the group as large or medium fish).
+- Sky-Nine bonus applies to 8 tiles (instead of 12), which is logical, because there are only 8 such tiles in the set
+- Reduce the bonus for all tiles of the Supreme Pair to 100, because there are only four of them and it is much easier to collect them.
+- Dealing is the same as in Tiu-U - 24 tiles to the players, 24 in the deck, 16 face up on the table.
+
+All other rules remain unchanged.
+
+This adaptation remains faithful to the spirit of the original game. Notably, even in card play, some groups sometimes apply the one-civilian-one-military restriction.
+
+### Example calculation
 
 An example of a calculation for a game adapted for two sets of Chinese dominoes: 
 

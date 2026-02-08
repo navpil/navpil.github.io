@@ -20,28 +20,73 @@ It is clear that in the civilian suit each tile has its own pair and this can be
 ![](/docs/assets/images/gupai/civil-pairs.jpg)  
 _Civilian suite pairs hierarchy (from high to low)_
 
-And what to do with the military? The Chinese solved this issue as follows - all military tiles are paired by the number of points. There are "Nines" ([6:3] and [5:4]), "Eights" ([6:2] and [5:4]), "Sevens" ([5:2] and [4:3]) and "Fives" ([4:1] and [3:2]). Tiles [4:2] and [2:1], which do not pair with anything, remain redundant. Since they do not pair with anything, they were paired and this pair is called "Supreme". This means that while the tiles are divided into two suits - civil and military, the pairs are divided into three suits - civil, military and the supreme. And there is a single pair in the last suit. In some games, it can't beat anything, but it can't be beaten either. In some games, this is simply the highest value. 
+And what to do with the military?
+
+## Chinese Military Pairs
+
+In the Chinese system, military tiles are paired according to their total number of pips:
+
+- Nines: [6:3] and [5:4]
+- Eights: [6:2] and [5:3]
+- Sevens: [5:2] and [4:3]
+- Fives: [4:1] and [3:2]
+
+Two tiles remain unpaired by total: [4:2] (total 6) and [2:1] (total 3).
+
+Since they do not naturally pair with other tiles, they form a special pair together. This pair is called the Supreme Pair.
+
+As a result:
+
+- Tiles belong to two suits: civilian and military.
+- Pairs belong to three categories: civilian pairs, military pairs, and the Supreme pair.
+
+In some games, the Supreme pair cannot beat anything and cannot be beaten. In other games, it is treated as the highest possible pair.
 
 ![](/docs/assets/images/gupai/chinese-wu-pairs.jpg)  
 _Chinese Military pairs and the Supreme Pair (on the right)_
 
-The Koreans solved the issue of pairing military tiles differently. Three pairs in them have a common number in combination with a two or a three: [6:3][6:2], [5:3][5:2], [4:3][4:2]. One pair that in total gives the same number of points: [4:1][3:2] and a pair according to the "whatever is left" principle: [5:4][2:1]. One of the pairs is "bullish" ([6:3][6:2]), which we already met in the game Battle of the Bulls. 
+## Korean Military Pairs
+
+In Korea, military tiles were paired differently.
+
+Their system included:
+
+- Three pairs sharing a common number with 2 or 3:
+   - [6:3]–[6:2]
+   - [5:3]–[5:2]
+   - [4:3]–[4:2]
+- One pair with equal total points:
+   - [4:1]–[3:2]
+- One “leftover” pair:
+   - [5:4]–[2:1]
+
+One of these, [6:3]–[6:2], was known as the “bull pair,” which appears in the game Battle of the Bulls.
 
 ![](/docs/assets/images/gupai/korean-wu-pairs.jpg)  
 _Korean military pairs_
 
-Since dominoes practically died out in Korea and Korean military pairs remained in history, so most of games use Chinese pairs. In all the Korean games I've come across, the seniority of tiles and pairs didn't play any role, so hereafter I'll only talk about Chinese pairs. 
+Today, traditional domino play has mostly disappeared in Korea, and these pairings survive mainly in historical descriptions. In the Korean games I have encountered, tile hierarchy does not play any  role. Therefore, from this point on, I will focus only on the Chinese pairing system.
 
-The seniority of civil pairs corresponds to the seniority of the tiles themselves, that is, the highest pair is [6:6][6:6] and the lowest is [5:1][5:1]. 
+## Seniority of Pairs
 
-The seniority of military pairs also corresponds to the seniority of the tiles themselves, but these two tiles are an exception: [4:2] and [2:1]. When used alone their numerical values are 6 and 3 respectively, meaning [4:2] is below the sevens but above the fives, and [2:1] is the lowest tile among the military tiles. But when combined in a pair, these tiles do not belong to the military suit and stand aside as a Supreme Pair. 
+Civilian pairs follow the same order as their tiles.
+The highest civilian pair is [6:6][6:6], and the lowest is [5:1][5:1].
+
+Military pairs also follow tile ranking - with an exception regarding [4:2] and [2:1] tiles.
+
+When used individually:
+
+- [4:2] ranks below the Sevens but above the Fives.
+- [2:1] is the lowest military tile.
+
+However, when combined as the Supreme Pair, they no longer belong to the military suit and form their own special category.
 
 This photo can help guide you by the seniority of the tiles and what suits exist: 
 
 ![](/docs/assets/images/gupai/gupai-deck.jpg)  
 _Standard photo of Chinese dominoes, civilians above, military below, top pair separate_
 
-Armed with this knowledge, we can play the [Tien Gow trick game](/gupai/tien-gow.html) . 
+With this hierarchy in mind, you are ready to play [Tien Gow trick game](/gupai/tien-gow.html) . 
 
 ---  
 

@@ -1,36 +1,82 @@
 # Sources
 
-We are now in the middle of the Chinese dominoes games description and next will come the games, the rules for which have been recreated with some difficulties. Therefore, I want to explain a little about the sources and at the same time explain who Culin is, who will be mentioned more often from now on. 
+We are now moving to games whose rules were not easy to reconstruct. Before describing them, I would like to explain where the rules come from — and who Culin is, since his name will appear often from this point on.
+
+## Where did the rules come from?
 
 So where did I get the rules for all these games? 
 
-I'll start with the fact that two games, Pai Gow and Tien Gow, are still actively played today, so there are a lot of references to them. There are no problems with information about these games. With all the other games it is more difficult. Even with the game "Ding Niu", which is still actively played, but only in China and only by the older generation. 
+Two games — Pai Gow and Tien Gow — are still actively played today. There are plenty of references to them, so finding reliable information is not a problem.
 
-One of the most important sources is Stewart Culin's book " [Chinese Games With Dice and Dominoes](https://healthy.uwaterloo.ca/museum/Archives/Culin/Dice1893/gameslist.html) ", written in the distant nineteenth century. Culin mostly described the games played by Chinese immigrants in the United States. This is why when transliterating game names he uses Cantonese, which is a variant of Chinese language common among immigrants, and not Mandarin, which is the official language of China. Culin did not provide original Chinese names, so I found them from other resources. 
+With most other games, things are more complicated. Even with Ding Niu, which is still played in China (mostly by the older generation), clear descriptions are not always easy to find.
 
-Culin described a little less than half of all currently known games with Chinese dominoes. Unfortunately, his descriptions are sometimes erroneous or not fully understood. Broken rules of some games has been proven by running computer simulations - for example, the Korean collecting game Jjak-mat-chu-gi in about 90% of cases ends in a draw. Some games somewhat broke the usual stereotypes for games - for example, another collecting game allowed you to make two moves at a time, which is more typical for fishing games. Maybe that's how they really played, but given that Culin was sometimes wrong, it's not for sure. In some games Culin indicated one number of dominoes and pictured another, such was the case with the Turtle solitaire. But probably the most confusing description was that of the game Barbarian Tables (Ho-hpai), where the text is so complicated that other sites usually just copy it without changes, hoping that someone will understand the rules. 
+One of the most important sources is Stewart Culin’s book " [Chinese Games With Dice and Dominoes](https://healthy.uwaterloo.ca/museum/Archives/Culin/Dice1893/gameslist.html) " (1889). 
 
-With all the shortcomings of this book, there is invaluable information that could not be found elsewhere, some games are described normally, and by using logic, you can guess the rules of other games. Therefore, we greatly thank Culin and move on. 
+Culin described games played by Chinese immigrants in the United States. Because of this, he used Cantonese transliterations of game names rather than Mandarin. He did not provide the original Chinese characters, so I had to search for them in other sources.
 
-Many English language sites with domino rules simply copy the rules described by Culin, without even editing them. A nice exception is [pagat.com](https://www.pagat.com/domino/) , which specializes more in cards but has a section for dominoes. The author of the site, John McLeod, is concerned about the fate of the games listed there. And although he doesn't always check the rules by playing them personally (and if you look at how many games there are, it's not surprising), he definitely thinks about difficult points and listens to his readers. It lists only those games from Culin's book that can be deciphered. Therefore as of time of this writing the Barbarian Tablets game is not there, for example. 
+Culin described slightly less than half of the currently known Chinese domino games. Unfortunately, some of his descriptions contain mistakes or are difficult to understand.
 
-Actually this site was my main entry point for Chinese domino games. There are only those games from Culin that are playable, but there are also additional ones from other sources (some of them I helped to find). Note that Pagat website rarely theorize. That is, there is no such thing as "here are the rules, I don't know exactly how to play according to them, but probably so." It's good in terms of correctness, it's not so good in terms of informativeness. Fortunately, we had an active correspondence with John, and he shared with me those games, the rules of which he could not fully decipher. I, in turn, shared with him translations of games from the Chinese Internet. 
+For example:
 
-So we smoothly moved on to the next sources. It is clear that one of the sources about Chinese games is the Chinese Wikipedia. To my great surprise, in the Chinese Wikipedia, on the most obvious resource, there were games whose rules were completely absent on the English-speaking Internet - Xiang Shi Fu and Guo Wu Guan. Now this has been fixed and these games have appeared on Pagat, but after that I started digging deeper in the Chinese internet. In addition, Wikipedia described connection games that were only partially present on the English-speaking Internet. Since Wikipedia is blocked in mainland China, I had to use the Chinese resource BaiDu, which is the Chinese equivalent of Wikipedia. There I found more detailed rules of the game "Ding Niu". Unfortunately, the rules laid out there are not always completely clear either. And the problem is not my poor knowledge of Chinese - I let the Chinese read these rules and they said that it was written very confusingly. 
+ - Some rules seem to be broken. Computer simulations show that the Korean collecting game Jjak-mat-chu-gi ends in a draw in about 90% of cases.
 
-In defence of Culin and Chinese resources, I will say that describing the rules of the game is actually quite difficult . That is why they are so confusing. Some things can be accidentally omitted, some detail may not be specified, and your advice in the game may be taken as a rule. 
+ - Some games break common gameplay patterns — for example, one collecting game allows two moves in a row, which is more typical of fishing games.
 
-I also translated from Portuguese some of the rules from a book about gaming in Macau ( [Jogos, brinquedos e outras diversões populares de Macau](https://books.google.com.ua/books/about/Jogos_brinquedos_e_outras_divers%C3%B5es_pop.html?id=m5mf6kxo2L4C&redir_esc=y) ) kindly provided to me by John McLeod. There were few original rules, mostly a copy from Culin, and perhaps the only game that was actually unique to this book was Da Ling, or Playing Zeroes. The Tau Ngau game was also described there, but with slightly different calculations than on the Pagat website. 
+ - In some cases, the number of tiles mentioned in the text does not match the illustrations (as in the Turtle solitaire).
 
-I once delved deeply into Chinese blogs on blog.sina.com.cn, but unfortunately, these blogs are now unavailable for unknown reasons. One of these blogs was located here: [http://blog.sina.com.cn/u/1654037892](http://blog.sina.com.cn/u/1654037892) . It is possible that this is a temporary technical problem and someday this blog will be up and running again. I have read the rules of some solitaire games and Little Mahjong from these blogs. 
+ - The most confusing description is probably Barbarian Tablets (Ho-hpai). The explanation is so complicated that many websites simply copy it without clarification, hoping someone will understand it.
 
-I found an email on one of these Chinese blogs, wrote there, and to my surprise, I got a reply. This is how my correspondence with Mr. Ming FanXin (闵凡信) began, who explained to me many points that were unclear to me, including the games that were described in Wikipedia. In addition, he shared with me the rules of some other games, such as "Moving Mice" or "Eight Trigrams". 
+Despite these problems, Culin’s book contains invaluable information. Some games are described clearly, and others can be reconstructed with logic and comparison. So we should still be very grateful to Culin.
 
-I also looked for Chinese videos of people playing dominoes. There I saw real-life examples of playing Ding Niu or Tien Gow, with the latter game often being played by rules other than the standard ones. I called this game "Folk Tien Gow" because this game doesn't really have a name. Players simply call it "domino". 
+## Other English Sources
 
-These are not all resources, there were separate answers on the forums, or blog posts dedicated to one game. I try to cite sources on the relevant pages. 
+Many English-language websites simply copy Culin’s rules without editing them.
 
-While not technically a source of itself, but you might find it helpful to check the Java code which I used to simulate the rules and check how the various games could be played and what were their shortcomings and whether the rules were not broken: [https://github.com/navpil/gupai](https://github.com/navpil/gupai) 
+A notable exception is pagat.com, a site mainly dedicated to card games but with a section on dominoes. Its author, John McLeod, clearly cares about preserving these games. While he may not personally test every rule (which is understandable given the number of games), he carefully considers unclear points and listens to feedback from readers.
+
+Pagat lists only those Culin games whose rules can be reasonably reconstructed. For example, Barbarian Tablets is not included there (at least at the time of writing).
+
+In fact, Pagat was my main entry point into Chinese domino games. It includes playable versions of Culin’s games, as well as additional games from other sources (some of which I helped to find).
+
+Pagat rarely speculates. You will not see something like: “Here are the rules; I am not sure how they work, but maybe like this.” This is good in terms of reliability, though sometimes it means less detail.
+
+Fortunately, I had active correspondence with John McLeod. He shared with me some games whose rules he could not fully decipher, and I shared with him translations of games found on the Chinese internet.
+
+## Chinese Sources
+
+Naturally, Chinese-language sources are essential.
+
+Chinese Wikipedia turned out to contain descriptions of games that were completely absent from the English-speaking internet — for example, Xiang Shi Fu and Guo Wu Guan. These games have since appeared on Pagat.
+
+Wikipedia also described connecting games that were only partially known in English.
+
+Since Wikipedia is blocked in mainland China, I also used Baidu Baike, the Chinese equivalent. There I found more detailed rules for Ding Niu. Unfortunately, even these descriptions were sometimes unclear. The problem was not my limited Chinese — native speakers also told me the explanations were confusing.
+
+To be fair, describing game rules clearly is genuinely difficult. It is easy to omit small but important details, or to mix strategy advice with actual rules. This explains many of the inconsistencies.
+
+## Other Books and Blogs
+
+I also translated parts of a Portuguese book about games in Macau: [Jogos, brinquedos e outras diversões populares de Macau](https://books.google.com.ua/books/about/Jogos_brinquedos_e_outras_divers%C3%B5es_pop.html?id=m5mf6kxo2L4C&redir_esc=y)
+
+The book mostly repeats Culin, but it includes at least one unique game: Da Ling (Playing Zeroes). It also describes Tau Ngau, with slightly different calculations than those listed on Pagat.
+
+At one time, I explored Chinese blogs on blog.sina.com.cn. Unfortunately, many of them are now unavailable (one of these blogs was located here: [http://blog.sina.com.cn/u/1654037892](http://blog.sina.com.cn/u/1654037892) and maybe one day it will be online again). From those blogs, I learned rules for some solitaire games and Little Mahjong.
+
+On one of these blogs I found an email address. I wrote to it — and to my surprise, received a reply. This is how my correspondence with Mr. Ming FanXin (闵凡信) began. He clarified many unclear points, including rules mentioned on Wikipedia, and shared additional games such as Moving Mice and Eight Trigrams.
+
+## Videos and Real Play
+
+I also searched for Chinese videos of people playing dominoes. These helped me see how games are played in practice, especially Ding Niu and Tien Gow.
+
+In some videos, Tien Gow was played by rules that differ from the standard version. Since this variant has no specific name (players simply call it “domino”), I refer to it as Folk Tien Gow.
+
+## Other Materials
+
+There were also forum discussions and blog posts dedicated to individual games. Whenever possible, I cite sources on the relevant pages.
+
+Finally, while not exactly a source, you may find it interesting to look at the Java code I wrote to simulate the games. I used it to test how the rules behave in practice and to detect logical problems:
+
+[https://github.com/navpil/gupai](https://github.com/navpil/gupai) 
 
 ---  
 
