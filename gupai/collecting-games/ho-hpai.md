@@ -1,40 +1,71 @@
 # Ho-Hpai
 
-Korean game named 胡牌 (Ho-Hpai) translated as Barbarian Tablets . Played by three or four players with a deck of 32 tiles. The first player gets six tiles, the rest get five. 
+The Korean game 胡牌 (Ho-Hpai) which is usually translated as Barbarian Tablets also named 톡 (Tok) is a Collecting game. It is played by three or four players with the standard 32-tile deck. The first player receives six tiles; the other players receive five each.
 
-During a turn, a player takes the last discarded tile, or takes a face-down tile from the deck. Then he either lays out a winning combination or discards one tile face up. The turn passes to the next player. 
+On a turn, a player either takes the last discarded tile or draws a face-down tile from the deck. After that, the player may either lay down a winning combination or discard one tile face up. If the player hasn't won, then the play passes to the next player.
 
-Ho-Hpai uses the [classic triplets](/gupai/classical-triplets.html) we are already familiar with, though not all of them. Five points and Full fourteen combinations are not used. That is, there are all dragons (Full, Big, Small, 2-3-Kao), Five sons, Coincidence and Split. In addition, Ho-Hpai have their own special combinations - straights of six tiles, in each of which one value is repeated, and the second value is increased from one to six. For example [4:1][4:2][4:3][4:4][4:5][4:6] is a straight with four. Logically, there are six such straights. 
+Ho-Hpai uses most of the [classic triplets](/gupai/classical-triplets.html) described earlier, though not all of them. The combinations Five Points and Full Fourteen are not used. The valid triplets are therefore:
+
+- All Dragons (Full, Big, Small, and 2-3-Kao)
+- Five Sons
+- Coincidence
+- Split
+
+In addition, Ho-Hpai has its own special combinations: straights of six tiles, in which one value remains constant while the other increases from one to six. For example:
+
+[4:1][4:2][4:3][4:4][4:5][4:6]
+
+This is a straight “with fours.” Logically, there are six such straights, one for each fixed value.
 
 ![](/docs/assets/images/gupai/tok-straight.jpg)  
 _Straights examples with ones, fives and sixes_
 
-A winning combination is either two triplets or a straight. 
+A winning hand consists of either two triplets or one straight.
 
-The cost of combinations is as follows: 
+The value of a winning hand is as follows: 
 
- - A hand with two identical dragons (two small, two large, etc.) is worth 3 points 
- - A hand with two full dragons consisting entirely of "military" tiles is worth 5 points.
- - A straight with a "two" is worth 5 points
- - A straight with a "three" or "four" is worth 4 points
- - The remaining straights cost 3 points
- - All other winning hands are worth 2 point
+- Two identical dragons (e.g., two Small Dragons, two Big Dragons, etc.) — 3 points
+- Two Full Dragons consisting entirely of military tiles — 5 points
+- A straight “with twos” — 5 points
+- A straight “with threes” or “with fours” — 4 points
+- The remaining straights — 3 points
+- All other winning hands — 2 points
+  
+## Two Optional Notes
 
-I will add two comments to the above rules, which are optional for the game, but worth noting. 
+### The status of "sok" and "split" combinations
 
-The first concerns combinations that can be removed from the game. The combinations of Five sons and Coincidence are considered to be related, since both of them are created by five identical values (just in Coincidence the logic of five identical values is not so straightforward - an addition operation should be performed on two pip values) and they are called "sok". Culin mentions that "sok" combinations are considered too easy to form and sometimes players agree to play without them. Thomas Son is a modern Korean domino enthusiast, plays with "sok", but without the "Split" combination. 
+The combinations Five Sons and Coincidence are considered related, since both are ultimately based on five identical values (in the case of Coincidence, this requires summing two pips to produce the fifth). Together they are called "**sok**".
 
-Second note - Thomas Son states that if no one has reached a winning hand, all the discarded tiles are turned over and shuffled. This happens after the player has taken the last discarded tile, but before his discard. This makes it possible to shuffle the tiles and give the opportunity to put one tile in the open. This way, the possibility of a draw, which still happens from time to time according to the classic rules, is practically excluded. 
+Culin notes that **sok** combinations are sometimes excluded by agreement, as they are considered too easy to form. Thomas Son, a modern Korean enthusiast, plays with sok combinations included, but without the **Split** combination.
 
-## Confusion with the rules 
+### Reshuffling the discards
 
-All of these rules are my simplified version of what is otherwise called Ho-Hpai. Why didn't I submit the original rules? The problem is that I have only found two solid sources to learn how to play this game. The first is Culin's book, which has already been mentioned several times. The second source is a Korean blog by Thomas Son, a contemporary enthusiast. And both sources have their own problems. 
+According to Thomas Son, if no one has achieved a winning hand, all discarded tiles are turned face down and reshuffled. This occurs after a player takes the last tile but before making their own discard. This procedure reintroduces tiles into circulation and makes a drawn game - possible under the classical rules - much less likely.
 
-Ho-Hpai is the game that Culin has messed up the most. First, Culin suggests removing doubles from 3 to 6 from the deck if three people are playing. But if you take away these doubles, it is impossible to form the sequences from 3 to 6. Some combinations are clearly described incorrectly (like the small dragon, which Culin describes as [3:3][3:2][1:1]). Others are described unclearly, and upon deeper analysis, there are combinations which are clearly omitted. The worst thing is that if you follow Culin's rules - that is, take a tile from one side and put it away from the other (and he claims that this is how the game is played), then the player will eventually be able to take only those tiles that he himself discarded, but never those tiles that his opponents discarded. It is not obvious at first glance, but you can try and see for yourself that it is so. Dealing six tiles to everyone, instead of five, as usually happens in such games, is also a significant difference from all other Asian domino games. Moreover, instead of taking the seventh tile and discarding the unnecessary one (as happens in Western card games), Culin says that the player first discards one, and then takes one - that is, the player still cannot have more than six tiles. In addition, the calculation of the probability of obtaining sequences (those from 1 to 6) give other values - for example, a sequence of threes and fours is more difficult to collect than from fives, but for some reason fives are given 4 points in Culin's rules, and threes and fours - three each. The Ho-Hpai game is the most confusing description of Culin in his book. 
+## Confusion in the Rules 
 
-On the other hand, there is an enthusiast from South Korea, Thomas Son, who plays a very similar game of Tok and is trying to popularize it. I'm still in the process of deciphering the rules, so this section will probably change. Since he actively plays this game, I would trust his rules more. The problem is that the rules are written in Korean, so translating them is quite difficult. In the game Tok, the combination Split is missing. Also, it is almost impossible for a beginner to remember how much each combination costs - there is a very confusing system, since the combinations change their value depending on the second combination that is in the hand. But Thomas Son himself suggests not to memorize all these values, but to start simply counting every combination as 1 point and 2 points are reserved only for the Full Dragon. You can also memorize the straight values because they are not that difficult (the only difference to the values I provided is that the straight of "twos" counts 7 and not 5). Another difficulty of the Tok game is the calculation between the players. Everything is not as simple there as Culin described. There is a specific jackpot that is replenished every game and can only be claimed if the winner won by taking the face-down tile. If the player won by taking the last discarded tile, then he takes money only from the player who discarded it. 
+The rules presented above are my simplified reconstruction of Ho-Hpai. Why not simply reproduce the original rules?
 
-As for the description of the Ho-Hpai game I provided in the beginning, I combined both sources and simplified the calculations to make it easier to play. I will provide sources for those interested in more complex gameplay. 
+The problem is that there are only two substantial sources describing this game. The first is Stewart Culin’s book, which has already been mentioned several times. The second is a Korean blog by Thomas Son, a contemporary enthusiast. Unfortunately, both sources present difficulties.
+
+Ho-Hpai is arguably the game that Culin described most inaccurately.
+
+For example, he recommends removing the doubles from 3 to 6 if three players are playing. But if those doubles are removed, it becomes impossible to form the straights from 3 to 6. Some combinations are clearly described incorrectly (for instance, he gives the Small Dragon as [3:3][3:2][1:1]). Others are described ambiguously, and careful analysis reveals that certain combinations are simply omitted.
+
+The most serious issue concerns the drawing mechanism. Culin states that players draw from one side and discard to the other. If this procedure is followed strictly, a player will eventually be able to draw only the tiles they themselves discarded, but never those discarded by their opponents. This is not obvious at first glance, but it becomes clear if you test the system.
+
+There are additional inconsistencies. Culin deals six tiles to each player, instead of five as is customary in similar Asian games. Instead of drawing a seventh tile and then discarding (as in Western card games), he instructs the player to discard first and then draw, meaning a player never holds more than six tiles. Even the valuation of straights seems questionable: statistically, straights with threes and fours are harder to assemble than those with fives, yet Culin assigns 4 points to fives and only 3 to threes and fours.
+
+Overall, Ho-Hpai is the most confusingly presented game in Culin’s work.
+
+On the other hand, Thomas Son plays a closely related modern game called Tok and actively promotes it. Since he actually plays the game, I tend to trust his version more. However, his rules are written in Korean, which makes interpretation challenging.
+
+In Tok, the Split combination is omitted. Scoring is also more complex: the value of a combination may depend on what the second combination in the hand is. Thomas Son himself advises beginners not to memorize the full scoring table, but instead to count every combination as 1 point, reserving 2 points only for the Full Dragon. The straight values can also be memorized easily (with one difference from the values given above: the straight “with twos” is worth 7 points, not 5).
+
+Another complication in Tok is settlement between players. There is a cumulative jackpot that grows with each game and can only be claimed if the winner wins by drawing a face-down tile. If the winning tile was taken from the discard pile, the winner collects payment only from the player who discarded it.
+
+As for the Ho-Hpai description presented at the beginning of this section, it represents my attempt to combine both sources and simplify the calculations to make the game more accessible. For those interested in a more complex and historically faithful reconstruction, I will provide references to the original sources.
 
 ## Sources 
 

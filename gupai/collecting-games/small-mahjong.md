@@ -1,20 +1,26 @@
 # Small Mahjong
 
-Original name is 打小麻将 (Da Xiao Ma Jiang). This game was described on one of the Chinese blogs about Chinese dominoes. Unfortunately, it didn't say where this game came from, so it's not known if it's an old popular game or a modern, little-known creation. The game tries to imitate Mahjong. For example, the tiles there are laid out in the shape of a wall, just like in real mahjong (although technically it is not necessary). 
+The original name of this game is 打小麻将 (Da Xiao Ma Jiang). It was described on a Chinese blog devoted to Chinese domino games. Unfortunately, the blog did not indicate the origin of the game, so it is unclear whether it is an old traditional game or a relatively modern and little-known invention.
+
+The game attempts to imitate Mahjong. For example, the tiles are arranged in the shape of a wall, just as in real Mahjong (although technically this is not necessary).
 
 ![](/docs/assets/images/gupai/mahjong-deck.jpg)  
 _Small Mahjong deal in progress_
 
-To begin with, it is necessary to explain what combinations are used in this game, because such combinations are used only here. Just like in classic triplets, triplets in Small Mahjong are also counted as six values, regardless of which tile they are on. Each triplet counts as two times three values. Three values can be of only two types: 
+## Combinations
 
- - A set, that is, three identical values, for example 3-3-3
- - A straight, that is, three consecutive values, such as 3-4-5
+Before describing the gameplay, it is necessary to explain the special combinations used in Small Mahjong, because they are unique to this game.
+
+Just like with Classic Triplets, a triplet in Small Mahjong is counted as six values, regardless of the specific tiles involved. Each triplet consists of two groups of three values. A group of three values may be one of two types:: 
+
+ - A set - three identical values, for example 3-3-3
+ - A straight - three consecutive values, such as 3-4-5
 
 Accordingly, each triplet can belong to three types: 
 
- - Double set (双同), which is technically identical to the classic Split triplet, for example [2:2][2:5][5:5] – one set of 2-2-2 plus one set of 5-5-5.
+ - Double set (双同), which is identical to the classic Split triplet, for example [2:2][2:5][5:5] – one set of 2-2-2 plus one set of 5-5-5.
  - Double straight (双连), such as [1:2][3:4][3:5] (1-2-3 + 3-4-5) or [2:5][3:3][4: 4] (2-3-4 + 3-4-5)
- - Set and Straight (连同) but their values cannot match, i.e. [2:3][5:4][5:5] (2-3-4 + 5-5-5) is a valid combination, and [3:4][5:4][4:4] (3-4-5 + 4-4-4) – no, because there is a four in both of them.
+ - Set and Straight (连同), but the numerical values may not overlap. For example [2:3][5:4][5:5] (2-3-4 + 5-5-5) is a valid combination. The next combination: [3:4][5:4][4:4] (3-4-5 + 4-4-4) is invalid, because the value 4 appears in both groups.
 
 ![](/docs/assets/images/gupai/mahjong-set-set.jpg)  
 _Examples of Double sets_
@@ -25,28 +31,60 @@ _Examples of Double straights_
 ![](/docs/assets/images/gupai/mahjong-set-straight.jpg)  
 _Examples of Set-and-Straight_
 
-3 to 4 people play. Each player receives five tiles. The player must collect two combinations of three tiles each. Each turn, the player takes one tile and either lays out a winning combination or places one tile in the center. A player can take either a closed tile from the wall or a last discarded tile. However there are special rules as to who has the right to take the last discarded tile: 
+## Gameplay
 
- - Double Straight is formed - only the next player can take the last discarded tile
- - Set-and-Straight is formed - only two next players can take the last discarded tile
- - Double Set is formed - anyone can take the last discarded tile
- - Any combination which results in a win - anyone can take the last discarded tile
+The game is played by three or four players. Each player receives five tiles.
 
-In case several players can take a last discarded tile then the nearest player has a preference. Technically it can be done this way - people in counter-clockwise order say whether they want to pick the last discarded tile and if no one wants it, then the next player takes a closed tile from the wall. 
+The goal is to collect two triplet combinations (each consisting of three tiles).
 
-The game continues in a counter clock-wise direction from the player who took the last discarded tile, if there was one. If no one took the last discarded tile, then the game continues in the usual way - the next player takes the closed tile and either wins or discarded the tile. Please note - same as in Mahjong turn can pass across the table, since under some circumstances any player can take a last discarded tile, so the game is not strictly counter-clockwise and some players will miss their turn. 
+On each turn, a player draws one tile and then either:
 
-The player who collects two combinations first wins. A Double Set combination is worth 3 points, a Set-and-Straight is worth 2 points, and a Double Straight is worth 1 point. 
+- declares a win (if two valid combinations are complete), or
+- discards one tile to the center.
 
-All other players pay the corresponding number of chips to the winner. Or you can just write down the points. 
+A player may draw either:
+
+- a face-down tile from the wall, or
+- the most recently discarded tile.
+
+However, special rules determine who may claim the last discarded tile:
+
+- If the discarded tile forms a Double Straight, only the next player may take it.
+- If it forms a Set-and-Straight, either of the next two players may take it.
+- If it forms a Double Set, any player may take it.
+- If it completes a winning hand, any player may take it.
+
+If several players are eligible to claim the tile, priority goes to the nearest player in counter-clockwise order. In practice, players may announce in counter-clockwise order whether they wish to claim the discard. If no one does, the next player draws from the wall.
+
+The turn order proceeds counter-clockwise from the player who claimed the discard. If no one claimed it, the next player in order draws from the wall as usual.
+
+As in Mahjong, turns can “jump” across the table, since under certain conditions any player may claim the last discard. Therefore, the game is not strictly sequential, and some players may miss turns.
+
+## Scoring
+
+The first player to complete two combinations wins.
+
+The combinations are worth:
+
+- Double Set — 3 points
+- Set-and-Straight — 2 points
+- Double Straight — 1 point
+
+All other players pay the winner the corresponding number of chips, or simply record the points.
 
 ## Rules Analysis 
 
-A computer simulation of this game showed that with a good game, the number of draws is less than 5 percent. In a four-player game, the winner is often determined before the start of the third round. That is, the game does not last too long. Of course, this is just a computer simulation and it may take longer for real people. 
+Computer simulation suggests that the game rarely ends in a draw (less than 5% of games). In a four-player game, a winner is often determined before the beginning of the third round, meaning the game tends to be relatively short.
+
+Of course, these results are based on simulation. Real-world play may last longer.
 
 ## Sources 
 
-Unfortunately, this blog is no longer available, and [webarchive](https://web.archive.org/) does not archive these sites. But just in case, I will leave the link here: [http://blog.sina.com.cn/s/blog_62969d840100ucdk.html](http://blog.sina.com.cn/s/blog_62969d840100ucdk.html) and this blog was called either Warburg Radar or HuaBaoLeiDa. 
+The original blog is unfortunately no longer available, and it was not archived by the Wayback Machine. For reference, the link was: 
+
+[http://blog.sina.com.cn/s/blog_62969d840100ucdk.html](http://blog.sina.com.cn/s/blog_62969d840100ucdk.html) 
+
+The blog was titled either Warburg Radar or HuaBaoLeiDa.
 
 ---  
 

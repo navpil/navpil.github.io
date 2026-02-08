@@ -1,22 +1,30 @@
 # Gambling games
 
-Although the majority of GuPai games are played for money, there is a certain category of games that have a lot in common, and I have put them in a separate category of "gambling". 
+Although most GuPai games are traditionally played for money, there is a particular group of games that share several common features. I have placed them in a separate category, which I call "gambling games". 
 
-Firstly, they have a player playing the role of a banker. This can be a person from the casino, or this role can rotate, depending on the game, or on the circumstances. Moreover, any game from this list can have both a fixed and a "sliding" banker. The exception is Da Ling, in which the banker does not take part in the calculations according to the classical rules. 
+First, these games involve a banker. The banker may be a casino representative, or the role may rotate among the players, depending on the game or the circumstances. In fact, most of the games in this category can be played either with a fixed banker or with a “sliding” (rotating) banker. The exception is Da Ling, where the banker does not participate in the calculations.
 
-Secondly, luck plays a big role in these games, and little depends on the skill of the player. 
+Second, luck plays a dominant role in these games. Player skill has relatively little influence on the outcome.
 
-Thirdly, they all use the module ten rule. According to the rule the sum of all values on the tile (or several tiles in the case of combinations) is divided by ten and only the remainder of the division is taken into account. For example, the tile [6:5] modulo ten counts as 1 point. The tiles [3:3][5:4] count as 5 points, and the set of three tiles [6:6][4:3][4:1] counts as 4 points. 
+Third, all of them use the modulo ten rule. According to this rule, the total number of pips on a tile (or on several tiles, if combinations are used) is divided by ten, and only the remainder is counted. For example:
 
-Depending on the game, "zero" can be counted as the lowest value, i.e. zero, and the highest, i.e. as a ten. The first calculation option is in Pai Gow and Kol-ye-si, the second is used in Tau Ngau. 
+- The tile [6:5] counts as 1 point (11 modulo 10).
+- The tiles [3:3][5:4] count as 5 points (15 modulo 10).
+- The three-tile set [6:6][4:3][4:1] counts as 4 points (24 modulo 10).
 
-In all games (except Korean) the tiles [4:2] and [2:1] for the previous rule can take the value either 6 or 3. These two tiles, as we may already remember, form the Supreme Pair, that is, they are related in a certain way. Since one of them gives a remainder of 6 when divided by ten, and the other - 3, they became "jokers" or semi-wild tiles and can take both values. In Korea, military pairs were different, the concept of the Supreme pair did not exist there, therefore there is no connection between [4:2] and [2:1] there. Accordingly, one in calculations is always equal to 6, and the second is 3. 
+Depending on the game, a result of zero may be treated either as the lowest value (zero) or as the highest value (ten). The first option is used in Pai Gow and Kol-ye-si; the second is used in Tau Ngau.
 
-The most famous game from this category is clearly [Pai Gow](/gupai/gambling-games/pai-gow.html) . It was thanks to the popularity of this game that I was able to purchase a set for Chinese dominoes. Pai Gow is played even in American casinos, although the players of such tables are mostly Chinese. Pai Gow is also the only gambling game that uses the classic Chinese pairing order. 
+system. For the purposes of modulo ten calculation, they may count either as 6 or as 3. As mentioned earlier, these two tiles form the Supreme Pair, and are traditionally linked. Since one of them gives a remainder of 6 and the other 3 when divided by ten, they effectively function as semi-wild tiles and may take either value.
 
-The rest of the games have already been forgotten and remained only on paper. [Tau Ngau](/gupai/gambling-games/tau-ngau.html) is the simplest of them, in which you just have to make no mistake. The [Kol-ye-si](/gupai/gambling-games/kol-ye-si.html) gives the player an advantage over the casino, which is probably why it disappeared. There is also [Da Ling](/gupai/gambling-games/da-ling.html) - probably the most difficult game for the player, and it is in this game that color of the spots finally plays some role. 
+In Korea, however, the military pairs were organized differently, and the concept of the Supreme Pair did not exist. Therefore, there is no special link between [4:2] and [2:1] there. In Korean games, one of these tiles always counts as 6 and the other as 3.
 
-I'm not a fan of gambling myself, but as a thank you to Pai Gow for the opportunity to buy a set of GuPai, and in order to show the full picture of Chinese dominoes, I decided to give a description of these games as well. Please be warned - gambling can be bad for you finances. 
+The most famous game in this category is undoubtedly [Pai Gow](/gupai/gambling-games/pai-gow.html). It was thanks to the popularity of this game that I was able to purchase my own set of Chinese dominoes. Pai Gow is played even in American casinos, although most players at those tables are Chinese. It is also the only gambling game that uses the classical Chinese pairing hierarchy.
+
+The remaining games have largely disappeared and survive mostly in written descriptions. [Tau Ngau](/gupai/gambling-games/tau-ngau.html) is the simplest: the player’s task is essentially not to make a mistake. [Kol-ye-si](/gupai/gambling-games/kol-ye-si.html) gave the player a statistical advantage over the house, which may explain why it vanished. There is also [Da Ling](/gupai/gambling-games/da-ling.html) - probably the most complex game from the player’s perspective; it is the only one in which the color of the pips plays a role.
+
+I am not personally a fan of gambling. However, as a gesture of gratitude to Pai Gow—for giving me the opportunity to acquire a GuPai set—and in order to present a complete picture of Chinese domino culture, I decided to include descriptions of these games as well.
+
+Please be aware: gambling can be harmful to your finances.
 
 ---  
 

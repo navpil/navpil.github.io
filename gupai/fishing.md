@@ -1,10 +1,16 @@
 # Fishing games
 
-Fishing games are games that have no obvious counterparts among European games, but are quite common in Asia. The Korean card game Hwatu itself (the same as the Japanese Hanafuda), which displaced the Chinese domino from Korea, is also a fishing game. 
+Fishing games have no obvious counterparts in European traditions, but they are quite common in Asia. The Korean card game Hwatu (the same as Japanese Hanafuda), which eventually displaced Chinese dominoes in Korea, is itself a fishing game.
 
-The essence of the fishing game is quite simple - there are domino tiles on the table, which are considered to be a lake, or fish in a lake. And the player, using tiles from his hand or from the deck, "catches" fish according to certain, usually quite simple, rules. If he cannot catch a fish with his tile, then he puts this tile in the "lake", and now this tile can be "caught" by another player. Often, a move consists of two parts - at first a player uses a tile from his hand, and then - a tile from the deck. In this way, a player can either catch a fish twice in a turn, or release a fish into the lake twice, or catch a fish once and release one fish. 
+The basic idea of a fishing game is simple. Domino tiles are laid out on the table and represent a “lake,” or fish swimming in a lake. Players use tiles from their hand—or sometimes from the deck—to “catch” fish according to specific, usually straightforward, rules. If a player cannot catch anything with a tile, they place it into the lake, where it may later be caught by another player.
 
-In fishing games, a lot depends on luck, as the second part of the turn depends entirely on a random tile drawn from the deck. The two games - [Tiu-U](/gupai/fishing/tiu-u.html) (Catching Fish) and [Shi Wu Hu](/gupai/fishing/shi-wu-hu.html) (Fifteen Lakes) are classic fishing games and are similar to each other, they can even be considered variants of the same game. [Tsung Shap](/gupai/fishing/tsung-shap.html) (Disputing for Tens) stands a bit apart. Besides, according to the classical rules, it almost lacks the element of skill and almost everything depends on luck. It seems that only the Fifteen Lakes game still has a living tradition. 
+A turn often consists of two parts: first, the player uses a tile from their hand; then they draw and use a tile from the deck. As a result, during a single turn a player may catch two fish, release two tiles into the lake, or catch one and release one.
+
+Fishing games generally involve a significant element of luck, since the second part of the turn depends entirely on the randomly drawn tile. Two games - [Tiu-U](/gupai/fishing/tiu-u.html) (Catching Fish) and [Shi Wu Hu](/gupai/fishing/shi-wu-hu.html) (Fifteen Lakes) are classic examples of the genre. They are very similar and can even be regarded as variants of the same basic game. 
+
+[Tsung Shap](/gupai/fishing/tsung-shap.html) (Disputing for Tens) stands somewhat apart. In its classical form, it contains very little skill component, with outcomes depending almost entirely on chance.
+
+Today, it seems that only Fifteen Lakes still maintains a living playing tradition.
 
 ---  
 

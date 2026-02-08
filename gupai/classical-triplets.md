@@ -2,13 +2,13 @@
 
 Chinese dominoes can be grouped in different ways. So far, we have seen groupings of two - in pairs, which is explained in more detail in the article [Tiles and pairs hierarchy](/gupai/tiles-and-pairs-hierarchy.html) . In some games, it was possible to group three dominoes if their sum is divisible by 10 without a remainder (such as in [Tau Ngau](/gupai/gambling-games/tau-ngau.html) , or [Tsung Shap](/gupai/fishing/tsung-shap.html) ). 
 
-There is another way to group three dominoes, which we will call Triplets, or Classical Triplets. In the original, they can be found under the name 宣和牌谱. This method is found in some games, as well as in fortune-telling. Probably, this method of grouping tiles originated from fortune-telling. 
+There is another way to group three dominoes, known as Triplets, or Classical Triplets. In Chinese sources, this appears as 宣和牌谱. This system is used in certain games and for fortune-telling, and it likely originated from the latter.
 
-In order to better understand how triplets are formed, it is necessary to consider each tile as two halves. So, one triplet is six halves of a domino, for simplicity we will call them "values". And what plays a role is not which dominoes make up the triplet, but which halves or values. That is, for example, the triplet [1:2][2:3][1:3] is considered the same as [1:1][2:2][3:3], because even though it consists of different tiles , but the set of values there is the same. 
+To understand triplets, consider each tile as two halves, which we will call values. A triplet then consists of six values. What matters is not which tiles form the triplet, but which values are present. For example the triplet [1:2][2:3][1:3] is considered the same as [1:1][2:2][3:3] because the set of values in both is identical, even though the tiles differ. 
 
 There are nine types of triplets, which can be divided into three groups. 
 
-The first group includes triplets in which exactly three values are the same, no more and no less. 
+The first group includes triplets with exactly three identical values (not more): 
 
  - Five points (五點) – three identical values, the sum of the remaining values gives exactly five, for example [6:3][6:6][1:1]
  - Full fourteen or Speed (正快) – three identical values, the sum of the rest is fourteen or more, for example [6:5][6:5][5:3]
@@ -32,11 +32,11 @@ The third group includes the so-called "dragons", where there are less than thre
 ![](/docs/assets/images/gupai/zen-triplets-2-dragons.jpg)  
 _Example of Dragons: Full, Small, Big and 2-3-Kao_
 
-It is difficult to write about the history of these triplets, since all the information about them is in Chinese, besides, it is difficult for me to separate fiction from facts. But it seems that these combinations played an important cultural role in the history of Chinese dominoes. Poetic names were invented for various combinations and poems were written for them. For example, the combination [5:5][5:1][5:5] looks like a sunrise between plum blossoms, and that's how it was called. 
+The history of Classical Triplets is hard to trace. Most information exists only in Chinese sources, and separating fact from fiction is challenging. These combinations were culturally significant, often given poetic names and even written about in poems. For instance, the combination [5:5][5:1][5:5] resembles a sunrise between plum blossoms, which became its poetic name.
 
-Previous combinations are classic. Sometimes there are additional ones that either supplement or replace the classic ones. They will be mentioned in the relevant sections. 
+Classical Triplets are the standard combinations. Some games introduce additional triplets that supplement or replace these classics. These will be explained in the relevant game sections.
 
-Also, these combinations took part in fortune-telling. The simplest form of fortune-telling was to put dominoes in a row and look for triplets that were there. There was a special book to explain triplets. 
+Triplets were also used in fortune-telling. The simplest method was to lay the dominoes in a row and observe which triplets appeared. Special books explained the meanings of these triplets. 
 
 ---  
 

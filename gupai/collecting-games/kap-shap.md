@@ -1,47 +1,55 @@
 # Kap Shap
 
-Chinese collecting game named 夾十 (Kap Shap), translated as "Grasp Tens". The game is described by Culin. Two players play with one set of Chinese dominoes. The first player gets eight tiles (due to the fact that he cannot take an already exposed tile), the second player gets seven. During the turn, the player may take any previously discarded tile into his hand and discard another one, and then he must get a face-down tile from the deck and then again discard one tile (the first player already has eight tiles in his hands, so this the only exception is when a player first discards a tile, then takes a face-down one, and then discards again). In this way, a player may take two tiles per turn. At any time, when a player has a winning combination of eight tiles in his hands, he lays it out and declares victory. 
+Kap Shap (夾十), usually translated as “Grasp Tens,” is a Chinese collecting game described by Stewart Culin. It is played by two players with a single set of 32 Chinese dominoes.
 
-The winning combination consists of: 
+The first player receives eight tiles (since he is not allowed to take an already exposed tile on the very first move), and the second player receives seven. The remaining tiles form a face-down deck.
 
- - An eye, which is two identical tiles (in other words, a civil pair)
- - Three pairs of tiles, where a pair is two tiles whose sum of points is equal to 10 or 20. A tile [4:2] always counts as 3 points.
+During a turn, a player may first take any previously discarded tile into his hand and discard another tile. After that, he must draw one tile from the deck and discard again. In this way, a player may effectively take two tiles during a single turn. The only exception concerns the first player at the very beginning of the game: since he already holds eight tiles, he must first discard one tile, then draw from the deck, and discard again.
+
+At any moment, if a player holds a winning combination of eight tiles, he lays them down and declares victory.
+
+A winning hand consists of: 
+
+ - An eye - two identical tiles (in other words, a civil pair)
+ - Three pairs of tiles such that the total pip value of each pair equals 10 or 20 (i.e., divisible by ten).
+ 
+ For scoring purposes, the tile [4:2] always counts as 3 points.
 
 ![](/docs/assets/images/gupai/kap-shap.jpg)  
 _Example of a winning hand, "eye" is on the left, three pairs which divide by ten - on the right_
 
 ## Many players variant 
 
-There is also an option for more people, called Kap Tai Shap which translates as "Grasp Many Tens". It is played in the same way as Kap Shap with some differences: 
+There is also a multi-player version called Kap Tai Shap (夾大十), “Grasp Many Tens.” It follows the same general principles, with several differences:
 
- - Many players play (from 2 to 20 or even more)
- - Lots of decks participate - about 2 decks for every 5 people
- - Since there are many decks, the "eye" of identical tiles can also be made of military tiles.
- - 10 (the first player) or 9 (all the rest) tiles are dealt.
- - A winning combination consists of a "eye" and four pairs, not three.
+- It may be played by many participants (from 2 up to 20 or even more).
+- Multiple decks are used — approximately two decks for every five players.
+- Because several decks are in play, the “eye” may consist of identical military tiles as well.
+- The first player receives 10 tiles; all others receive 9.
+- A winning hand consists of an eye plus four pairs (instead of three).
 
 ![](/docs/assets/images/gupai/kap-tai-shap.jpg)  
 _Example of a winning hand, "eye" is on the left, four pairs on the right, [4:2] counts as three points_
 
 ## Rules Analysis 
 
-A game was described by Culin, so there are doubts that he described it accurately. 
+Since the game was recorded by Culin, there are reasons to question whether the description is entirely accurate.
 
-First of all, the fact that players can take two tiles per turn is surprising - this mechanic is more typical of fishing games, all collecting games give the player a choice - either to take an open or a closed tile, but not two at once. 
+First, the fact that a player may take two tiles per turn is unusual. This mechanic is more typical of fishing games. In most collecting games, a player must choose either to take the last discarded tile or to draw from the deck — not both in the same turn.
 
-The second strange rule is that the player can take any previously discarded tile, not just the last one, as is usually done in collecting games. No other game offers such an opportunity to take any discarded tile. To be fair, the Western game of Canasta allows you to take the entire deck under certain conditions, but this is still different from the "take whatever you want" rule. 
+Second, the rule allowing a player to take any previously discarded tile (not just the most recent one) is highly unusual. No other known collecting game grants such freedom. To be fair, the Western card game Canasta allows a player to take the entire discard pile under certain conditions, but this is still very different from simply choosing any individual tile at will.
 
-If you think about it, each subsequent player, if playing according to the "pick any tile" rule, gets a better chance of winning than the previous one, because he has the opportunity to choose from more tiles. It's not that difficult to make a winning hand in Kap Shap if you have a lot of tiles to choose from. 
+If you think about it: under the “take any tile” rule, each subsequent player has a better chance of winning than the previous one, because more discarded tiles are available to choose from. In Kap Shap, assembling a winning hand is not particularly difficult if a player has a broad selection of tiles.
 
-I ran the simulator experimenting with the rules and found that if you play a game of Kap Tai Shap with ten people and four decks, the game is often over in the first round, averagely ending on an eighth player. This is not surprising - the eighth player has the choice to pull any of the seven previously discarded tile. Some players don't even have a chance to win. It is unlikely that the Chinese did not notice this pattern. 
+Using a simulator, I experimented with Kap Tai Shap played by ten players with four decks. Under Culin’s rules, the game frequently ends in the very first round, on average around the eighth player’s turn. This is hardly surprising: by then, that player may choose from seven previously discarded tiles. Some players may not even get a meaningful chance to compete. It seems unlikely that experienced players would not have noticed such a pattern.
 
-If you add classic rules instead, that is take only one tile, and if discarded is chosen then only the last one, then the game duration is more than doubled and with the same number of players, it takes about two rounds. 
+If one instead applies more “classical” collecting-game rules — that is, allowing only one tile to be taken per turn, and if a discard is taken, only the most recent one — the duration of the game more than doubles. With the same number of players, it usually lasts about two full rounds.
 
-With Kap Shap, the difference between the rules is not so striking, because there are only two players, and they are on a more equal ground. With the rules described by Culin, the game lasts an average of three rounds (5-6 moves), and with the classic rules - four (8-9 moves). 
+In the two-player version (Kap Shap), the contrast between rule sets is less dramatic, since both players are on more equal footing. With Culin’s rules, the game lasts on average about three rounds (roughly 5–6 moves). With the more classical restriction, it lasts around four rounds (8–9 moves).
 
-I can draw the following conclusion - the game can be played both by Culin and classic rules, but when playing with a larger number of players, the Culin game ends too quickly and it is unlikely that it was played this way, so I advise you to introduce classic rules. 
+From this, I would draw the following conclusion: the game can technically be played either according to Culin’s description or according to more conventional collecting-game mechanics. However, in games with many players, Culin’s version tends to end too quickly. It therefore seems more plausible that, in practice, a more restrictive rule was used. For that reason, I would recommend adopting the classical limitation in multi-player play.
 
-I must point out that a computer simulator is not a person. And people's game results may vary. 
+That said, a computer simulator is not a human table. Actual results in live play may differ.
 
 ## Sources 
 

@@ -87,6 +87,14 @@ _Chinese dominoes tiles "towers"_
 
 All of these traditions can be simplified if desired. Scoring can be converted into ordinary points instead of money. Tiles may be dealt in a European manner. These adjustments do not affect the mechanics of the games — they merely reduce the traditional atmosphere.
 
+## Reduced and enlarged decks
+
+A standard Chinese domino set contains 32 tiles. However, not all games use this set. Sometimes two sets are combined to create a 64-tile deck. There are also paper domino decks in circulation, sometimes consisting of 84 or even 105 cards. In such decks, all 21 distinct tile values are represented four or five times each.
+
+In some games, however, tiles are deliberately removed to create a reduced deck. For example in the Korean connecting game Kko-li-but-i-gi doubles from [3:3] to [6:6] are sometimes removed, leaving 24 tiles. And a deck for Ding Niu game removes all military tiles except for [6:3] and [6:2] making this connecting game highly asymmetrical.
+
+---
+
 With this knowledge, you are ready to explore the first category of games - [Connecting Games](/gupai/connecting-games.html) . They, unlike some other games, will look familiar. 
 
 ---  
