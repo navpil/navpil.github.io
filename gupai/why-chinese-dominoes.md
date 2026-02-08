@@ -1,22 +1,44 @@
 # Why Chinese Dominoes
 
-There exists such thing as a Chinese domino. And it differs from the European one in appearance, composition, rules, and culture. In general - in everything. Chinese dominoes, or GuPai (骨牌), translated as bone tablets, is an ancient game that was once brought to Europe, where it changed and gave rise to our familiar European dominoes. In Korea, it was called Golpae (골패). Unlike European dominoes, GuPai has much more symbolism. We can say that almost every tile has its own personality. And this is not some kind of mysticism, but the properties of the GuPai deck itself, which is asymmetrical in nature. 
+There is such a thing as Chinese dominoes — and they differ from European dominoes in almost every way: appearance, composition, rules, and culture. In short, they are a completely different world.
+
+Chinese dominoes, or GuPai (骨牌), literally “bone tiles,” are an ancient game that was once brought to Europe. There, it gradually changed and eventually gave rise to the familiar European dominoes. In Korea, the game was known as Golpae (골패).
+
+Unlike European dominoes, GuPai is rich in symbolism. Almost every tile has its own character. This is not mysticism, but a natural consequence of the structure of the deck itself. The GuPai set is fundamentally asymmetrical, and that asymmetry gives each tile a distinct role.
 
 ![](/docs/assets/images/gupai/gupai-deck.jpg)  
 _Chinese dominoes deck_
 
-The games themselves are much more diverse than European dominoes. And in these games, the domino tiles may combine into different combinations, which gives the GuPai deck more depth. Compared to Chinese dominoes, European dominoes are very rational and logical. Chinese is more irrational and, so to speak, artistic. GuPai is difficult to understand at first, but as soon as the habit appears, you can see all its beauty. These words may sound strange to a person who is only familiar with European dominoes. Perhaps the distant analogy of poker cards and tarot cards can explain my point. Poker cards are like European dominoes. And tarot cards are like Chinese dominoes. By the way, Chinese dominoes were really used for fortune-telling. But here I will mainly focus on casual games. Some of them do not require any symbolism, although, no matter what, the asymmetry of the deck is always lurking. 
+The games played with Chinese dominoes are also far more diverse than those played with European dominoes. Tiles can form different types of combinations, which gives the GuPai deck greater depth.
 
-Unfortunately at its homeland Chinese dominoes have significantly lost ground. In China, it was supplanted by the visually more attractive Mahjong (麻将), and in Korea by the flower cards of Hwatu (화투). Unlike Mahjong and Hwatu, GuPai is more versatile and allows you to play a larger number of games. But, on the other hand, it is not so visually clear and bright and requires a certain habit. And the GuPai culture began to die out. 
+Compared to Chinese dominoes, European dominoes feel very rational and logical. Chinese dominoes are more intuitive — even artistic. At first, GuPai can be difficult to understand. But once you become familiar with it, its beauty begins to reveal itself.
+
+This may sound strange to someone who knows only European dominoes. A distant analogy might help: poker cards compared to tarot cards. Poker cards are like European dominoes — structured and straightforward. Tarot cards are more like Chinese dominoes — layered with symbolism and personality. In fact, Chinese dominoes were historically used for fortune-telling. However, here I will focus mainly on casual games. Many of them do not require symbolic knowledge, although the asymmetry of the deck is always present in the background.
+
+Unfortunately, in its homeland, Chinese dominoes have significantly declined. In China, they were largely replaced by the visually more attractive Mahjong (麻将), and in Korea by the flower cards of Hwatu (화투).
+
+Unlike Mahjong and Hwatu, GuPai is more versatile and supports a wider variety of games. However, it is less visually striking and requires some familiarity to appreciate. As a result, GuPai culture has gradually faded.
 
 ![](/docs/assets/images/gupai/hwatu.jpg)  
 _Mahjong and Hwatu which displace GuPai_
 
-The Chinese domino has not completely disappeared. Now the older generation of Chinese people play a limited number of games, such as Tien Gow and Ding Niu. And the most common game is a gambling Pay Gow, which is played in casinos. It was thanks to the existence of Pai Gow that I was able to purchase a deck of Chinese dominoes. But the problem of extinction of GuPai culture remains. Young people are not interested in the rules of games that older Chinese still play. As for Pai Gow, casinos are prohibited in mainland China, and Pai Gow is too complicated for Europeans to casually play. GuPai positions will continue to weaken. 
+Chinese dominoes have not disappeared completely. Today, older generations in China still play a limited number of games, such as Tien Gow and Ding Niu. The most widespread game is Pai Gow, a gambling game played in casinos. In fact, it was because of Pai Gow that I was able to purchase a Chinese domino set.
 
-I was sufficiently intrigued by GuPai to delve deeper into it. There is an old American book that describes several Chinese domino games that are barely mentioned in contemporary Chinese sources. And in Chinese sources there are descriptions of games that are practically unknown on the English-speaking Internet. I have combined information from various sources. Unfortunately, the rules are not always well described, and it is difficult to reproduce games. 
+Still, the decline of GuPai culture continues. Younger generations show little interest in the traditional games. Casinos are prohibited in mainland China, so Pai Gow survives mostly outside the mainland. At the same time, Pai Gow is too complex for most Europeans to play casually. As a result, GuPai’s position continues to weaken.
 
-In order to reproduce the rules of some games, I wrote a computer simulator of GuPai and checked the disputed points. It's open source here: [https://github.com/navpil/gupai](https://github.com/navpil/gupai) (it's not a computer game, it's just a working code that lets me experiment with the rules). When developing this simulator, I searched all possible resources, translated texts from Korean and Chinese, watched videos where older people play dominoes, sometimes viewed videos frame by frame. In the process, I was able to organise the knowledge of Chinese dominoes and also found and verified the rules of almost all GuPai games that can be found in open (and sometimes even closed) access. There are still moments that I do not understand, and I will indicate it where needed. 
+I became sufficiently intrigued by GuPai to explore it in depth. There is an old American book that describes several Chinese domino games that are barely mentioned in modern Chinese sources. At the same time, Chinese sources describe games that are almost unknown in the English-speaking world.
+
+I have tried to bring together information from many different sources. Unfortunately, the rules are not always clearly described, and reconstructing some games can be difficult.
+
+To clarify disputed points, I wrote a computer simulator of GuPai and used it to test rule interpretations. It is open source here:
+
+[https://github.com/navpil/gupai](https://github.com/navpil/gupai) 
+
+It is not a video game, but rather a working tool that allows me to experiment with the rules.
+
+While developing this simulator, I searched extensively for materials, translated texts from Chinese and Korean, watched videos of elderly players — sometimes even frame by frame — and compared multiple sources.
+
+In the process, I was able to organise my knowledge of Chinese dominoes and reconstruct the rules of nearly all GuPai games that are available in open (and occasionally even restricted) sources. There are still details I do not fully understand, and I will point them out where necessary.
 
 ---  
 
