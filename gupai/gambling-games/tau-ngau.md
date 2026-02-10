@@ -1,43 +1,73 @@
 # Tau Ngau
 
-Tau Ngau (鬥牛) is a game that depends almost entirely on luck and the player just has to make no mistakes. It is translated as Bull Fight, and may be thus confused with Ding Niu, which is also translated the same way. 
+Tau Ngau (鬥牛) is a game that depends almost entirely on luck; the player’s main task is simply to avoid making mistakes. The name is usually translated as Bull Fight, which can cause confusion with Ding Niu, another game sometimes translated the same way.
 
 ## Basic rules 
 
-The game is played with a set of 32 tiles. 
+The game is played with a full set of 32 tiles.
 
-Players, including the banker, receive five tiles each. 
+Each player, including the banker, receives five tiles.
 
-From these five, the player must choose three that add up to a number that is divisible by ten without a remainder. He puts these three tiles aside (these tiles are called "bull"). The player adds the dots on the two remaining tiles and takes the remainder from dividing by ten (zero counts as ten). If the player fails to put the bull away, he is awarded zero points (actually zero, not ten, as in the "with bull" version). The banker does the same manipulations. After that, all players compare their hand with the banker's hand. 
+From these five tiles, the player must choose three whose total number of pips is divisible by ten (i.e., the sum leaves no remainder when divided by ten). These three tiles are set aside and are called the “bull.”
+
+The player then adds the pips on the remaining two tiles and takes the remainder modulo ten. If the remainder is zero, it counts as ten.
+
+If a player cannot form a bull, his hand is worth zero points (a true zero this time, not ten as before). 
+
+The banker performs the same procedure. After that, each player compares his hand with the banker’s hand.
 
 ![](/docs/assets/images/gupai/tau-ngau.jpg)  
 _Example of.a hand with a Bull (above) and without (below), the top hand values 6 points_
 
-As in most Chinese games, the [4:2] and [2:1] tiles can count as three or six, depending on the player's preference. 
+As in most Chinese domino games, the tiles [4:2] and [2:1] may be counted as either 3 or 6 points, at the player’s discretion.
 
-## Settlement 
+## Settlement - version 1
 
-In the first version of the settlement, the rates are fixed and are the same for everyone. If the player failed to find a Bull, he pays the banker four bets. If the player was able to find a Bull, then if his hand is higher, he will receive the bet from the banker multiplied by the difference between his hand and the banker's hand. And if his hand is smaller, then vice versa - he pays the banker. If the hand is the same, no one pays. 
+In the first version of the settlement, the stakes are fixed and equal for all players.
 
-For example, the player's hand is [6:5][4:1] which is worth six points (6+5+4+1 = 16, ten is taken away). If the banker failed to find a Bull, then the player receives six bets (6-0 = 6), if the banker found a Bull and his hand is [6:6][4:4], i.e. 10 points (6+6+4+ 4 = 20, tens are taken away, zero remains, which counts as ten), then the player pays him four bets (10-6 = 4). If the banker has [1:3][1:1] in his hands, i.e. also six, then he and the player do not pay each other. If the banker's hand is[5:4][2:2], i.e. 3 points (5+4+2+2 = 13, we take away the ten), then he pays the player three bets (6-3=3). 
+- If a player fails to form a bull, he pays the banker four bets.
+- If the player forms a bull and his hand is higher than the banker’s, he receives the bet multiplied by the difference between the two hands.
+- If his hand is lower, he pays the banker the difference.
+- If the hands are equal, no one pays.
 
-Paradoxically, in this game, the player can pay the banker more if he set the Bull aside than if he hasn't done it. For example, if the player folds the Bull and gets one point ([5:4][1:1]) and the banker gets ten, then he pays the banker nine bets. If he decides not to fold the Bull, then he will pay the banker only four bets. 
+Take an example:
 
-In this case, whether the banker places his Bull before or after the players plays a big role, but the rules are silent on this. Another strange thing in these rules is that a player without a bull pays the banker in any case, even if the banker also does not have a bull. 
+Suppose the player’s remaining tiles are [6:5][4:1], the total is 16, which gives 6 points (16 minus 10).
 
-These rules are taken from the book "Jogos, brinquedos e outras diversoes populares de Macau", the author of which, unfortunately, described the rules a bit sluggishly, so there could be a mistake. 
+- If the banker failed to form a bull, the player receives six bets (6 − 0 = 6).
+- If the banker formed a bull and has [6:6][4:4], totaling 20 (which counts as 10), the player pays four bets (10 − 6 = 4).
+- If the banker has [1:3][1:1], also worth 6 points, no one pays.
+- If the banker has [5:4][2:2], totaling 13 (worth 3), he pays the player three bets (6 − 3 = 3).
 
-## Settlement version 2 
+Interestingly, in this version a player can lose more money by forming a bull than by failing to do so. For example, if the player forms a bull and scores only 1 point ([5:4][1:1]) while the banker scores 10, he pays nine bets. If he fails to form a bull, he pays only four bets.
 
-In the description of Tau Ngau on Pagat website, it is believed that zero is always considered zero, and bets are not multiplied and are independently chosen by each player. Players compare their hands to the banker's hand. Whoever has a bigger hand wins. If both failed to put down the Bull, or if they have the same hand, then it is a draw and no one loses money, neither the player nor the banker. It is clear that if someone was able to put off the Bull, and the other could not, then the first is considered the winner. 
+This means that it matters whether the banker sets aside his bull before or after the players, but the rules do not specify this.
 
-This is a much more balanced calculation than the previous one, but contains less element of excitement. 
+Another unusual feature is that a player without a bull always pays the banker, even if the banker also fails to form a bull.
 
-Also, in this version, the role of the banker goes around the circle if the banker was able to put down the bull. Otherwise, the banker does not change. 
+These rules come from the book _Jogos, brinquedos e outras diversões populares de Macau_. Unfortunately, the author’s description is somewhat unclear, so there may be inaccuracies.
+
+## Settlement - version 2 
+
+According to the description on the Pagat website, zero always counts as zero, bets are not multiplied, and each player chooses his own stake independently.
+
+Players compare their hands with the banker’s:
+
+- The higher hand wins.
+- If both fail to form a bull, or if their hands are equal, it is a draw and no money changes hands.
+- If one forms a bull and the other does not, the one who formed the bull wins.
+
+This version is much more balanced, but arguably less dramatic.
+
+In this variant, the role of banker passes to the next player if the banker successfully forms a bull. Otherwise, the banker remains the same.
 
 ## Analysis 
 
-There is almost no strategy in the game, the main thing is simply to find three tiles that add up to 10, 20 or 30. Where a player can go wrong is to accidentally put down a wild tile ([4:2] or [2:1]) if there is an option not to do it and if this wild card can be used to improve value of the remaining two tiles. If the time to search for such a combination is limited, then the player may not have time. Because if the player finds such a combination without error (and such a combination does not always exist), then the casino does not have any advantage, as in the version from the Pagat website, and even an advantage is on the player's side, if you believe the rules from the Portuguese book. 
+There is very little strategy in Tau Ngau. The main objective is simply to find three tiles that total 10, 20, or 30.
+
+The only real mistake a player can make is using a wild tile ([4:2] or [2:1]) in the bull when it would be better used to improve the value of the remaining two tiles. If time is limited, a player may overlook a better combination.
+
+If the player always finds the optimal combination (when one exists), then in the Pagat version the casino appears to have no advantage. According to the rules in the Portuguese book, the advantage may even lie slightly with the player.
 
 ## Sources 
 

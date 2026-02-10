@@ -1,19 +1,38 @@
 # Pai Gow
 
-Paigou (牌九) is one of the most famous games with Chinese dominoes. Often, in order to buy a set of Chinese dominoes, it is necessary to specify "Pai Gow set". 
+Pai Gow (牌九) is one of the most famous games played with Chinese dominoes. In fact, when purchasing a set of Chinese dominoes, it is often labeled specifically as a "Pai Gow set."
 
-The essence of the game is quite simple. It is played with a set of 32 tiles. First, each player places a bet and the banker must place the same bet against each player. All players, including the banker, receive 4 tiles each. Each player forms two groups of two tiles from these four tiles, one of them will be higher in the hierarchy, the second - lower. The player cannot choose which one to consider higher and which one to consider lower. If the groups are not the same, one of them will naturally be higher according to the hierarchy explained below. Then all players reveal their groups. I do not use the word "pair" for these groups, so as not to confuse them with other pairs - civilian and military. 
+The basic idea of the game is quite simple. It is played with a set of 32 tiles. Each player places a bet, and the banker must match each bet individually. All players, including the banker, receive four tiles.
 
-Player groups are compared with the banker's groups, with the higher group being compared with the higher group, and the lower group with the lower group. In each of these two comparisons, or mini-competitions, there can be a win or a loss. If the player wins both mini-competitions, he wins and takes the bet. If he won only one mini-competition, then it is considered a draw (a push) and a player like the banker keeps the bet. In other cases, the player loses his bet to the banker. There can be no tie in a separate mini-competition. Any technical draw in mini-competitions between groups is considered a banker's win (this is actually the advantage of the casino). 
+From these four tiles, each player forms two groups of two tiles. One group will rank higher and the other lower. The player does not choose which is higher or lower arbitrarily — if the two groups are different, their rank is determined naturally according to the hierarchy described below. 
 
-Pai Gow difficulty lies in the group hierarchy, although if you're already used to the [hierarchy from Tien Gow](/gupai/tiles-and-pairs-hierarchy.html) , it will be much easier. 
+_Note: I avoid using the word pair for these groups, so as not to confuse them with the Civil and Military pairs in the traditional terminology._
 
-The highest group is the Supreme Pair, followed by Civilian pairs in descending order, followed by Military pairs. 
+After the groups are formed, all players reveal them.
+
+Each player’s groups are compared with the banker’s groups: the higher group is compared with the banker’s higher group, and the lower group with the banker’s lower group. These are essentially two separate mini-contests.
+
+- If the player wins both comparisons, he wins the bet.
+- If he wins only one comparison, the result is a push (draw), and both the player and the banker keep their bets.
+- In all other cases, the player loses to the banker.
+
+There are no ties in an individual mini-contest. Any technical tie is considered a win for the banker - this is the house advantage.
+
+## Group Hierarchy
+
+The complexity of Pai Gow lies in the ranking of the groups. However, if you are already familiar with the [hierarchy from Tien Gow](/gupai/tiles-and-pairs-hierarchy.html), it becomes much easier.
+
+The highest group is the **Supreme Pair**, followed by the **Civil pairs** in descending order, and then the **Military pairs**.
 
 ![](/docs/assets/images/gupai/paigow-pairs.jpg)  
 _Pai Gow pairs hierarchy, Left to Right, Top to Bottom_
 
-Next come the Wong and Kong combinations - special combinations found only in Pai Gow. Wong is a double-six or double-one coupled with a Nine ([6:3] or [5:4]). Double-six combinations have an advantage. Kong is combination lower than Wong - consists of the same double-six or double-one together with an eight (ie either military eights or civilian double-fours). Combinations with double-six again have an advantage. The advantage of double sixes over double ones follows logically from the following rules. 
+Next come two special combinations found only in Pai Gow: Wong and Kong.
+
+- **Wong** consists of a double-six or double-one combined with a Nine ([6:3] or [5:4]). Combinations containing double-six rank higher than those containing double-one.
+- **Kong** is similar but lower than Wong. It consists of a double-six or double-one combined with an Eight (either the military eight or the civilian double-four). Again, combinations with double-six rank higher than those with double-one.
+
+The superiority of double-six over double-one follows naturally from the following rules.
 
 ![](/docs/assets/images/gupai/paigow-wongs.jpg)  
 _Wongs_
@@ -21,15 +40,25 @@ _Wongs_
 ![](/docs/assets/images/gupai/paigow-kongs.jpg)  
 _Kongs_
 
-All other groups are calculated simply - the sum of points on both tiles is added, divided by 10 and the remainder is taken. The group with the highest remainder wins. Please keep in mind that during this calculation, both tiles [4:2] and [2:1] can be considered for either six points or three. 
+## Ordinary Hands
 
-If the groups are the same even by the remainder of the division by ten, then the higher tile from the group is taken and compared with the higher tile from the second group. The order of tiles already familiar from Tien Gow is used here, with civilians ranking higher than military ones. That is, the highest tile is double-six, and the lowest tile is [2:1]. If even after this the winner is not clear, then it is considered a technical draw, but practically - a victory for the banker. Please note that in such a comparison, the lower tile from the group does not play any role. That is, for example, the groups [6:5][5:1] and [6:5][4:2] are equal, since the remainder of division by ten is equal to 7 both there and there, and the highest tile from the group is the same. The fact that [5:1] is higher than [4:2] does not play any role. In the competition of these groups of tiles, it is technically a draw (practically, the banker wins). 
+All other groups are scored by adding the total number of pips on both tiles, dividing by ten, and taking the remainder (modulo ten). The group with the higher remainder wins.
 
-There are sites that describe strategies for dividing tiles into pairs in detail. If you are interested, you can find them yourself. 
+When calculating totals, the tiles [4:2] and [2:1] may be counted as either 6 or 3 points, at the player’s discretion.
 
-Finding an opportunity to play Pai Gow is not difficult, you don't even need to go to a casino. There are online games, there are games for smartphones. Just search for Pai Gow. 
+If both groups have the same remainder, then the highest-ranking tile in each group is compared. The standard tile hierarchy (as in Tien Gow) is used, with Civil tiles ranking above Military ones. The highest tile is double-six, and the lowest is [2:1].
 
-There is also a "home" or rather a "family" version of Pai Gow. In it, each player is dealt two tiles and then they compare who has the best hand. This game is just about luck. It is sometimes played with children to have fun, or to distribute candy during some special occasions. 
+If the highest tiles are also identical, the result is a technical tie — which in practice means a win for the banker.
+
+Importantly, in this comparison only the higher tile of each group matters. The lower tile plays no role. For example, the groups [6:5][5:1] and [6:5][4:2] are considered equal: both total 7 (modulo ten), and their highest tile is [6:5]. The fact that [5:1] ranks higher than [4:2] is irrelevant. This is a technical tie and therefore a banker’s win.
+
+## Additional information
+
+There are many detailed guides online explaining optimal strategies for dividing tiles into groups. If you are interested, they are easy to find.
+
+It is also easy to find opportunities to play Pai Gow - not only in casinos, but also online or through smartphone apps. Simply search for "Pai Gow".
+
+There is also a simplified "home" or "family" version of Pai Gow. In this variant, each player receives two tiles and compares hands directly. This version is purely a game of luck and is sometimes played casually with children, for example to distribute candy during celebrations.
 
 ## Sources 
 
@@ -37,7 +66,7 @@ There is also a "home" or rather a "family" version of Pai Gow. In it, each play
 
 [Pai Gow on Pagat](https://www.pagat.com/domino/partition/paigow.html) 
 
-A search for Pai Gow returns many results because the game is famous. But please do not confuse it with the Pai Gow Poker, which is a card game. 
+Since Pai Gow is very well known, a search will produce many results. Just be careful not to confuse it with Pai Gow Poker, which is a card game.
 
 ---  
 

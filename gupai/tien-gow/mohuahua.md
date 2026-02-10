@@ -1,53 +1,108 @@
 # Mo Hua Hua
 
-Mo Hua Hua (抹花花, “wipe flowers”) is a three-player game played with a set of 48 paper dominoes. Mo Hua Hua rules can help you better understand the game of the Folk Tien Gow. To begin with, you need to make sure that you know the general principles of the game Tien Gow.
+Mo Hua Hua (抹花花, “Wipe the Flowers”) is a three-player game played with a set of 48 paper dominoes. Its rules help clarify certain aspects of Folk Tien Gow, so before reading further, it is useful to understand the general principles of Tien Gow.
 
 ![](/docs/assets/images/gupai/mohuahua.jpg)
 _Paper dominoes_
 
-There are also other games with paper dominoes, but usually there are already 84 or even 105 cards and they have four or five of each domino, that is, there is no asymmetry between civilians and military and it is more difficult to adjust them to a set of Chinese dominoes . That’s the reason I chose Mo Hua Hua among other games.
+There are other games played with paper dominoes, but those usually use 84 or even 105 cards, with four or five copies of each tile. In such decks, there is no asymmetry between civilian and military tiles, and they are therefore more difficult to adapt to a standard Chinese domino set.
+
+For this reason, Mo Hua Hua is particularly interesting - it can be reproduced using physical dominoes.
 
 ## Tiles and ranking
 
-Although a special set of paper dominoes is used for Mo Hua Hua, it can also be played with two sets of Chinese dominoes. The Mo Hua Hua game set has only 48 tiles. To do this, you need to take out the [3:1] tiles, and take out all military tiles except [6:3], [6:2], [4:2] and [2:1]. Technically that’s a double shortened deck.
+Although Mo Hua Hua uses a special 48-card paper deck, it can also be played with two standard 32-tile Chinese domino sets (a double set).
 
-Unlike in Tien Gow, in Mo Hua Hua, civilian and military tiles form the same suit and can beat each other, with civilians being stronger than military.
+To construct the deck:
+
+- Remove all [3:1] tiles.
+- Remove all military tiles **except**:
+
+   - [6:3]
+   - [6:2]
+   - [4:2]
+   - [2:1]
+
+This results in a shortened double deck of 48 tiles.
+
+Unlike in Tien Gow, civilian and military tiles belong to the same suit and can beat one another. Civilian tiles are stronger than military tiles.
 
 ## Combinations
 
-Combinations in Mo Hua Hua can have two to four tiles and are similar to combinations in Folk Tien Gow. Supreme pair – [4:2][2:1] – beats nothing but cannot be beaten. Other combinations are as follows in descending order: Heaven ([6:6][6:6]) – Bull Pair ([6:3][6:2]) – Pendulum ([6:6][5:5][4 :4]) – Fish ([1:1][2:2][3:3]) – followed by all other combinations of civilian tiles in the usual order for Tien Gow.
+Combinations in Mo Hua Hua may contain **two to four tiles** and resemble those found in Folk Tien Gow.
 
-Don’t be surprised that some combinations have two and some have three tiles. That’s fine. For example, [4:4][4:4][4:4] is a combination of three tiles that can be beaten, for example by [1:1][2:2][3:3], which in turn can be beaten by [6:3][6:2][6:2]. The number of tiles can be up to four. If it is a “Supreme” or “Bull” pair, Pendulum, or Fish combination, all the necessary tiles must be present for it to be a valid combination. That is, [6:3][6:3] is not a bull pair. But there can be more tiles in the combination – up to four, for example [1:1][2:2][3:3][3:3]. Moreover, [1:1][2:2][3:3][3:3] is greater than [1:1][1:1][2:2][3:3], because in such cases, the number of spots plays a role. The sources mention combinations of a larger number of tiles, but, unfortunately, it’s not exacrly clear how they look like. Therefore, we will assume that the largest combination is four tiles. Moreover, there are many variants of this game. This could be one of them.
+Supreme pair – [4:2][2:1] – beats nothing but cannot be beaten. 
+
+Other combinations are as follows in descending order: 
+
+- Heaven ([6:6][6:6]) 
+- Bull Pair ([6:3][6:2]) 
+- Pendulum ([6:6][5:5][4 :4]) 
+- Fish ([1:1][2:2][3:3]) 
+- followed by all other combinations of civilian tiles in the usual order for Tien Gow (Earth - Man etc.)
+
+Don't be surprised that some combinations have two and some have three tiles. That’s normal for Mo Hua Hua. 
+
+For example, [4:4][4:4][4:4] is a combination of three tiles that can be beaten, for example by [1:1][2:2][3:3], which in turn can be beaten by [6:3][6:2][6:2]. The number of tiles can be up to four. 
+
+If it is a “Supreme” or “Bull” pair, Pendulum, or Fish combination, all the necessary tiles must be present for it to be a valid combination. For example, [6:3][6:3] is not a bull pair (it does not contain [6:2]). 
+
+But there can be more tiles in the combination – up to four, for example [1:1][2:2][3:3][3:3] is a valid Fish combination. 
+
+Moreover, [1:1][2:2][3:3][3:3] is greater than [1:1][1:1][2:2][3:3], because in such cases, the number of spots plays a role. 
+
+Some sources mention even larger combinations, but their exact structure is unclear. For practical purposes, we may assume that four tiles is the maximum combination size. Moreover, there are many variants of this game. This could be one of them.
 
 ## Deal and bidding
 
-Each player gets 16 tiles.
+Each player receives 16 tiles.
 
-After a deal, one round of bidding is conducted. Bidding is simply “play” or “pass”. If all players have passed, the next player in the counter-clockwise direction becomes a dealer (and gets the right of the first move). If at least someone says “I’m playing”, then the game continues. There are no penalties or bonuses for passing or playing later on.
+After the deal, there is a single round of bidding:
 
-## The progress of the game
+- Each player says either “play” or “pass.”
+- If all three players pass, the deal is abandoned and the dealer position moves counter-clockwise.
+- If at least one player declares “play,” the hand proceeds.
 
-At the beginning of the entire game, the dealer (and the right of the first move) is determined by lot. Then it goes counter-clockwise.
+There are no bonuses or penalties connected to passing or playing later.
 
-It is played in the usual way – you have to either beat the trick or put the tiles face down. A round is played up to 16 tricks.
+## Gameplay
 
-## Calculation
+At the start of the session, the first dealer (remember - dealer moves first) is chosen by lot. Thereafter, the deal rotates counter-clockwise.
 
-In the end of the game if a player has collected 6 to 10 tricks, other players pay him one chip each. If a player got 11 tricks, then he receives four chips from each player, plus an additional chip for each trick after 11. That is, if the player took 13 tricks, he will receive 6 chips from each player. Please note that two players can receive 6 tricks each. In this case, there are two winners, and one loser.
+The game proceeds in normal trick-taking fashion:
 
-In addition to settlement at the end of the game, players also receive chips during the game under certain conditions. Specifically, if they take a trick with the Supreme or Bull pair, the rest of the players give him a chip. If the trick was taken with four identical tiles, then the player receives two chips from the rest of the players.
+- A player must either beat the current trick or play face-down.
+- The hand consists of 16 tricks.
 
-## Conclusions
+## Scoring
 
-Mo Hua Hua game rules allow us making certain conclusions for the Folk Tien Gow. These are only my guesses though.
+### End-of-Hand Settlement
 
-First, if a game is played with a set of all civilians plus [4:2][2:1], the civilian tiles can beat the military tiles if they were placed alone. This makes sense because otherwise the [4:2] tile would be invincible in a reduced deck game, as opposed to a full deck game where it can be beaten by all higher military tiles.
+- If a player wins 6–10 tricks, each opponent pays him 1 chip.
+- If a player wins 11 tricks, he receives 4 chips from each opponent, plus 1 additional chip for each trick beyond 11.
 
-Second, bidding in Folk Tien Gow is probably just as simple. Players simply decide if they are willing to play that deal or if they don’t want to waste their time. Please note that the dealer role moves to the next player after everyone passes.
+Example: if the player took 13 tricks, he will receive 6 chips from each player. 
+
+Please note: It is possible for **two players to win simultaneously**. For example, if two players each take six tricks, they are both winners and the third player is the sole loser.
+
+### In-Game Bonuses
+
+Players may also receive chips during play:
+
+- Winning a trick with the Supreme Pair or Bull Pair → 1 chip from each opponent.
+- Winning a trick with four identical tiles → 2 chips from each opponent.
+
+## Conclusions for Folk Tien Gow
+
+Mo Hua Hua suggests several possible interpretations for Folk Tien Gow (though these remain hypotheses).
+
+First, in a reduced deck containing all civilians plus [4:2][2:1], **civilian may beat military** tiles when played alone.  
+
+Second, Folk Tien Gow bidding is likely straightforward: players merely decide whether they wish to play the deal. If all pass, the dealer moved on.
 
 Third, it is possible that there is a similar calculation in the Folk Tien Gow, as in Mo Hua Hua. For example, it can be 1 point for 3-4 tricks; 3 points for 5 tricks + 1 point for each subsequent one. This roughly corresponds to the Chinese description, which mentions that there can be two winners.
 
-The next game is Bagchen. Unlike Mo Hua Hua, Bagchen rules are well understood and described. This game is also the most complicated version of Tien Gow.
+The next game is Bagchen. Unlike Mo Hua Hua, its rules are well documented and clearly understood. It is also the most complex known variant of Tien Gow.
 
 ---
 

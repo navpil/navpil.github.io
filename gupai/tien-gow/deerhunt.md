@@ -1,30 +1,38 @@
 # Deer Hunt
 
-Deer Hunt (鹿狩り) is a trick taking game from Japanese sources.
+Deer Hunt (鹿狩り) is a trick-taking game described in Japanese sources.
 
-This game is more like the American [Texas 42](https://www.pagat.com/domino/trick/42.html) game than the Chinese Tien Gow, even though it is played with Chinese Dominoes. 
-The goal of the game is to collect as many red pips ("deers") as possible by taking tricks. 
-Let me remind you that all fours and ones are red pips, but doubles [6:6] have six red pips too. 
-In total there are 64 red pips in the deck.
+Although it is played with Chinese dominoes, it is closer in spirit to the American game [Texas 42](https://www.pagat.com/domino/trick/42.html) than to Chinese Tien Gow. The goal is to capture as many red pips (“deer”) as possible by winning tricks.
 
-"Deer Hunt" is played in pairs, which is unusual for Chinese Dominoes.
+All 1s and 4s are red pips, and the double [6:6] also contains six red pips. In total, the full set contains 64 red pips.
 
-The seniority of the tiles has nothing to do with the symbolism of the GuPai. 
+Unlike most Chinese domino games, Deer Hunt is played in partnerships.
+
+## Tile Ranking
+
+The ranking of tiles does not follow traditional GuPai symbolism.
+
+The order from highest to lowest is purely numerical:
+
 The strongest tile is [6:6], followed by [6:5], [6:4], [6:3], [6:2], [6:1], [5:5], [5:4] and so on down to [1:1].
+
+## Gameplay
 
 Each player is dealt 8 tiles.
 
-The game is played as a usual trick taking game. 
-The first player places a tile and each subsequent player places his tile. 
-After four tiles are put, whoever placed the highest tile takes all four tiles for himself. 
-If two identical tiles compete for a trick, the player who placed the tile first wins. 
-Whoever took the trick leads to the next one.
+The game is played as a standard trick-taking game:
 
-After all eight tricks have been played, players count the number of red pips taken. 
-The pair with fewer red pips pays the difference to their opponents.
+- The first player leads a tile.
+- Each of the other players plays one tile in turn.
+- After four tiles have been played, the highest tile wins the trick.
+- If two identical tiles compete for the trick, the one played earlier wins.
+- The winner of the trick leads to the next trick.
 
-The player right to the previous dealer, becomes a dealer for the next game and leads to the first trick. 
-Usually four or eight deals are played.
+After all eight tricks have been played, players count the red pips they have captured.
+
+The partnership with fewer red pips pays the difference to the opponents.
+
+The player to the right of the previous dealer becomes the next dealer and also leads the first trick. Usually, four or eight deals are played in a session.
 
 ## Variants
 
@@ -36,32 +44,34 @@ A double [6:6] is then added to both piles.
 Both piles are separately shuffled. 
 One pair takes tiles from one pile, and another from the other. 
 Thus, each pair receives a double [6:6]. 
-Sometimes the same manipulations are done with tiles [6:5], [6:4] and [4:4] - to make sure that all four tiles are present in both pairs.
+Sometimes the same procedure applies to [6:5], [6:4] and [4:4], ensuring that all four tiles are present in both pairs.
 
-This is the only option that is mentioned on all resources. 
-The following variants are mentioned in only one place.
+This is the only variant consistently mentioned in all sources. The following variants are reported only in single sources.
 
 ### The deer escaped
 
-If all the tiles in the trick have red spots, then this trick does not go to anyone - "the deer escaped".
+If all the tiles in the trick have red pips, then this trick does not go to anyone - "the deer escaped".
 
 ### Tien Gow style
 
-The seniority of the tiles is calculated according to the principle of Tien Gow and one can lead not only with one tile, but also with combinations. 
-Then the game becomes technically similar to Tien Gow, with the difference that it is played in pairs and the calculation of points is different.
+Tile ranking follows Tien Gow principles, and players may lead not only single tiles but also combinations.
+
+In this version, the mechanics resemble Tien Gow, but the game is still played in partnerships and scoring is based on red pips rather than trick counts.
 
 ### Texas 42 stye
 
 Use the same principle as in "Texas 42". 
-Each tile laid out has a suit and a rank. 
+Each tile has a suit and a rank. 
 The larger half of the first tile in a trick determines the suit of the trick, the second half is the rank. 
 In order to take a trick, you should follow the suit and put a higher rank.
 Otherwise, following the suit is optional.
+
 For example, if a player lead to the trick with [5:4], then 5 is the suit and 4 is the rank. 
 In order to take a trick, you need to beat it with either [5:5] or [6:5] ([6:5] in this case is considered as a tile of suit 5, since it is not the first tile in the trick). 
 
-In this variant, the first tile played determines the trump suit, and from now on all tiles with this number are considered to belong to the trump suit. 
-That is, if the trump suit is 2 (for example, the first tile in the draw was [2:1] or [2:2]), then if the first tile to be placed in the trick is the [5:2] tile, it will be considered that it is a trump suit tile with rank 5.
+In this variant, the first tile played in a round determines the trump suit, and from now on all tiles with this number are considered to belong to the trump suit. 
+
+That is, if the trump suit is 2 (for example, the first tile in the draw was [2:1] or [2:2]), then if the first tile to be placed in the subsequent trick is the [5:2] tile, it will be considered that it is a trump suit tile with rank 5.
 
 Sources:
 
