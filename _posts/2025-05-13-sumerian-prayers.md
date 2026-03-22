@@ -7,6 +7,7 @@ tags:
 exts:
   - https://sumerua.wordpress.com/2025/05/20/sumerian-prayer/
   - https://medium.com/@navpil/sumerian-ordinary-prayers-721ce0846909
+  - https://drukarnia.com.ua/articles/yak-molilisya-shumeri-KeHcZ
 ---
 Незмінним атрибутом всіх релігій є молитва. Численні шумерські гімни богам виконувалися священниками в храмах, такі тексти, як "Людина та її бог" однозначно не були щоденною молитвою і радше схожа на літературний витвір. То ж як молилися звичайні шумери?
 

@@ -11,6 +11,7 @@ excerpt:
 exts:
  - https://sumerua.wordpress.com/2025/05/19/man-and-his-god/
  - https://medium.com/@navpil/man-and-his-god-cce194b1ef4e
+ - https://drukarnia.com.ua/articles/lyudina-ta-yiyi-bog-osobistii-bog-u-shumeriv-iQTDt
 ---
  > Особистий бог - людині пастир,  
   що шукає їй пасовисько.  

@@ -42,7 +42,7 @@ So in short Hus:
 - is played counterclockwise, 
 - uses relay sowing, 
 - forbids moving singletons, 
-- capture happens when a last seed falls into a non-empty hole and the opposing hole is not empty
+- capture happens when a last seed falls into a non-empty hole in the inner row and the opposing hole is not empty
 - seeds captured from both opponent holes - from inner and outer row if any seeds are there, 
 - captured seeds together with the seeds from the last hole are sown starting from the next hole - which also means that seeds are never removed from the game. 
 
@@ -161,7 +161,7 @@ Next come the rules which are specific for Bao la Kiswahili - the more complex B
 
 Game Bao la Kiswahili is played in two stages, and these two stages are, unsurprisingly, agriculture related. 
 These are planting (I won't use the "sowing" not to confuze it with the sowing mechanics of the mancala games) and harvest. They are called "namua" and "mtaji" in Swahili. 
-As names suggest, players plant their seeds during the first phase of the game - planting. The second stage - harvest - is played as described before. 
+As names suggest, players plant their seeds during the first phase of the game - planting. The second stage - harvest - is played as described above and starts after all the seeds were planted. 
 
 In order to be able to plant seeds, a player should have some spare ones. So the initial setup should not have all seeds on board. And that's exactly what happens. In the beginning players put 6 seeds into the fifth hole (counting from the left), 2 seeds into the sixth and 2 seeds into the seventh hole of their inner rows - that's the starting setup. Schematically it looks like this:
 
