@@ -3,6 +3,8 @@ source: medium
 tags:
  - ethics
 title: Краще бути нещиро добрим, ніж щиро поганим
+exts:
+  - https://medium.com/@navpil/unsincere-love-b94c1cb96462
 ---
 Почну з очевидного - краще бути добрим щиро. 
 Але що робити, якщо людина - грішна?
