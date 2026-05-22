@@ -68,5 +68,5 @@ exts:
 
 ---
 
-- [Корабаль, капітан та команда (англ. Вікіпедія)](https://en.wikipedia.org/wiki/Ship,_captain,_and_crew)
+- [Корабeль, капітан та команда (англ. Вікіпедія)](https://en.wikipedia.org/wiki/Ship,_captain,_and_crew)
 - [Опівночі (англ. Вікіпедія)](https://en.wikipedia.org/wiki/Midnight_(game))

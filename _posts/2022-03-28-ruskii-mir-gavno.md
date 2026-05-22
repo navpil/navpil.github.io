@@ -4,6 +4,8 @@ tags:
   - war
 language: ru
 title: Русский мир
+exts:
+  - https://medium.com/@navpil/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B8%D1%80-c24b98efaa15
 ---
 
 Что такое русский мир и почему украинцы его не хотят.

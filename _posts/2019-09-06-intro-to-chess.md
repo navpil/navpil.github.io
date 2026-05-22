@@ -4,8 +4,10 @@ title: "Коротка історія шахів і їх різновиди"
 tags:
   - games
   - chess
+exts:
+  - https://navpil.wordpress.com/2024/10/28/chess-history-variants/
+  - https://www.youtube.com/watch?v=ZyShUbWtWY4
 ---
-
 Шахи походять з Індії.
 Про це знає більшість.
 Чого більшість не знає, це те, що шахи в Індії достатньо відрізнялися від сучасних європейських шахів.

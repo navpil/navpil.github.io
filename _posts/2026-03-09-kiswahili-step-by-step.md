@@ -4,6 +4,7 @@ title: "Learn how to play Bao la Kiswahili step-by-step. An evolutionary approac
 source: medium
 tags:
 - games
+language: en
 exts:
 - https://medium.com/@navpil/learn-how-to-play-bao-la-kiswahili-step-by-step-an-evolutionary-approach-7f1131bc3e0c
 ---

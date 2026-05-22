@@ -5,6 +5,8 @@ tags:
 language: en
 title: Prepare for a nuclear war (unless Ukraine wins)
 excerpt: <p>Budapest memorandum, NPT and why succumbing to Russian threats makes Nuclear War inevitable</p>
+exts:
+  - https://medium.com/@navpil/prepare-for-a-nuclear-war-unless-ukraine-wins-67bd5376688c
 ---
 
 Since this is an important topic, I will not ask you to wait till the end of the article.
