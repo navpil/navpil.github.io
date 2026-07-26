@@ -1,0 +1,37 @@
+<!-- https://gist.github.com/SaikrishnaRepalle/fcac27977ce25143c449d94e1b38ee72/ -->
+<!-- View in *Webkit browser - Glitchy in Firefox--
+Some Background Info:
+ The Lorenz Attractor is a system
+ of differential equations derived from simple models of weather phenomena. The beauty of it lies both in the mathematics and in the visualization of the model. Mathematically, the Lorenz Attractor is simple yet results in chaotic and emergent behavior. Visually, when the values given by the equations are plotted in two or three dimensional space, the behavior is reminiscent of an orbit of an object around two central origins; when looked at from the appropriate dimension the pattern appears similar to a figure eight !-->
+<body>
+
+<!--    var dt = 0.005, // (δτ) Represents time. Draw curve - higher the value, straighter the lines
+p = 28, // (ρ) point of origin
+w = 10,  // (σ)width of main element - higher the number, narrower the width
+beta = 8 / 3,  // (β) points of equilibrium - this applied value results in the infinity symbol. higher values will break the equilibrium, causing the ends to separate and spread. When ρ = 28, σ = 10, and β = 8/3, the Lorenz system has chaotic solutions; it is this set of chaotic solutions that make up the Lorenz Attractor (the infinity symbol).  If ρ < 1 then there is only one equilibrium point, which is at the origin. This point corresponds to no convection. All orbits converge to the origin when ρ  < 1.  The 'fork' occurs at ρ = 1, or ρ > 1 Try it.
+
+//Below x, y, and z values are the components of a given three dimensional location in space
+x0 = .5,   //change in x,y, or z with respect to time
+y0 = .5,   //"                                       "
+z0 = 10;   //"-->
+
+<div id="configs">
+    <label for="dt">DT: </label><input id="dt" type="text" value="0.005"><br><br>
+    <label for="point-of-origin">P: </label><input id="point-of-origin" type="text" value="28"><br>
+    <label for="width-of-element">W: </label><input id="width-of-element" type="text" value="10"><br>
+    <label for="beta">Beta: </label><input id="beta" type="text" value="8/3"><br><br>
+    <label for="x0">x0: </label><input id="x0" type="text" value="0.5"><br>
+    <label for="y0">y0: </label><input id="y0" type="text" value="0.5"><br>
+    <label for="z0">z0: </label><input id="z0" type="text" value="10"><br>
+    <input type="button" value="Start" onclick="start()"><br>
+</div>
+
+<div id="lorenz" style="position: relative; float: left;"></div>
+<div id="graphs" style="position: relative; float: right;width:1000px"></div>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="script.js"></script>
+<script>
+    start();
+</script>
+
+</body>

@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,700);
+body {
+  background: #000;
+  height:100vh;
+  font-family: 'Ubuntu', sans-serif;
+}
+.intro{
+  text-align:center;
+	background:rgba(155, 89, 182,0.7);
+  top:0;
+	padding:1em;
+}
+h1{
+	color:#fff;
+	font-size:1.5em;
+}
+h3{
+  font-size:1em;
+  color:#fff;
+}
